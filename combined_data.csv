@@ -1,0 +1,1001 @@
+CustomerID,Name,Age,Address,City,State,ZipCode,VerizonPlan,AmazonPrimeStatus,DeviceMake,DeviceModel,AcceptedOffer,VerizonDataUsageGB,AmazonRegularPurchases,AmazonOfferPurchases,PeakStreamingHour,PeakStreamingDay,AmazonPrimeVideoHours
+221958,Bradley Olson,34,8244 Jamie Gateway Suite 070,Miami,TX,67881,Basic,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",46.69,15,3,12:17,Saturday,28.99
+771155,Victoria Smith,22,2566 David Squares Suite 226,Houston,FL,16966,Premium,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",21.66,2,2,21:06,Friday,35.14
+231932,Andrea Serrano,46,4823 Lindsay Lane,Boston,CA,60242,Basic,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",1.01,4,3,02:43,Wednesday,17.93
+465838,Raymond Powell,21,90358 Jones Mountain,Houston,OR,81098,Basic,Yes,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",27.1,14,5,20:17,Monday,41.51
+359178,Stephanie Moody,27,7171 Danielle Ports,Cincinnati,TX,21301,Basic,Yes,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",45.76,4,8,09:16,Wednesday,48.97
+744167,Andrea Walters,34,49361 Melissa Crest,Washington,MA,32016,Basic,Yes,Apple,P40 Pro,Buy a tablet: 30% off on us,35.26,14,0,18:07,Saturday,17.82
+210268,Kathryn Santana,27,5392 Martinez Ford Suite 675,Columbus,TN,17786,Basic,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",35.27,10,1,14:15,Sunday,26.81
+832180,Sophia Ward,34,6759 Thompson Ridge,Detroit,FL,58165,Basic,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",27.89,17,9,07:06,Tuesday,22.74
+154886,Ralph Cohen,37,38330 Andrea Greens Apt. 690,Washington,CO,63373,Premium,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",27.7,7,9,01:52,Sunday,24.51
+237337,Frederick King,41,7496 Powell Village,San Antonio,TX,82582,Basic,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",3.2,10,2,16:27,Thursday,34.67
+621430,Nancy Abbott,22,3949 Herman Views Suite 262,Detroit,MN,26531,Standard,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",36.79,8,3,06:05,Tuesday,16.2
+187498,Samantha Hudson,51,7500 Todd Crossing Apt. 180,New York,NV,59696,Basic,No,OnePlus,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",30.27,1,6,00:20,Sunday,45.08
+999159,Theodore Hoover,23,7252 Jeremy Terrace Apt. 440,Detroit,TX,29713,Basic,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",5.25,9,6,19:25,Tuesday,10.84
+275203,Timothy Ward,19,0679 Jason Forest Apt. 821,Cleveland,IL,70899,Premium,Yes,OnePlus,iPhone 13,Buy a tablet: 30% off on us,21.68,17,2,02:37,Sunday,14.38
+291335,Cameron Sanchez,30,1278 Juan Key,Tampa,GA,42898,Premium,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",26.19,15,5,00:33,Thursday,35.37
+378167,Brian Decker,60,771 Griffith Bridge Apt. 621,Cincinnati,TX,61917,Standard,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",38.54,19,1,10:36,Monday,42.27
+141090,Madison Patrick,60,346 Erin Underpass,Boston,MO,56254,Standard,Yes,Apple,Pixel 6,"First purchase: Buy two phones, one on us",22.37,4,7,15:21,Saturday,41.14
+429365,Chelsey Williams,65,885 Collins Loaf,Boston,OR,78519,Premium,No,Huawei,OnePlus 9,Buy a tablet: 30% off on us,9.0,11,4,16:23,Thursday,7.08
+164820,Anthony Miller,28,20756 Collins Flats Apt. 978,Indianapolis,IN,10739,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",35.52,16,4,22:00,Monday,0.28
+887201,Melissa Moreno,68,49489 Susan Curve Apt. 044,Denver,NV,82979,Basic,No,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,5.3,8,8,09:38,Sunday,24.77
+421879,Shelby Thomas,64,737 Scott Bridge,Nashville,CA,65419,Premium,No,Google,iPhone 13,Buy a tablet: 30% off on us,8.69,13,2,17:08,Wednesday,2.01
+818315,Carol Perkins,40,33968 Miller Fords Apt. 799,Columbus,WA,47157,Standard,Yes,Google,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",34.09,19,1,04:45,Thursday,2.42
+427069,Anthony Ball,33,495 Stewart Forks Suite 083,Houston,WA,70277,Basic,Yes,Samsung,iPhone 13,Buy a tablet: 30% off on us,43.81,9,3,08:05,Sunday,23.33
+876997,Daniel Castro,48,65923 Kaylee Pines Suite 939,Cincinnati,MO,15358,Standard,No,Samsung,Galaxy S21,20% off Amazon Prime subscription,27.78,6,0,08:17,Thursday,28.15
+299041,Alexandra Yates,28,862 Hansen Mission Apt. 567,Chicago,NY,78823,Basic,No,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",14.41,11,3,14:18,Saturday,23.06
+891743,Tina Fowler,33,588 Espinoza Overpass,Miami,TX,59235,Premium,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",29.76,3,5,19:05,Friday,16.36
+203355,Christina Vargas,25,74898 Harris Spring Suite 249,Nashville,TX,42771,Standard,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",4.89,8,8,22:50,Sunday,12.87
+335796,Anna Miller,21,15353 Clifford Manors Suite 923,Columbus,CA,89952,Basic,No,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",15.4,4,0,08:26,Monday,8.54
+314176,Christina Gallegos,57,617 James Corner,San Francisco,TX,6856,Basic,No,Google,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,48.77,7,5,21:39,Tuesday,34.5
+284779,Benjamin Harvey,21,031 Thomas Shoals Apt. 686,Nashville,DC,51949,Premium,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,46.01,0,2,00:59,Thursday,15.21
+447449,Renee Dodson,42,111 Chapman Run,Fort Worth,AZ,32000,Premium,No,Samsung,Galaxy S21,Buy a tablet: 30% off on us,34.76,5,1,12:06,Saturday,49.44
+521909,Thomas Nelson,20,331 Eric Prairie Apt. 756,New York,CA,60415,Premium,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",8.34,15,0,09:09,Wednesday,6.01
+358795,Roger Smith,49,1861 Smith Haven Apt. 959,San Diego,MO,76213,Standard,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",37.13,3,6,19:25,Sunday,32.11
+586232,Timothy Fischer,20,616 Lane Forks Suite 352,Denver,FL,90543,Basic,Yes,Google,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,38.89,9,7,14:13,Wednesday,8.96
+600186,Ian Scott,44,207 Bradley Pines Suite 802,Denver,TN,39693,Premium,No,OnePlus,iPhone 13,Buy a tablet: 30% off on us,24.33,19,1,18:12,Saturday,10.14
+256730,Tammy James,46,71056 Amanda Common,Las Vegas,FL,27199,Standard,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",2.43,18,4,15:01,Monday,5.97
+970910,Kimberly Mckee,49,75167 Hannah Causeway Suite 862,Fort Worth,TX,58256,Standard,Yes,OnePlus,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,44.27,18,7,21:48,Monday,39.06
+484681,Allen Wright,67,84107 Caitlin Harbor,Cleveland,MO,66200,Standard,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",8.46,19,4,16:36,Sunday,11.15
+249503,Aaron Spears,68,7642 Thomas Forges,Minneapolis,CA,82941,Premium,No,Samsung,Galaxy S21,20% off Amazon Prime subscription,28.61,16,2,05:12,Monday,7.53
+754811,Sarah Flores,36,77806 Bowen Falls Suite 974,Cleveland,CA,1919,Premium,No,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",16.89,0,7,22:40,Thursday,19.84
+627035,Ronald Olsen,38,49615 Kyle Loop Suite 366,Los Angeles,MA,95035,Basic,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",35.56,19,3,19:47,Thursday,27.71
+748143,Jessica Booker,22,861 Diane Burgs,Indianapolis,AZ,36889,Basic,Yes,Samsung,P40 Pro,Buy a tablet: 30% off on us,18.55,16,9,08:42,Thursday,9.0
+552366,Jonathan Calhoun,35,5060 Cynthia Knolls Apt. 715,Los Angeles,FL,60873,Premium,No,Huawei,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",25.25,3,2,17:57,Tuesday,40.28
+165725,Joshua Zamora,45,237 Barber Passage Apt. 179,Nashville,OR,927,Standard,Yes,Apple,Galaxy S21,Buy a tablet: 30% off on us,25.68,18,0,00:28,Monday,47.91
+229981,Allison Gonzalez,59,6253 Thomas Camp,Houston,TN,91853,Standard,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",3.07,6,6,16:36,Wednesday,15.09
+184654,Courtney Dominguez,39,92663 Kyle Union,Washington,IL,88382,Standard,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,38.57,8,5,20:19,Sunday,45.2
+691723,Kenneth Hall,38,595 Jones Mission,Chicago,CA,94848,Basic,Yes,OnePlus,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,8.53,10,3,20:32,Saturday,41.31
+419030,Amanda Garcia,23,55215 Garcia Ville,Charlotte,OH,29689,Standard,Yes,Samsung,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,35.03,5,7,08:42,Thursday,27.58
+428947,Heather Hayes,18,9389 Christian Oval,Austin,MO,27210,Basic,No,Google,OnePlus 9,Buy a tablet: 30% off on us,44.14,12,2,22:23,Friday,13.76
+655839,Nicole Keith,22,793 Mcdonald Stream Apt. 456,San Francisco,MI,74363,Basic,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",6.4,19,6,12:35,Thursday,22.32
+373538,Peggy Barry,58,96970 Quinn Terrace,Denver,IN,75040,Standard,No,Google,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",0.72,13,2,20:10,Sunday,28.26
+431236,Linda Evans,29,530 Brian Trail Apt. 246,Minneapolis,CA,48499,Standard,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,42.5,15,7,14:49,Sunday,15.59
+628178,Arthur Bennett,43,52057 Mendoza Canyon Suite 146,Nashville,AZ,43492,Premium,Yes,Huawei,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,30.18,5,2,15:26,Monday,6.8
+665894,Mrs. Ashley Flores,63,8098 White Isle Apt. 310,Nashville,TN,23349,Premium,No,OnePlus,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",29.28,10,7,10:49,Thursday,13.59
+589492,Becky Chandler,51,8083 Joseph Terrace,Fort Worth,MI,67954,Standard,No,Apple,P40 Pro,"First purchase: Buy two phones, one on us",10.49,12,3,20:57,Tuesday,34.68
+356840,Darrell Mcdaniel,66,17433 Rita Lodge Suite 258,Miami,AZ,85694,Basic,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",13.8,4,9,18:32,Friday,11.92
+573254,Charles Coleman,31,41506 Derek Well,Los Angeles,OR,3790,Basic,Yes,Apple,Pixel 6,"First purchase: Buy two phones, one on us",25.56,11,5,01:09,Saturday,33.07
+449457,William Patton,43,835 Shannon Fall Suite 310,Denver,MN,25855,Basic,Yes,Apple,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",48.49,17,4,03:14,Tuesday,38.1
+765987,Michael Price,62,87700 Sandoval Crescent,Indianapolis,CA,98177,Basic,Yes,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",5.3,4,8,16:38,Thursday,31.56
+370936,Jeremy Monroe,44,8044 Wheeler Crescent Suite 601,Miami,OR,17504,Basic,Yes,Google,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,19.04,17,5,23:02,Sunday,2.7
+339931,Melanie Monroe,26,093 Dale Creek Apt. 980,Detroit,OH,61662,Premium,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",42.85,17,5,06:06,Thursday,24.77
+339629,Diane Cummings,43,1985 Schmidt Park Apt. 033,Fort Worth,GA,36074,Standard,No,Huawei,P40 Pro,20% off Amazon Prime subscription,24.35,19,2,09:56,Monday,4.48
+305041,Allison Hunt,64,6850 Molly Dale,Cincinnati,MI,24045,Premium,Yes,Apple,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,2.25,3,6,09:40,Tuesday,8.45
+798361,Ashley Patel,39,618 Hill Centers,Chicago,CA,30316,Basic,Yes,Huawei,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,17.77,13,5,09:06,Wednesday,43.63
+831912,Joshua Garner,64,717 Stephen Fords,Washington,CO,10588,Basic,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",28.39,4,7,01:26,Saturday,13.18
+517113,Michael Wilson,47,6077 Samantha Trail,Portland,GA,42972,Basic,Yes,Apple,Pixel 6,"First purchase: Buy two phones, one on us",37.71,2,2,06:15,Thursday,47.46
+168148,Renee Barnett,60,416 Nelson Inlet Suite 982,Columbus,TX,59426,Basic,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",11.49,15,4,18:12,Friday,48.3
+877089,Dorothy Bradley,65,609 Fernandez Spurs,Tampa,MN,69926,Standard,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",43.18,18,9,19:13,Saturday,38.64
+748531,Jennifer Griffin,34,07295 Nicholson Squares,Kansas City,OH,24846,Basic,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",5.41,8,5,12:30,Thursday,7.75
+351995,Mary Little,43,47742 Thomas Vista,Nashville,FL,74451,Standard,Yes,Samsung,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",3.68,5,3,01:55,Monday,2.85
+778843,Kathryn Hogan,53,37971 Pope Centers Suite 166,Atlanta,CA,90631,Basic,Yes,Apple,iPhone 13,Buy a tablet: 30% off on us,19.89,12,5,23:01,Sunday,29.56
+672843,Michael Dean,18,142 Faulkner Roads Apt. 628,Denver,AZ,88039,Standard,No,Google,P40 Pro,Buy a tablet: 30% off on us,16.39,2,8,19:47,Monday,44.54
+356508,Jennifer Yates,25,547 Audrey Throughway Apt. 777,Seattle,NY,18018,Premium,No,Google,Pixel 6,20% off Amazon Prime subscription,3.47,7,4,11:20,Sunday,34.8
+903591,Barry Mason,66,6798 Vaughan Parks Apt. 135,Phoenix,NC,35066,Basic,No,Huawei,Galaxy S21,20% off Amazon Prime subscription,15.86,9,8,00:03,Tuesday,44.88
+996942,Tyler Martin,52,7796 Justin Streets,Cincinnati,GA,2960,Standard,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",43.9,16,1,17:34,Sunday,28.62
+206530,Elizabeth Pollard,69,080 Amanda Manor Apt. 101,Miami,OH,63221,Premium,No,Google,P40 Pro,Buy a tablet: 30% off on us,8.35,15,6,03:18,Thursday,21.15
+704365,Patricia Daniels,32,62208 Dana Haven Apt. 791,San Diego,MA,88167,Basic,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",39.58,16,0,17:45,Tuesday,15.78
+922352,Richard Brown,64,878 Russell Extension,Las Vegas,NC,18394,Basic,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,39.59,3,3,11:48,Monday,11.36
+560337,Erin Alvarez,39,34445 Brandon Island Apt. 365,Orlando,GA,13158,Basic,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",4.9,7,4,03:01,Friday,32.36
+824839,James Dixon,31,82297 Parker Spring,Phoenix,GA,22880,Standard,Yes,OnePlus,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,23.53,19,5,19:43,Sunday,2.03
+905889,Tiffany Jones,43,221 Sanders Way Apt. 737,Chicago,MA,61342,Standard,Yes,Samsung,OnePlus 9,"Buy one accessory, get another 50% off",43.76,17,5,18:06,Tuesday,7.31
+559773,Leslie Rose,45,6640 Taylor Drives,Cincinnati,AZ,83665,Premium,Yes,OnePlus,iPhone 13,Free streaming service for 6 months with any Verizon plan,33.56,9,8,23:14,Friday,42.34
+308261,Christopher Meyers,40,549 Love Rest,New York,NC,64021,Standard,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",46.18,12,7,09:14,Friday,23.17
+864469,Melissa Webb,31,62828 Devin Spurs,Cleveland,TX,28842,Standard,Yes,Samsung,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,11.28,8,4,03:49,Tuesday,32.65
+441097,Makayla Alvarez,41,17592 Price Manors,Kansas City,DC,81744,Basic,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",2.73,17,6,09:08,Monday,32.92
+415139,Zachary Moore,19,2678 Tara Pass Suite 712,San Diego,IL,31012,Basic,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",49.06,0,8,12:57,Wednesday,27.24
+271829,Christina Carroll,62,81712 King Neck Suite 377,Denver,DC,32376,Basic,Yes,Google,P40 Pro,Double your data for 3 months at no extra cost,30.82,11,6,18:01,Tuesday,23.35
+371836,Kimberly Hamilton,43,6642 Roger Ranch Suite 750,Los Angeles,MO,27934,Basic,Yes,Huawei,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",6.12,14,8,08:54,Saturday,27.35
+538974,John Larson,31,0610 Cook Isle,Nashville,TX,16451,Basic,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",30.97,3,3,06:01,Saturday,1.87
+302283,Jay Williams,68,69191 Kenneth Course Suite 607,Chicago,GA,95069,Basic,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",15.15,5,2,07:02,Saturday,36.29
+296769,Matthew Fernandez Jr.,24,14466 Johnny Mount,Washington,FL,80807,Basic,Yes,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,4.36,7,2,08:50,Saturday,43.82
+661353,Catherine Fitzgerald,20,526 Miller Ports Suite 581,Orlando,MN,41399,Premium,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",45.72,8,8,17:42,Sunday,8.89
+323165,Daniel Wade,64,66492 Meyer Gardens,Tampa,GA,43787,Premium,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",2.29,2,0,16:35,Thursday,36.24
+723587,Summer Bishop,40,0088 Traci Club,Columbus,OH,97518,Premium,Yes,Huawei,iPhone 13,Buy a tablet: 30% off on us,7.53,13,7,19:13,Tuesday,46.06
+635822,Angela Smith,63,98465 Jason Skyway Apt. 633,Boston,OR,83442,Premium,No,Huawei,Galaxy S21,Buy a tablet: 30% off on us,25.92,0,2,11:27,Monday,43.88
+587879,Robert Burgess,60,080 Turner Passage Apt. 164,Denver,TX,64263,Basic,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",45.66,10,1,07:54,Wednesday,41.12
+664685,Bradley Robertson,64,712 Richard Fort Apt. 586,Columbus,CA,23242,Premium,No,OnePlus,P40 Pro,20% off Amazon Prime subscription,45.66,0,8,06:33,Monday,40.11
+882038,Jessica Barnett,62,52937 Angela Ford,Seattle,FL,14125,Basic,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",17.91,0,6,07:30,Sunday,34.96
+453531,Gina Foster,35,4974 Rodriguez Spur,Cincinnati,WA,90596,Premium,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,2.59,19,4,12:40,Monday,28.43
+363160,John Weber,55,707 Margaret Village Suite 702,Dallas,MO,41319,Standard,Yes,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,32.05,13,3,19:46,Sunday,18.34
+679879,John Greene,52,653 Joshua Walk,Kansas City,MA,34223,Premium,Yes,Apple,P40 Pro,Buy a tablet: 30% off on us,44.56,6,3,19:08,Friday,20.03
+320884,Larry Stephens,68,670 Amanda Harbor Suite 893,Indianapolis,TX,6037,Premium,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,46.48,14,7,16:52,Thursday,1.31
+123247,Charlene Moses,32,88121 Newton Stream,Orlando,IL,3282,Basic,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",38.75,12,7,20:50,Saturday,13.44
+124300,Marvin Cline,42,38217 Kimberly Circle,Washington,TX,48307,Premium,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",44.11,1,6,19:14,Wednesday,5.48
+567281,Kenneth Smith,54,1878 Oconnor Lock,Nashville,TN,3708,Standard,No,OnePlus,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",35.47,14,2,12:21,Friday,36.42
+707086,Mr. Franklin Cantrell,45,2547 Hardy Ports Suite 455,Atlanta,FL,77328,Basic,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",46.28,7,5,17:26,Friday,13.32
+633556,Paul Wilson,27,5707 Samuel Points Apt. 610,Dallas,TN,9765,Basic,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",4.18,11,6,12:54,Tuesday,10.95
+448951,Jimmy Richardson,56,841 Michael Ports Apt. 624,Denver,CA,79760,Premium,Yes,Apple,OnePlus 9,Buy a tablet: 30% off on us,44.24,7,3,15:00,Saturday,48.49
+374329,Leslie Dalton,34,53553 Martin Rapids,Cincinnati,TX,28846,Basic,No,OnePlus,P40 Pro,"Buy one accessory, get another 50% off",35.68,18,9,13:52,Monday,18.69
+819064,Erik Brown,56,8492 Ashley Route,Indianapolis,GA,16573,Basic,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",29.88,6,4,03:34,Friday,14.18
+842139,Debbie Miller,39,165 Macias Junctions Apt. 632,Boston,TX,26473,Basic,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",24.82,5,7,23:36,Friday,24.53
+532315,Samantha Stewart,43,691 Megan Stravenue,Miami,NC,38473,Basic,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",28.98,8,5,04:28,Sunday,28.49
+616588,Barbara Ross,61,58975 Young Haven Suite 027,San Francisco,DC,45683,Basic,No,Huawei,Galaxy S21,Bundle home internet with mobile for a 15% discount,43.84,16,9,10:27,Wednesday,32.22
+336584,Christopher Rodgers,42,03065 Debra Walk,Chicago,TX,57107,Basic,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",6.08,8,0,15:19,Sunday,49.26
+662332,Alicia Clark,34,81168 Jenna Prairie,Nashville,DC,18152,Standard,No,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",14.29,4,8,18:42,Tuesday,45.75
+937646,Christopher Wilkerson,30,836 Steven Pike Suite 969,Columbus,FL,47374,Premium,No,Samsung,Galaxy S21,20% off Amazon Prime subscription,38.88,17,8,08:35,Sunday,32.27
+476896,Laura Soto PhD,37,13473 Rodriguez Forge,Atlanta,TX,99598,Standard,No,OnePlus,iPhone 13,20% off Amazon Prime subscription,32.64,7,5,01:33,Thursday,46.7
+148984,Mallory Hodges,42,7923 Stephanie Summit,Tampa,TX,96791,Basic,No,Google,P40 Pro,Buy a tablet: 30% off on us,28.67,7,9,04:50,Wednesday,40.09
+402918,Angel Richardson,21,81021 Mary Coves,Kansas City,NY,96156,Basic,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",40.83,7,2,22:57,Friday,32.52
+364712,David Flores,27,00379 Hughes Valleys,Cleveland,CA,17713,Premium,No,Samsung,Galaxy S21,Buy a tablet: 30% off on us,25.32,8,5,11:22,Tuesday,40.87
+220151,Jocelyn Duffy,20,457 Daniels Inlet Apt. 959,Chicago,MO,43541,Standard,Yes,Samsung,Pixel 6,Get a $50 gift card with any new phone purchase,3.64,17,7,05:52,Sunday,1.11
+555808,Alexander Harper,58,768 Young Brook,Miami,WA,24918,Premium,Yes,Huawei,P40 Pro,Buy a tablet: 30% off on us,21.74,4,3,21:45,Sunday,18.36
+233767,Tommy Newton,62,94456 Derrick Road,Indianapolis,TN,9628,Standard,Yes,Samsung,Pixel 6,Buy a tablet: 30% off on us,3.11,14,2,13:42,Thursday,47.94
+748663,Ashley Sanchez,35,10634 Katelyn Forks,Denver,NY,32762,Basic,No,Samsung,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",32.87,1,3,22:56,Sunday,49.87
+803550,Keith Wilson,64,925 Lawrence Viaduct,Orlando,TX,12391,Premium,Yes,Google,P40 Pro,Buy a tablet: 30% off on us,32.84,14,8,10:23,Friday,6.73
+236330,Ray Hendricks,53,764 William Circle,Portland,MA,19628,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",47.92,19,7,06:59,Wednesday,24.29
+580754,Lisa Johnson,64,60128 Keith Run Suite 902,Indianapolis,OH,38494,Basic,No,Samsung,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",15.4,19,8,20:19,Sunday,45.08
+401648,Molly Gillespie,39,206 Matthew Gateway,San Francisco,MO,48507,Premium,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",19.62,4,8,02:09,Thursday,26.95
+788519,Eric Peters,51,22221 Melissa Tunnel Apt. 392,Washington,TX,38741,Standard,Yes,Huawei,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,15.47,0,1,01:21,Saturday,45.51
+113986,Roberto Solis,64,828 Reyes Ford Suite 275,Portland,GA,98113,Standard,No,OnePlus,P40 Pro,Buy a tablet: 30% off on us,5.27,19,9,14:55,Friday,15.08
+686146,Michael Hanna,25,6796 Eddie Court,Columbus,MO,39097,Standard,No,Huawei,Galaxy S21,Buy a tablet: 30% off on us,44.13,11,9,01:28,Monday,8.97
+229312,Steven Mcdaniel,57,94165 Angela Forks Apt. 547,Miami,TX,64751,Standard,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",6.53,17,4,14:54,Sunday,3.89
+112666,Meghan Spencer,66,2854 James Extensions,Houston,MN,44127,Basic,Yes,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",13.35,18,7,06:30,Saturday,16.58
+400804,Lisa Butler,61,0700 Olson Lane,Austin,CA,60699,Premium,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",30.98,15,2,10:32,Monday,32.6
+234633,Paige Perez,36,2597 Johnson Rapids,San Diego,TX,66652,Standard,No,Huawei,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",39.65,12,5,05:41,Wednesday,44.86
+388998,Paula Graham,59,998 Smith Spurs,Seattle,OH,42376,Basic,Yes,Google,P40 Pro,Buy a tablet: 30% off on us,8.01,2,9,15:47,Monday,10.07
+950937,Ann Morrison,58,3649 William Groves,Orlando,MI,23342,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",18.34,3,9,10:32,Sunday,32.07
+728776,Anthony Jones,54,7624 Nicole Ports,Kansas City,TX,21660,Premium,Yes,Huawei,Pixel 6,Free streaming service for 6 months with any Verizon plan,24.66,9,1,15:07,Wednesday,8.87
+807611,Elizabeth Johnson,23,08189 Lewis Walks,Detroit,DC,80341,Basic,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,6.11,14,5,09:28,Friday,27.67
+384806,Mitchell Gay,69,46590 Jennifer Trail Apt. 871,Detroit,CO,68157,Basic,Yes,Huawei,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,43.91,16,2,09:09,Thursday,22.92
+894824,Jennifer Kelly,43,180 Lisa Mountains,Atlanta,DC,38498,Standard,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",13.42,1,6,20:05,Wednesday,21.72
+130535,Jennifer Morton,51,89055 Alexander Row,Atlanta,MO,95064,Premium,Yes,Huawei,OnePlus 9,Buy a tablet: 30% off on us,2.84,10,9,01:17,Saturday,34.02
+475713,Lisa Stewart,62,89194 Adkins Flat Suite 378,Los Angeles,MN,85795,Premium,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",45.55,3,5,15:48,Friday,9.42
+938688,Thomas Anderson,23,337 Jacob Rapid Suite 452,Tampa,FL,33556,Basic,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",7.36,9,9,10:51,Sunday,43.98
+451279,Jason Bennett,54,617 Weaver Spur,Dallas,NC,70544,Premium,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",43.34,6,1,08:40,Wednesday,31.19
+921654,Timothy Morris,50,1976 Samantha Springs,Fort Worth,NV,90572,Standard,Yes,OnePlus,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",26.73,16,0,19:14,Saturday,6.04
+701661,Dean Pope,39,2939 Levy Parkway Apt. 022,Charlotte,AZ,61868,Premium,Yes,Samsung,Pixel 6,Buy a tablet: 30% off on us,31.03,6,1,11:52,Sunday,8.14
+747972,Patricia Ibarra,38,45741 Holden Overpass Suite 144,Washington,OH,53452,Basic,Yes,Huawei,Galaxy S21,Buy a tablet: 30% off on us,33.68,0,6,03:07,Monday,46.26
+589570,Daniel Morrison,23,42110 Spencer Greens Suite 381,Dallas,NY,17496,Basic,No,Samsung,Pixel 6,20% off Amazon Prime subscription,28.9,10,6,02:38,Saturday,43.89
+556551,Kristopher Moore,23,041 Sanders Mews Suite 682,Atlanta,MN,34515,Standard,No,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",26.16,15,6,12:51,Sunday,41.19
+373109,Jeffrey Stevens,65,5822 Davis Ridge,Boston,AZ,41779,Standard,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",49.77,1,7,15:06,Monday,3.68
+124538,Susan Sanchez,21,7273 Shaw Ford Apt. 834,Portland,TX,69057,Premium,Yes,Huawei,Pixel 6,Free streaming service for 6 months with any Verizon plan,39.56,0,2,23:23,Sunday,9.46
+994498,Kevin Schmitt,47,3822 Brooks Meadow Apt. 819,Boston,NC,50758,Premium,No,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",10.59,1,8,00:59,Tuesday,47.7
+301664,Erin Pollard,28,869 English Trafficway Apt. 949,Indianapolis,TX,93127,Basic,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",17.52,17,9,23:10,Tuesday,10.12
+591234,Christopher Salinas,47,3755 Gray Glen,Denver,FL,63172,Standard,No,Google,Galaxy S21,Buy a tablet: 30% off on us,25.62,13,9,17:38,Thursday,38.9
+999684,Anthony Miller,48,9078 David Expressway,San Diego,MN,98767,Standard,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",38.88,4,1,08:27,Friday,15.77
+239182,Debbie Davis,41,70033 Amy Mills Apt. 574,Fort Worth,TX,70671,Standard,Yes,Huawei,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",24.56,9,9,14:09,Saturday,36.11
+572525,Dr. Michael Williams,26,8106 Spencer Crossroad,Charlotte,NY,23447,Premium,No,Apple,Pixel 6,Buy a tablet: 30% off on us,4.77,15,4,23:35,Monday,17.47
+258338,Debbie Lowe,20,5590 Ronald Islands,Orlando,NC,77327,Standard,No,Apple,P40 Pro,Buy a tablet: 30% off on us,13.22,19,9,23:49,Friday,8.08
+284064,Michael Ramos,68,9174 Shaw Harbor,New York,NV,40634,Basic,Yes,Samsung,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",23.33,2,1,05:26,Saturday,48.01
+314020,Mario Brown,48,94518 Riley Mill Suite 013,Kansas City,FL,19077,Basic,Yes,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",7.96,8,5,15:11,Saturday,43.11
+723094,Christine Green,57,973 Ortiz Pine Apt. 675,San Diego,IL,98470,Premium,No,Samsung,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",25.48,9,9,17:46,Saturday,6.1
+997421,Emily Johnson,54,622 Dylan Wells Suite 748,Austin,FL,25904,Premium,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,27.68,14,3,02:55,Thursday,45.57
+715270,Yvette Spence,53,65945 Joshua Mill,Dallas,DC,88780,Standard,No,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",39.79,6,7,22:50,Wednesday,0.75
+745914,Jennifer Smith,41,1113 Charles Hill,Fort Worth,AZ,19525,Premium,Yes,Apple,P40 Pro,Buy a tablet: 30% off on us,15.31,5,9,03:44,Wednesday,25.46
+219176,Roy Johnson,48,62460 Castro Summit,Detroit,FL,2022,Basic,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",12.61,0,0,10:52,Sunday,41.37
+318126,Monica Moody,23,7266 Mary Ramp Suite 854,Las Vegas,GA,17483,Standard,No,Apple,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",21.09,4,5,10:38,Saturday,40.53
+318969,Kerry Cochran,19,002 Christina Bypass Suite 441,Tampa,TX,56947,Basic,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,10.63,18,7,13:45,Tuesday,27.21
+222409,Heather Newton,37,68292 Ayers Springs Suite 689,Austin,OH,14466,Standard,No,Google,Pixel 6,Buy a tablet: 30% off on us,32.99,6,8,23:08,Monday,3.08
+647707,Robert Lopez,45,93067 Jade Heights Apt. 853,Washington,IN,29221,Premium,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",19.53,18,2,01:31,Sunday,43.4
+353618,Melissa Hill,28,7448 Gregory Harbor Apt. 364,Columbus,TX,97310,Standard,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",40.9,11,7,22:48,Thursday,34.58
+869598,James Williams,21,40651 Sanchez Springs,Orlando,TX,81707,Standard,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",34.04,0,6,19:35,Monday,33.21
+150015,Janice Black,32,855 Golden Place Apt. 942,Indianapolis,FL,54619,Basic,Yes,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",43.85,2,8,12:58,Sunday,43.09
+872838,Monique Chandler,23,4949 Bishop Prairie Apt. 927,Denver,CO,4345,Basic,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",48.77,13,1,15:55,Thursday,22.85
+222096,Crystal Anderson,66,97555 Jones Island Apt. 534,Seattle,NV,70741,Standard,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",16.98,15,7,19:39,Thursday,29.09
+731347,Meghan Beasley,47,686 Bennett Valleys Suite 682,Detroit,CA,49511,Premium,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",2.21,11,4,19:17,Monday,35.11
+285340,Andre Lynch,55,33738 Courtney Parks,Detroit,NV,56106,Premium,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,38.39,16,0,08:13,Friday,24.72
+210687,Daniel Duffy,68,7702 Watson Extensions,Kansas City,MO,16723,Basic,No,Google,Galaxy S21,20% off Amazon Prime subscription,29.03,14,3,21:41,Tuesday,13.96
+974371,Tina Arias,19,91490 Walker Camp,Miami,NV,61727,Premium,Yes,OnePlus,iPhone 13,Buy a tablet: 30% off on us,28.69,8,7,19:41,Saturday,44.55
+511357,Jason Gomez,32,90256 Norman Courts Suite 242,New York,TX,13003,Basic,Yes,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",24.62,9,1,08:55,Saturday,8.23
+835716,Matthew Fleming,28,90565 Michael Skyway Apt. 783,San Antonio,OH,24012,Premium,No,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,36.12,9,8,04:58,Wednesday,12.17
+205878,Darren Woods,25,607 Green Locks,Dallas,AZ,16589,Standard,No,Apple,P40 Pro,"First purchase: Buy two phones, one on us",37.12,4,5,05:13,Friday,17.08
+827270,Cynthia Peterson,43,034 Timothy Square Suite 987,Boston,AZ,32412,Basic,Yes,Huawei,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,36.77,10,3,23:03,Saturday,6.63
+298286,Shane Smith,68,81055 Wright Grove,Kansas City,OR,88984,Basic,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",40.85,14,2,18:09,Thursday,1.41
+873290,Russell Jones,62,2447 Jason Club,New York,MI,67861,Standard,Yes,Google,Pixel 6,"First purchase: Buy two phones, one on us",0.61,9,2,07:51,Tuesday,43.33
+874684,Cheryl Hanson,61,71299 Woods Hollow,Los Angeles,TX,19960,Basic,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",36.7,13,2,10:10,Thursday,22.09
+264899,Sarah Cross,22,1355 Shelby Knolls,New York,TX,24192,Premium,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",16.37,3,1,23:01,Monday,36.8
+424767,Amanda Silva,23,5958 Kelly Camp,New York,CA,54131,Premium,No,Google,Galaxy S21,Buy a tablet: 30% off on us,40.17,11,6,05:09,Saturday,4.37
+961882,Nathan Macdonald,43,34425 Heather Road Apt. 173,Austin,CO,57369,Basic,No,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",43.37,3,3,16:55,Tuesday,2.01
+979858,Andrew Jackson,21,3474 Peter Islands Apt. 171,Charlotte,WA,93695,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",9.55,11,5,20:55,Sunday,13.3
+479989,Tanner Strickland,36,289 Robert Haven Suite 191,Portland,MO,44311,Basic,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,31.37,10,8,14:55,Friday,4.07
+515515,Laura Camacho,37,31217 Long Flat Suite 985,New York,DC,73496,Standard,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",14.13,0,7,07:56,Tuesday,29.04
+143585,Gary Key,50,359 Aimee Flats Suite 902,Charlotte,TX,98131,Basic,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",21.01,3,7,03:14,Monday,28.91
+471369,Mark Schmidt,37,682 Smith Drive Suite 203,Miami,TX,36031,Standard,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",9.96,3,1,18:56,Saturday,49.5
+164044,Donald Sanchez,66,593 Kelly Mills,Cleveland,FL,49756,Premium,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",7.04,7,3,08:04,Tuesday,39.44
+542296,Robert White,29,6914 Bell Common Suite 654,Detroit,TX,53459,Standard,Yes,Apple,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",18.4,8,2,18:43,Wednesday,1.52
+209556,Joel Wilson,64,859 Castro Circle,San Francisco,CA,77894,Premium,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,25.89,5,4,03:39,Wednesday,17.48
+626981,April Archer,18,01800 Allen Parkways Suite 375,Los Angeles,CO,41013,Basic,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,28.59,1,7,10:37,Thursday,39.3
+981691,Cynthia Fitzpatrick,43,525 Nichole Squares,San Diego,MA,17954,Premium,No,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",14.41,8,5,01:09,Tuesday,25.78
+867595,Claudia Guzman,31,7584 Nelson Lights,San Francisco,IL,5031,Basic,Yes,Apple,iPhone 13,"First purchase: Buy two phones, one on us",14.37,5,6,05:54,Sunday,9.3
+300235,Stephanie Fernandez,55,713 Fuentes Island,Cleveland,DC,6803,Basic,No,Huawei,Galaxy S21,Buy a tablet: 30% off on us,48.53,10,0,23:00,Monday,45.48
+125939,Javier Berry,54,99723 Wright Plains,Indianapolis,TX,30248,Standard,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,31.33,19,5,21:13,Sunday,39.92
+252906,Kristen Baldwin,28,14940 Hill Summit Apt. 960,Cleveland,OR,14467,Standard,Yes,Huawei,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",38.05,18,7,16:51,Thursday,34.32
+642335,Todd Oneal,53,1323 Myers Extension Suite 763,Boston,TX,38102,Standard,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",42.36,18,0,14:03,Friday,35.81
+388249,Emily Lamb,30,803 Singh Roads Apt. 732,Denver,IN,88022,Standard,No,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",0.57,18,1,03:01,Wednesday,10.27
+175766,Alisha Nguyen,60,2649 Kelly Plaza,Los Angeles,TX,26165,Premium,No,OnePlus,Pixel 6,Buy a tablet: 30% off on us,15.65,13,5,01:28,Tuesday,26.84
+508923,Rhonda Smith,20,645 Jorge Drive,San Antonio,TX,78605,Premium,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",22.76,19,3,19:53,Tuesday,22.82
+515192,Alexis Chapman,50,68409 Mitchell River,Minneapolis,FL,97300,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",1.88,11,6,23:53,Wednesday,12.86
+668550,Kevin Hoover,23,697 Carolyn Fields Suite 579,Columbus,OH,47004,Basic,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",46.83,10,7,21:57,Sunday,23.22
+487261,Elizabeth Miller,67,810 Lynn Circles,Washington,MN,65681,Premium,Yes,Google,Pixel 6,"First purchase: Buy two phones, one on us",14.82,14,5,07:16,Tuesday,7.72
+910208,Danny Gillespie,27,2114 Mitchell Stravenue Apt. 831,Dallas,OR,96192,Premium,Yes,Huawei,Pixel 6,Buy a tablet: 30% off on us,0.68,13,4,05:03,Wednesday,13.88
+785440,Julia Moon,22,87662 Jerome Stravenue,Fort Worth,MA,55869,Premium,No,Google,iPhone 13,"First purchase: Buy two phones, one on us",36.55,14,1,11:01,Sunday,21.3
+752664,Wanda Simpson,40,7290 Waters Lock Suite 695,Nashville,TX,25040,Standard,No,OnePlus,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",38.81,0,0,08:44,Wednesday,35.51
+554589,Tara Wheeler,27,9012 Tiffany Lock Apt. 749,Chicago,GA,11224,Premium,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,47.83,10,7,10:38,Thursday,5.99
+237848,Robert Hernandez,61,9074 Hannah Neck,Cincinnati,TX,29474,Basic,Yes,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",41.32,1,5,02:51,Friday,30.29
+717075,Joshua Fuentes,19,43931 Doris Views Suite 607,San Diego,OH,6673,Standard,Yes,Apple,P40 Pro,Buy a tablet: 30% off on us,30.43,6,4,23:09,Thursday,42.16
+227948,Matthew Shields,30,4900 Mitchell Plaza,Austin,OH,12327,Basic,No,Google,iPhone 13,Buy a tablet: 30% off on us,45.97,6,4,14:33,Wednesday,35.55
+679304,Shaun Johnson,57,13918 Norman Way,San Diego,TX,81438,Premium,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",30.84,15,2,22:29,Friday,49.1
+502690,Tamara Harris,19,97645 Mcconnell Land Apt. 089,Austin,CA,92738,Standard,Yes,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",24.1,5,7,20:06,Monday,17.2
+599046,Kayla Cummings,37,0806 Michael Knolls,San Francisco,MI,82080,Basic,No,Google,Galaxy S21,Get a $50 gift card with any new phone purchase,35.6,6,9,03:16,Sunday,20.62
+551269,Brandy Garcia,18,2374 Nicole Mews,Austin,NC,18311,Premium,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",11.85,8,5,23:13,Monday,25.93
+121959,Johnathan Smith,54,38453 Kelly Junctions Suite 783,Boston,GA,14802,Basic,Yes,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",43.01,17,4,11:25,Friday,35.94
+760890,Kenneth Davis,26,457 Holly Well Suite 311,Columbus,WA,99228,Basic,Yes,Google,OnePlus 9,"Buy one accessory, get another 50% off",16.9,12,0,02:37,Thursday,11.21
+850216,Bradley Walker,34,96717 Morgan Field Apt. 135,Dallas,MO,36962,Basic,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",37.95,18,6,11:07,Sunday,22.22
+890180,Crystal Williams MD,26,20835 Sandra Cliffs,Dallas,CA,70360,Premium,Yes,OnePlus,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,21.91,2,3,12:47,Saturday,30.57
+328576,Lauren Hayes,28,40356 Frye Mount,Boston,TX,80242,Premium,Yes,Huawei,Galaxy S21,Buy a tablet: 30% off on us,14.78,14,2,15:22,Monday,1.48
+637833,Scott Garcia,32,0680 Eric Orchard,Kansas City,TX,29734,Basic,No,Apple,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,5.93,3,3,03:58,Tuesday,49.0
+265838,Jennifer Holland,41,46999 Bautista Grove Apt. 552,Portland,CO,55225,Standard,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",47.37,11,2,00:48,Sunday,8.04
+435674,Thomas Santiago,55,951 Coleman Overpass,Miami,DC,42182,Standard,Yes,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,6.83,7,4,08:57,Friday,24.0
+979989,Jennifer Reynolds,52,1541 Amanda Trafficway Apt. 783,Portland,TX,14274,Premium,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,4.62,12,3,21:23,Tuesday,18.38
+161087,Chad Jackson,47,9185 Brian Street Apt. 558,Denver,MA,26441,Premium,Yes,Huawei,Galaxy S21,Buy a tablet: 30% off on us,42.55,12,8,19:45,Tuesday,22.62
+693128,Evan Holder,48,915 Meyer Parks Apt. 248,Cincinnati,MN,82594,Premium,No,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",34.27,11,9,05:53,Sunday,40.07
+218451,Gregory Smith,66,0322 Garcia Drives Apt. 130,San Francisco,TX,88101,Premium,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",20.72,13,7,10:58,Monday,32.55
+547600,Gregory Montoya,22,1439 Jennifer Groves Apt. 151,Fort Worth,FL,71150,Premium,Yes,OnePlus,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,9.44,5,5,03:07,Sunday,45.29
+937437,Victoria Rodriguez,61,5252 Patrick Mount,Miami,TX,93114,Standard,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",40.25,8,5,13:37,Sunday,40.43
+539792,Ricky Ali,67,263 Lauren Mills Suite 255,Seattle,OH,80078,Premium,No,Samsung,Pixel 6,Buy a tablet: 30% off on us,8.21,6,9,02:30,Monday,37.12
+139353,Kelly Miranda,31,221 Julie Roads Apt. 418,Houston,IN,82968,Basic,Yes,Apple,Pixel 6,"First purchase: Buy two phones, one on us",46.17,12,3,11:10,Sunday,18.64
+293075,Samantha Garcia,28,966 Renee Underpass,San Diego,MO,15029,Basic,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",2.29,7,2,02:36,Monday,31.09
+314283,Kevin King,26,94204 Krista Alley Suite 039,Cleveland,OH,59331,Standard,No,Huawei,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,32.78,3,1,10:38,Sunday,49.07
+414877,Elizabeth Campbell,51,817 Dwayne Estates,Detroit,FL,4449,Basic,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",16.54,6,1,04:51,Wednesday,25.71
+165318,Misty Smith,29,663 Sheila Brooks Suite 817,Cleveland,MA,90045,Standard,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",6.21,16,5,16:51,Sunday,19.91
+865313,Dustin Cuevas,52,816 Kemp Mountain Apt. 795,Chicago,MI,61263,Standard,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,5.24,3,8,08:12,Monday,10.67
+582690,Austin Burton,52,62367 Sabrina Gateway,Austin,FL,93364,Basic,Yes,Apple,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",8.66,13,4,01:38,Friday,24.03
+516880,Douglas Johnson,18,263 Shaffer Skyway,Kansas City,OR,79754,Premium,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",45.43,18,6,22:29,Saturday,16.92
+691460,Terri Velasquez,57,93402 Meyer Drives,San Antonio,FL,79349,Basic,Yes,OnePlus,Pixel 6,"Buy one accessory, get another 50% off",44.77,18,6,15:19,Thursday,14.79
+840976,Sara Peck,39,1721 Gibbs Tunnel,Indianapolis,GA,18409,Basic,Yes,Apple,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",12.84,7,8,21:08,Sunday,9.22
+881239,Mary Houston,46,07184 Powers Track Suite 584,Fort Worth,OH,6597,Standard,No,Samsung,Pixel 6,Buy a tablet: 30% off on us,32.69,2,5,01:58,Friday,37.3
+193264,Leslie Gutierrez,25,343 Michele Rest,Boston,NV,84087,Basic,No,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",17.94,10,1,08:37,Monday,45.16
+870746,Kristi Anderson,28,2614 Jerry Ville,Detroit,IN,39755,Standard,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",26.89,6,3,12:38,Wednesday,37.38
+913168,Christopher Burke,58,49418 Stacy Drive Apt. 822,Columbus,DC,64479,Premium,Yes,OnePlus,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",11.58,9,0,11:47,Thursday,43.34
+325281,Melissa Hancock,54,08050 Jeremy Overpass Apt. 499,Minneapolis,FL,43063,Premium,No,Google,P40 Pro,Buy a tablet: 30% off on us,5.28,7,0,15:06,Tuesday,27.06
+737147,Mary Lee,31,558 Roy Pass Apt. 053,Columbus,GA,96710,Premium,Yes,Samsung,P40 Pro,Buy a tablet: 30% off on us,4.07,18,0,10:24,Thursday,37.63
+998613,Shawna Davis,47,97257 David Hills Suite 191,Charlotte,IL,68714,Basic,No,Google,Pixel 6,"Buy one accessory, get another 50% off",3.65,8,5,20:11,Wednesday,0.57
+494070,Todd Silva,52,86425 Antonio Light,Orlando,OH,36686,Standard,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",35.26,5,5,11:39,Saturday,45.07
+452228,Nancy Lewis,38,1831 James Harbor,Charlotte,OR,59599,Premium,No,OnePlus,Pixel 6,Buy a tablet: 30% off on us,34.98,10,1,00:59,Tuesday,26.05
+531839,Amy Edwards,54,404 Allison Trace Suite 866,Las Vegas,MN,70016,Standard,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",47.11,6,7,03:07,Monday,0.71
+369536,Luke Ali,22,4226 Allen Expressway Suite 142,Cleveland,CA,48907,Standard,No,Huawei,Pixel 6,20% off Amazon Prime subscription,3.23,3,3,17:10,Thursday,29.73
+417824,Darrell Wright,36,04985 David Squares Apt. 985,Las Vegas,DC,64134,Premium,No,Apple,P40 Pro,Buy a tablet: 30% off on us,22.64,0,7,07:37,Wednesday,13.71
+357426,Elizabeth Wood,31,46075 Emily Viaduct Apt. 582,Minneapolis,OH,55631,Premium,Yes,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,28.83,11,1,06:38,Sunday,34.72
+277789,Jennifer Perez,43,55495 Montgomery Wells Suite 844,Indianapolis,TX,61900,Standard,Yes,Samsung,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,1.95,2,0,13:50,Tuesday,43.42
+613153,Katherine Mejia,21,88553 Christensen Extension Suite 897,Houston,CO,97289,Premium,No,Samsung,OnePlus 9,Buy a tablet: 30% off on us,43.49,2,0,09:41,Friday,14.19
+842452,Candice Lynch,42,0683 Darius Mews,Charlotte,MA,92055,Standard,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,17.95,16,3,23:06,Monday,2.4
+937291,Jessica Davis,62,5131 Thomas Green Apt. 996,Dallas,GA,73896,Standard,No,OnePlus,Pixel 6,20% off Amazon Prime subscription,36.67,19,4,11:07,Tuesday,49.73
+225657,Jennifer Murray,59,3398 Ramirez Throughway Suite 422,Nashville,NC,97962,Premium,Yes,Samsung,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",44.75,2,5,10:48,Tuesday,5.17
+335167,Jenny Carter,42,5570 Kim Vista,Minneapolis,OR,54716,Basic,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,33.68,13,8,10:41,Saturday,42.07
+781669,George Espinoza,35,8478 Thomas Locks Apt. 856,Atlanta,GA,63005,Premium,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,12.43,10,5,13:23,Monday,47.99
+580671,Vanessa Esparza,57,3590 Courtney Lodge Suite 069,Minneapolis,OR,77171,Basic,Yes,OnePlus,P40 Pro,Buy a tablet: 30% off on us,3.89,4,3,01:05,Tuesday,8.52
+819094,Matthew Morgan,25,1683 Robin Key,Las Vegas,TX,48220,Standard,No,Google,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",24.78,4,1,11:48,Thursday,2.64
+170467,Mark Johnson,56,60818 Andrew Flat,Columbus,IN,83666,Standard,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,38.99,15,3,03:45,Sunday,31.67
+283734,Ana Salazar,57,66405 Jimenez Expressway Apt. 358,Boston,TX,3039,Basic,Yes,OnePlus,P40 Pro,Buy a tablet: 30% off on us,26.86,10,6,17:21,Monday,41.2
+722794,Ashley Greene,31,3364 Valerie Vista Suite 518,San Diego,IN,42424,Standard,Yes,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",48.96,18,3,22:37,Wednesday,38.09
+209751,Gary Hodges,49,8848 Gill Ford Suite 683,Boston,CA,56286,Basic,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",30.98,3,0,03:03,Sunday,36.38
+481050,David Dennis,68,49795 Brandi Rapid Suite 579,Las Vegas,MN,13394,Basic,No,Huawei,OnePlus 9,Buy a tablet: 30% off on us,41.56,9,9,17:23,Tuesday,36.76
+911774,Paige Madden,55,623 Shawn Ports Apt. 180,Detroit,OH,74999,Standard,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",25.35,3,0,00:31,Monday,22.09
+792517,David Small,50,8978 Zachary Village,Phoenix,TX,97450,Basic,Yes,Huawei,OnePlus 9,Buy a tablet: 30% off on us,35.27,2,9,20:01,Friday,29.05
+561079,Jennifer Huffman,40,5022 Christopher Glens,Tampa,MI,45395,Premium,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",26.67,7,6,17:16,Tuesday,21.51
+468452,Cheryl Bradford,32,157 Alan Point Suite 829,Austin,MI,12048,Premium,No,Huawei,iPhone 13,Buy a tablet: 30% off on us,12.59,11,2,04:56,Tuesday,38.96
+206081,Keith Wolf,50,7996 Leach Track,Cincinnati,TX,5232,Standard,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",14.25,11,6,17:25,Sunday,13.23
+713333,Jeremy Tucker,42,35763 Nelson Ville,Chicago,FL,35409,Standard,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",26.07,14,8,11:45,Wednesday,41.8
+658986,Laura Garcia,34,27749 Thompson Junctions,Kansas City,MI,65333,Basic,No,Apple,Pixel 6,"First purchase: Buy two phones, one on us",24.81,6,4,09:11,Thursday,1.26
+210078,Sarah Rodriguez,50,2347 Davis Neck,San Antonio,MO,2277,Basic,No,Apple,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",17.7,15,7,14:43,Wednesday,40.09
+967055,Robin Sandoval,64,2263 Mitchell Field,Las Vegas,TN,71321,Basic,No,Huawei,OnePlus 9,20% off Amazon Prime subscription,37.71,17,1,01:15,Sunday,24.09
+122671,Phillip Carter,19,8339 Michael Bypass Suite 009,Chicago,NC,5015,Basic,No,Apple,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",11.66,9,5,09:07,Wednesday,8.61
+518400,Jeffrey Vasquez,31,337 Roger Loop,Nashville,MA,68880,Premium,Yes,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",0.52,9,1,15:29,Saturday,44.36
+455528,Hayley Pollard,57,8094 Hess Drives,Nashville,CA,57341,Premium,Yes,Huawei,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",29.0,19,5,23:55,Tuesday,42.51
+710490,Christopher Anderson,57,58446 Morgan Dam,Detroit,TN,19387,Standard,Yes,Google,OnePlus 9,Get a $50 gift card with any new phone purchase,31.43,12,2,11:03,Tuesday,32.98
+151663,Rachel Fitzpatrick,68,167 Carlson Courts,Denver,GA,62690,Basic,Yes,Google,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",33.16,19,7,02:56,Saturday,23.62
+115708,Benjamin Stout,56,355 Serrano Street,New York,CO,22640,Basic,Yes,Samsung,Pixel 6,Buy a tablet: 30% off on us,32.68,13,3,03:15,Sunday,17.16
+978338,Audrey Russell,68,92193 Derrick Forges,San Francisco,FL,54898,Standard,Yes,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",11.14,11,6,18:46,Saturday,17.11
+411955,Daniel Holden,23,633 Kramer Cliffs,Columbus,OH,11517,Basic,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,41.21,6,4,13:05,Friday,11.07
+233883,Eric Sanchez,23,282 Griffin Cliff,Washington,MA,15842,Basic,No,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",37.32,3,1,01:38,Thursday,20.37
+418394,Diana Morgan,20,3052 David Plaza Suite 199,Portland,CO,1413,Basic,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",48.07,0,8,08:47,Tuesday,42.31
+212547,Andrew Cox,24,1434 Jones Junctions Apt. 552,Atlanta,NV,13910,Basic,Yes,Apple,Pixel 6,"First purchase: Buy two phones, one on us",41.65,3,9,13:53,Thursday,43.84
+659042,Robert Martin,68,791 Crystal Light,Cleveland,MN,85714,Basic,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,14.9,5,1,13:17,Friday,46.89
+851102,Joshua Schultz,25,23991 Peter Corners,Nashville,FL,93823,Standard,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",36.91,0,7,07:24,Wednesday,19.96
+862002,Bryan Lyons,59,222 Anthony Stream Apt. 787,Tampa,OH,11661,Basic,No,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",2.76,18,7,16:33,Friday,29.05
+242483,Theresa Cortez,69,8675 Sonia Lodge Apt. 524,Miami,NC,16107,Standard,Yes,Apple,Pixel 6,"First purchase: Buy two phones, one on us",33.24,10,2,20:17,Tuesday,24.94
+758271,Tonya Cunningham,32,127 Murphy Valley,Phoenix,MI,7428,Basic,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",33.19,3,1,19:48,Wednesday,48.23
+314835,William Brown,64,03945 Robert Via,Houston,TX,95692,Premium,Yes,Samsung,iPhone 13,Buy a tablet: 30% off on us,9.19,0,8,04:50,Wednesday,5.09
+501896,Kimberly Dixon,46,7450 Stewart Stravenue Suite 767,Kansas City,AZ,76241,Premium,Yes,Google,OnePlus 9,"First purchase: Buy two phones, one on us",4.24,7,5,03:03,Wednesday,46.93
+184896,Elizabeth Cooper,50,925 Christopher Knoll Suite 364,Columbus,TN,1671,Premium,No,Google,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",25.84,16,5,13:07,Sunday,7.29
+577095,Jill Roberts,69,8340 Reeves Greens,Portland,NY,35557,Premium,No,Google,iPhone 13,Buy a tablet: 30% off on us,4.51,10,0,06:31,Friday,14.19
+171295,Stacy Johnson,47,683 Pamela Ranch Suite 325,Miami,FL,74014,Standard,Yes,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",37.24,3,0,01:51,Tuesday,39.94
+843974,Misty Mora,56,259 Morton Springs Suite 211,Kansas City,IL,36877,Standard,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,18.29,5,3,07:07,Wednesday,45.93
+987121,Juan Butler,44,710 Hunter Center Apt. 023,Tampa,MI,512,Basic,No,Samsung,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",42.29,4,2,21:25,Monday,18.54
+373255,Daniel Dixon,53,142 Linda Views Suite 417,Boston,NV,67390,Premium,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",19.29,0,3,03:38,Saturday,25.38
+399648,Joseph Spencer,46,476 Young Burgs,Washington,MN,62234,Standard,No,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",27.58,2,6,14:44,Friday,38.01
+757162,Joshua Mcdaniel,55,46065 Adams Underpass Apt. 648,Las Vegas,TN,82034,Basic,Yes,OnePlus,P40 Pro,"Buy one accessory, get another 50% off",21.24,18,6,17:49,Saturday,38.5
+108155,Brian Lee,50,4722 Desiree Mountains,Austin,OR,21571,Basic,Yes,Samsung,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",31.56,9,8,11:15,Thursday,14.76
+566872,Keith Irwin,54,6620 Wallace Islands Suite 096,Houston,CA,66127,Standard,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",30.96,6,5,10:51,Wednesday,11.01
+925816,Margaret Moore,44,478 Jenna Via Suite 654,Cleveland,OH,27440,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",23.35,8,8,20:25,Wednesday,11.91
+474705,Michael Thomas,50,454 Tyler Creek Apt. 881,Atlanta,CO,76680,Basic,Yes,Google,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",16.99,0,9,06:29,Thursday,32.02
+671542,James Schroeder,21,99854 Glass Rest,Los Angeles,FL,86831,Premium,No,Apple,P40 Pro,Buy a tablet: 30% off on us,29.75,8,0,21:51,Saturday,37.52
+908350,Jeffrey Henry,39,578 Matthew Lane,Houston,AZ,68404,Premium,No,Apple,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",16.42,7,3,16:55,Saturday,23.1
+710269,Todd Higgins,19,5650 Pamela Spurs,Los Angeles,CO,33845,Premium,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",40.21,13,8,10:51,Monday,9.48
+654594,Joshua Berry,27,356 Randall Tunnel Apt. 965,Denver,TX,68340,Basic,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",6.01,2,1,08:26,Sunday,18.15
+247718,Aaron Randall,22,250 Graves Estates,Los Angeles,TX,22419,Premium,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",8.69,11,7,01:33,Saturday,21.66
+408987,Steven Contreras,27,5790 Johnson Walk Suite 135,Houston,OH,2930,Basic,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",43.55,19,0,17:33,Friday,20.74
+745263,Mrs. Joan Miller DVM,50,92273 Diaz Turnpike,San Diego,WA,72851,Premium,Yes,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",11.16,8,8,15:13,Tuesday,7.18
+458745,Jennifer Perry,55,68402 Jones Hills Suite 606,San Francisco,TX,54650,Basic,No,Google,Pixel 6,Buy a tablet: 30% off on us,24.16,12,8,14:05,Friday,37.31
+207512,Anna Thomas,30,255 Douglas Tunnel Suite 760,San Antonio,NY,18659,Premium,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,10.38,2,2,01:17,Saturday,44.34
+247443,Christopher Chapman,48,233 Williams Summit Suite 418,Las Vegas,OH,8419,Standard,Yes,Google,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",40.64,4,2,07:14,Saturday,2.94
+570587,Lauren Kemp,64,9457 Sarah Glens,Las Vegas,AZ,21409,Premium,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",13.5,7,5,14:57,Tuesday,25.81
+473616,Kimberly Thomas,53,50275 Anderson Trail Apt. 306,Cleveland,IL,89698,Premium,Yes,Google,Pixel 6,Buy a tablet: 30% off on us,12.17,0,0,12:53,Monday,8.58
+757409,Suzanne Spears,62,8800 Corey Inlet,Detroit,NY,60548,Basic,Yes,Apple,Galaxy S21,Buy a tablet: 30% off on us,18.6,3,4,21:08,Sunday,2.58
+786976,Maurice Washington,41,727 Flowers Estates,Nashville,TX,59329,Basic,No,Google,Pixel 6,Get a $50 gift card with any new phone purchase,1.76,2,6,16:56,Tuesday,26.05
+465871,Michael Baker,69,1894 Deborah Point Suite 736,Columbus,TX,47083,Premium,Yes,Huawei,OnePlus 9,Buy a tablet: 30% off on us,36.91,4,6,03:18,Sunday,39.79
+475037,Matthew Brown,32,7536 Green River,Chicago,IL,29861,Standard,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",3.85,11,4,03:57,Tuesday,22.64
+907364,Christopher Smith,46,4195 Ashley Drive,Charlotte,TX,77732,Standard,Yes,OnePlus,iPhone 13,"Buy one accessory, get another 50% off",5.89,3,6,15:39,Tuesday,10.87
+217796,Charles Day,25,8795 Parker Harbors,Boston,CA,2125,Basic,Yes,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",39.52,19,8,15:02,Tuesday,18.79
+391999,Leah Moran,22,3498 Bradley Street Apt. 714,Dallas,TX,75890,Standard,Yes,Huawei,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,7.87,0,9,22:43,Wednesday,49.4
+292506,Deborah Bailey,46,5248 Rowe Fork Suite 470,Atlanta,FL,42260,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",17.77,17,9,01:29,Sunday,8.78
+798376,Kimberly Garcia,64,164 Sharon Flat,Denver,TX,78311,Basic,Yes,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",34.19,3,3,22:47,Thursday,37.22
+369544,Michael Nelson,21,92182 Julia Way Suite 744,New York,GA,43706,Premium,No,Apple,OnePlus 9,Buy a tablet: 30% off on us,49.9,14,6,11:39,Thursday,46.23
+480002,Michael Torres,29,807 Burton Shoals,Chicago,IN,63263,Basic,Yes,Google,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",26.78,0,6,13:46,Thursday,12.78
+798002,Adrian Jefferson,62,02658 Max Summit,Cleveland,CA,50697,Basic,Yes,Huawei,Pixel 6,Buy a tablet: 30% off on us,17.79,4,6,13:40,Sunday,23.47
+639439,Aaron Walters,19,3885 April Pines Suite 730,Dallas,OH,65959,Basic,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,37.73,14,2,13:43,Saturday,1.24
+690978,Christopher Villa,44,5779 Kelly Harbor,Houston,OH,1268,Basic,No,OnePlus,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,9.59,12,7,02:08,Tuesday,20.22
+628787,Susan Wilson,48,62645 Gaines Ramp Suite 099,Seattle,CA,25678,Standard,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",31.9,10,3,11:06,Saturday,28.95
+630583,Robert Quinn,68,041 Hunter Mission,Portland,TX,42479,Premium,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",41.81,13,2,00:37,Saturday,38.39
+488215,Dr. Jason Welch DDS,68,0822 Huerta Loaf,Minneapolis,WA,1395,Premium,No,Apple,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",3.78,3,5,20:13,Friday,15.92
+421184,Peter Hartman,53,1628 Robinson Prairie Suite 920,San Antonio,NC,59044,Premium,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",45.72,15,9,12:51,Sunday,13.61
+898615,Vanessa Copeland,53,4973 West Corner Apt. 600,Columbus,TX,62547,Basic,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",1.04,7,5,08:42,Thursday,24.98
+522515,Ronald Wilson,43,869 Thornton Burgs Suite 563,Indianapolis,FL,63835,Standard,No,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",17.32,8,2,10:06,Tuesday,46.17
+768234,Amanda Santos,60,0196 Kimberly Extensions Apt. 530,Indianapolis,TX,25481,Premium,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,10.58,3,6,23:16,Monday,35.02
+478480,Holly Harris,44,92148 James Drive,Los Angeles,MI,62557,Standard,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",17.22,6,3,09:29,Sunday,32.6
+132711,Christopher Moran MD,22,607 Regina Ferry Apt. 689,Minneapolis,TX,62182,Basic,Yes,Huawei,OnePlus 9,Get a $50 gift card with any new phone purchase,21.69,12,0,01:46,Thursday,14.33
+891971,Crystal Kemp,37,9737 Thompson Vista,Phoenix,OH,54331,Premium,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",9.15,3,5,20:35,Saturday,39.98
+601157,Andrew Weiss,28,086 Denise Loop,Phoenix,OH,91832,Standard,Yes,Google,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,35.25,17,9,00:15,Friday,32.5
+284423,Jeffrey Perez,27,73059 Johnson Parkways Suite 884,San Diego,MI,77058,Basic,Yes,Huawei,iPhone 13,Get a $50 gift card with any new phone purchase,2.23,19,4,05:40,Tuesday,2.26
+616349,Denise Gonzales,57,337 Hill Forges,Charlotte,OH,40084,Standard,Yes,Apple,Pixel 6,Buy a tablet: 30% off on us,3.21,3,8,21:57,Thursday,36.14
+803714,Dr. Robin Grimes,55,32064 Cynthia Drive Apt. 258,Austin,DC,60623,Premium,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,23.61,14,6,03:40,Friday,15.77
+757917,Jason Jenkins,23,98593 Shawn Mall,Portland,IN,60343,Premium,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",5.63,7,2,21:06,Thursday,19.58
+924792,Rick Robinson,25,900 Joshua Estates Apt. 282,Detroit,IN,52070,Basic,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",29.72,4,1,13:11,Monday,22.38
+837378,Jason Collins Jr.,40,68101 Brian Circles,Kansas City,FL,56784,Basic,No,Huawei,Pixel 6,Get a $50 gift card with any new phone purchase,46.71,10,3,22:06,Saturday,20.06
+233272,Cynthia Booth,64,36606 Cantu Corner Suite 965,Nashville,CA,12834,Basic,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",3.38,16,0,09:31,Tuesday,1.27
+867836,Christopher Rogers,43,06716 Dalton Extension,Denver,GA,94832,Standard,Yes,Huawei,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",6.46,17,4,09:29,Saturday,25.73
+802335,Dylan Jackson,63,429 Allen Islands Suite 411,Indianapolis,FL,3171,Standard,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",25.38,3,9,07:35,Monday,37.36
+907789,Felicia Simmons,60,805 Tyler Trace,Tampa,FL,20383,Standard,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",12.42,8,2,03:19,Tuesday,16.95
+743409,Edward Gonzales,29,45873 Anthony Views,San Francisco,TX,31452,Basic,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,35.87,11,6,18:56,Monday,8.35
+177505,Rebecca Gay,43,4962 Stephanie Villages Apt. 991,Orlando,WA,8403,Premium,No,Huawei,iPhone 13,Buy a tablet: 30% off on us,8.31,11,4,18:45,Monday,2.52
+102869,Dr. Melissa Oneill,30,854 Harris Expressway,Miami,NV,31515,Premium,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",22.25,3,1,10:23,Monday,46.62
+881474,Tanya George,57,32678 Kathleen Islands Suite 184,Los Angeles,MN,77162,Standard,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",29.55,12,9,19:39,Friday,1.89
+554351,Arthur Fowler,35,8511 Whitney Place Suite 729,San Francisco,CA,68524,Standard,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",23.56,4,2,04:12,Sunday,11.4
+412252,Gabrielle Fernandez,42,89357 Frank Garden,San Diego,FL,835,Premium,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",41.96,9,6,13:54,Friday,49.65
+736584,Robin Young,50,354 Barry Mount,Washington,NV,4500,Premium,Yes,Samsung,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,3.71,3,3,22:30,Tuesday,42.42
+718467,John Garza,64,8783 Christine Stream Suite 697,Cincinnati,AZ,50551,Standard,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",35.52,1,2,23:45,Sunday,8.46
+190272,Rodney Garza,57,4942 Brendan Forge Suite 750,Orlando,OH,99409,Standard,No,Apple,Galaxy S21,Bundle home internet with mobile for a 15% discount,48.51,10,4,22:44,Wednesday,42.41
+138467,Hunter Gregory,60,028 William Square Apt. 846,Orlando,TX,18940,Premium,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,3.25,1,2,06:55,Saturday,16.31
+909760,Eric Morgan,29,016 Cruz Valleys Suite 732,Kansas City,CO,74490,Basic,No,Huawei,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",42.06,12,2,00:12,Saturday,28.54
+977844,Kent Mitchell,61,779 Moore Walks Suite 377,Los Angeles,TN,8348,Standard,No,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",35.21,17,6,01:59,Tuesday,38.83
+580047,Robert Miller,53,80369 Lauren Mills,Chicago,TX,1907,Premium,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,35.1,0,1,18:55,Monday,11.84
+759347,Jordan Stevens,65,265 Jenkins Viaduct Suite 508,Phoenix,FL,27120,Premium,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",34.15,1,8,17:33,Tuesday,40.55
+158871,Rebecca Rodriguez,21,56952 Elizabeth Square Suite 831,Phoenix,TX,75285,Premium,Yes,OnePlus,P40 Pro,Buy a tablet: 30% off on us,9.69,1,2,09:41,Friday,43.21
+228391,Jason Allen,22,28348 Amanda Fords,New York,FL,54796,Premium,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,22.31,2,2,19:05,Friday,43.23
+539430,Dominique Wilson,54,4480 Amber Wall,Dallas,MI,28108,Basic,Yes,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",10.65,1,7,15:19,Thursday,19.33
+710704,James Bradford,25,5614 Joshua Mission Suite 944,Columbus,IL,45298,Premium,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",45.5,12,6,08:14,Sunday,36.73
+956703,Anthony Sullivan,59,986 Gerald Track Suite 534,Tampa,OH,95434,Standard,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",4.92,19,8,15:40,Monday,29.61
+930496,Brenda Scott,66,0612 Ward Overpass Apt. 905,Houston,AZ,24742,Basic,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,44.72,2,2,09:40,Friday,24.42
+356687,Kenneth Manning,45,4948 Natalie Expressway,Charlotte,CA,73440,Premium,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",24.78,9,2,12:15,Wednesday,29.88
+825451,Jennifer Barton,48,4038 Linda Green,Minneapolis,GA,17323,Basic,No,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",23.0,11,2,08:26,Sunday,41.35
+207450,Wanda Jackson,26,31005 Meyer Via Apt. 397,Denver,MI,42935,Standard,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",38.8,4,5,13:21,Tuesday,30.55
+271890,Roberto Smith,68,5143 Joshua Plaza Apt. 221,Fort Worth,TX,81642,Premium,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",2.58,5,0,23:15,Monday,36.73
+538741,Jodi Johnson,46,950 Randall Squares Apt. 916,San Antonio,CA,94838,Standard,Yes,Samsung,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,27.84,0,9,05:16,Saturday,14.74
+381974,Susan Liu,31,175 Kathy Forges,Chicago,GA,28879,Premium,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",4.92,11,5,23:59,Friday,10.07
+500109,Jennifer Anderson,57,2898 Harris Mills,Detroit,TX,40048,Premium,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,18.42,11,1,03:55,Saturday,44.66
+216381,James Webster,58,75791 Holly Plains,Indianapolis,CA,95637,Premium,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",6.48,14,9,07:34,Thursday,30.88
+573125,Kristen Rodgers,39,517 Kim Run Apt. 439,Seattle,IN,20557,Premium,No,Huawei,OnePlus 9,Double your data for 3 months at no extra cost,31.06,13,5,02:20,Saturday,25.56
+671621,Kelly Riley,28,36103 Steven Mission Suite 397,San Antonio,TX,48183,Premium,No,Huawei,P40 Pro,20% off Amazon Prime subscription,13.73,10,3,09:33,Tuesday,37.43
+234508,Elizabeth Leon,40,0617 Bauer Corners,Nashville,MO,17007,Basic,Yes,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",1.03,10,7,05:55,Monday,39.52
+829650,Karen Williams,18,0767 Jennifer Station Suite 136,San Antonio,FL,48655,Premium,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",47.9,6,1,22:49,Thursday,8.93
+962645,Jacob French,63,332 Holly Keys Apt. 707,Columbus,NC,22691,Premium,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,14.78,1,9,11:15,Saturday,20.62
+499111,Andrew Burns,54,836 Kristin Summit Suite 581,Portland,FL,48733,Basic,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,4.95,7,8,17:40,Wednesday,24.86
+250810,Lance Russell,38,678 Laura Estate Apt. 310,Austin,DC,50560,Basic,No,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",14.83,17,6,01:52,Monday,8.44
+392890,Alison Hunter,43,3021 Hester Ferry Apt. 294,New York,MN,3148,Basic,No,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,14.33,4,8,18:30,Tuesday,0.09
+673665,Charles Thomas,63,7102 Peterson Knolls,Phoenix,CA,89682,Basic,No,Apple,OnePlus 9,Buy a tablet: 30% off on us,2.92,3,1,19:39,Monday,22.24
+940477,Jennifer Smith,53,1982 Madison Fields Suite 469,Miami,TX,97553,Basic,Yes,Huawei,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",12.42,18,0,06:05,Monday,34.86
+460032,Derrick Palmer,40,7843 Sims Pass Suite 501,Dallas,TN,92903,Basic,No,Apple,OnePlus 9,Free streaming service for 6 months with any Verizon plan,17.1,18,1,11:39,Friday,2.27
+469599,Marisa Phelps,18,7723 Daniel Mountains,Fort Worth,IN,21165,Premium,Yes,Huawei,iPhone 13,Buy a tablet: 30% off on us,29.39,18,9,08:03,Thursday,17.75
+760960,Allison Smith,68,1380 Jorge Dam,Columbus,IL,23138,Premium,Yes,OnePlus,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",18.46,12,6,04:44,Wednesday,26.91
+850020,Christine Williams,57,8512 Joy Roads,New York,FL,2894,Standard,Yes,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",35.77,14,5,10:08,Tuesday,21.81
+979611,Holly Howard,32,38876 Williams Isle,Orlando,AZ,69746,Premium,Yes,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",16.64,9,8,06:47,Wednesday,25.51
+271836,April Erickson,38,90099 James Pike Suite 913,Detroit,WA,48202,Premium,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",12.62,0,9,16:41,Monday,31.08
+829903,Alicia Joseph,64,8263 James Rapids,Miami,OH,50406,Basic,No,OnePlus,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",48.92,10,0,12:51,Monday,45.55
+145714,Brandon Miller II,26,96717 Nelson Neck,Kansas City,MN,41087,Basic,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",11.95,5,6,21:55,Friday,31.92
+727234,Holly Hernandez,26,09761 Patton Point Apt. 170,Orlando,FL,39696,Premium,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,48.57,17,3,22:04,Wednesday,10.52
+996048,Jeffrey Reed,27,015 Mills Island Suite 921,Fort Worth,TX,74313,Standard,No,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",21.11,13,2,07:06,Saturday,38.37
+730271,Derrick Hernandez,69,1417 James Oval,Phoenix,FL,66001,Basic,Yes,Apple,OnePlus 9,"Buy one accessory, get another 50% off",10.81,14,1,04:10,Thursday,18.65
+566960,Erica Mathis,43,28036 Juan Curve Apt. 566,Denver,OR,85214,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",24.38,9,4,21:54,Wednesday,32.94
+811851,Juan Mckee,58,6578 James Forest,Phoenix,FL,78191,Premium,Yes,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",16.82,7,0,05:55,Saturday,47.1
+224123,Steven Fisher,52,46067 Chapman Road Apt. 943,Columbus,CA,25322,Standard,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,8.23,6,5,06:56,Saturday,18.55
+405628,James Case,69,6108 Stephanie Valleys Apt. 330,Phoenix,OR,79740,Standard,Yes,OnePlus,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",27.01,16,3,09:29,Monday,34.1
+182989,Jennifer Cox,42,71682 Kiara Trail,Washington,MA,25404,Basic,Yes,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",5.72,19,7,22:57,Saturday,38.14
+398356,Kevin Atkinson,43,5557 Lane Parkway,Washington,NV,22935,Standard,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",16.22,7,2,08:13,Monday,39.34
+929957,Angela Hayes,28,13144 Richards Locks Apt. 693,Tampa,MO,57547,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",17.05,4,2,15:34,Tuesday,45.49
+278274,Dawn Singleton,55,003 Underwood Garden,Columbus,MO,57403,Premium,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,43.91,14,7,23:43,Thursday,24.1
+787995,Kimberly Ferguson,19,05839 Carly Stravenue,Tampa,NV,67225,Standard,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",32.55,10,3,01:07,Thursday,40.43
+425352,Kathleen Dudley,24,20180 Victoria Island,Kansas City,DC,10430,Standard,Yes,Samsung,P40 Pro,Buy a tablet: 30% off on us,37.13,6,8,15:38,Monday,46.06
+920260,Richard Knight,35,8917 Cook Burg Apt. 747,Denver,IN,99802,Standard,No,OnePlus,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",36.84,12,2,13:08,Friday,20.05
+511927,Sergio Small,44,810 Gregg Parkway,Denver,NV,29279,Standard,Yes,Huawei,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",22.08,0,4,08:05,Thursday,6.31
+889852,Paula Thomas,51,8183 Thomas Fields,San Diego,MI,76707,Basic,No,Google,Galaxy S21,Buy a tablet: 30% off on us,32.7,0,2,21:48,Saturday,16.76
+983184,Jeremy Johnson,44,7425 Maria Roads,Columbus,FL,56213,Standard,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",46.86,18,5,02:24,Sunday,37.06
+231373,David Bernard,34,0571 Jon Vista,Cincinnati,NC,53717,Basic,Yes,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",30.35,11,5,22:49,Sunday,12.14
+538452,Eric Burton,60,9554 Jeffrey Corner,Nashville,OH,35256,Premium,Yes,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",9.05,16,8,09:28,Tuesday,7.32
+215294,Adam Sanchez,61,1761 Cruz Valley Apt. 152,Miami,OR,66871,Standard,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",20.3,17,2,15:27,Saturday,21.48
+559451,Eddie Browning,68,323 Davis Way Suite 009,Boston,OH,17320,Basic,No,Huawei,P40 Pro,20% off Amazon Prime subscription,5.3,19,8,20:15,Saturday,18.55
+748307,Melinda Mills,41,254 Kramer Summit Suite 275,Indianapolis,CA,34625,Standard,No,Apple,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",13.62,13,2,02:56,Saturday,6.25
+165726,Susan Ortiz,42,298 Cory Overpass Suite 069,Los Angeles,GA,17640,Premium,No,Google,iPhone 13,Buy a tablet: 30% off on us,44.07,19,8,02:04,Friday,6.94
+241564,Brittany Hamilton,24,348 Gloria Lodge Apt. 900,Austin,TX,33776,Premium,Yes,OnePlus,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",0.54,3,6,22:25,Friday,34.2
+477812,Robert Sanchez,69,5541 Lisa Squares,Phoenix,NV,58730,Premium,No,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,31.05,5,5,07:18,Tuesday,42.68
+368246,Adrian Hudson,23,66354 Joshua Highway Suite 732,Miami,WA,75071,Standard,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,36.9,10,5,01:50,Wednesday,42.75
+805696,Mr. William Brown Jr.,41,292 Foster Stravenue Apt. 006,Cleveland,NC,23562,Standard,No,OnePlus,OnePlus 9,Double your data for 3 months at no extra cost,5.61,17,5,09:15,Sunday,25.04
+218015,Gail Tate,50,91398 Michael Stream Apt. 910,Nashville,TX,30365,Basic,Yes,OnePlus,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",14.52,1,4,19:47,Saturday,20.1
+840674,Bonnie Gillespie,66,599 Gutierrez Lodge Suite 299,New York,OR,46007,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",28.11,17,1,19:59,Thursday,4.48
+354079,Chelsea Benson,46,50106 Sarah Dam Apt. 997,Minneapolis,MN,51790,Standard,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",46.93,1,7,13:28,Monday,30.98
+650929,Brett Mcgee,60,8914 Brooke Ways,Chicago,DC,25341,Premium,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",47.94,12,8,20:01,Wednesday,31.72
+789944,Michael Anderson,39,732 Hahn Trafficway,San Diego,MN,89992,Premium,Yes,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,30.72,18,6,13:03,Saturday,36.61
+788105,Robert Parker,43,8323 Andrew Forest,Phoenix,NY,72363,Basic,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,3.72,14,1,02:19,Friday,5.03
+613758,Thomas Torres,45,72006 Victoria Corner,Atlanta,MA,64704,Basic,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,46.56,4,8,11:32,Saturday,0.04
+465890,Pamela Watts,67,97823 Stephanie Mountain Apt. 925,Cincinnati,FL,41392,Basic,No,Google,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,8.28,14,0,13:26,Tuesday,24.32
+545101,Katelyn Lopez,38,30996 Ramirez Cliffs Suite 123,Phoenix,DC,70833,Basic,Yes,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",19.66,4,7,03:11,Tuesday,2.8
+136631,John Olson,66,670 Amy Run,New York,OH,3607,Premium,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",8.38,15,0,09:33,Wednesday,28.19
+866577,Anthony Diaz,24,54571 Young Stream,Washington,MO,44784,Basic,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",46.86,3,4,15:26,Thursday,33.42
+172991,Lisa Hardy,34,531 Carter Cape,Las Vegas,OH,68391,Basic,Yes,Google,Pixel 6,Buy a tablet: 30% off on us,49.93,16,9,19:50,Friday,45.15
+104014,Desiree Crawford,37,814 John Mountain,Indianapolis,CO,34162,Basic,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",47.49,1,2,03:57,Monday,18.42
+373237,Sarah Martin,58,62125 Leslie Camp,Columbus,TX,26188,Basic,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",45.61,7,4,06:54,Saturday,48.71
+118070,Pamela Castillo,66,357 Kenneth Knoll Suite 349,San Antonio,FL,26142,Premium,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",39.12,19,7,09:07,Saturday,16.03
+922209,Thomas Howard,37,035 Melton Gardens,Miami,MO,36551,Basic,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,18.45,16,2,09:02,Friday,5.33
+156958,Nicholas Mays,39,486 Johnson Summit,Atlanta,MI,42298,Premium,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,30.16,3,2,05:23,Tuesday,44.46
+182074,Jennifer Sherman,45,3545 Conley Mews,Boston,NC,6058,Standard,Yes,OnePlus,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,27.24,19,7,04:28,Thursday,8.61
+635017,Victoria Bailey,57,6399 Ali Club,Tampa,NY,35707,Premium,No,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",12.0,9,7,00:06,Saturday,26.03
+855073,Brenda Taylor,66,48205 Edwards Dale,Cincinnati,DC,18412,Premium,No,OnePlus,iPhone 13,Buy a tablet: 30% off on us,0.55,11,8,01:11,Saturday,28.13
+276089,Brianna Woods,24,43304 Chen Inlet,Fort Worth,CA,71533,Basic,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",36.7,18,9,01:35,Monday,11.19
+297392,Amber Armstrong,18,354 Anderson Drive,Portland,TX,63829,Standard,Yes,Huawei,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",36.73,3,8,20:14,Saturday,26.51
+258823,Erin Hill,49,6229 Newman Route Suite 600,Los Angeles,FL,92064,Standard,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",14.57,3,4,05:10,Wednesday,28.28
+730152,Matthew Buchanan,30,23834 James Green Suite 562,Orlando,WA,86731,Standard,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",44.24,14,3,01:25,Sunday,7.41
+493002,Travis English,47,1360 Beasley Ville,Boston,CO,28585,Standard,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",6.09,19,8,23:49,Tuesday,29.78
+833429,Brian Dunlap,40,068 Cain Row Apt. 070,Nashville,OH,41495,Premium,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",29.91,5,6,13:16,Sunday,43.77
+598863,Michael Mason,68,6546 Ingram Way,Orlando,CO,66767,Standard,Yes,Samsung,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",43.35,18,5,15:10,Tuesday,1.1
+467654,Diane Peters,36,09739 Jessica Ports Suite 817,San Francisco,CA,83026,Premium,Yes,Huawei,P40 Pro,Buy a tablet: 30% off on us,18.29,10,9,18:54,Sunday,43.36
+679036,Suzanne Hayes,49,2866 Herman Pass Apt. 756,Tampa,CO,63289,Premium,No,Apple,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",15.35,3,1,20:44,Friday,10.44
+630089,Robert Tate,47,6484 Ronald Views Apt. 986,Denver,IN,82818,Premium,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",27.5,10,1,11:09,Saturday,3.87
+250262,Kara Conway,46,28298 Rose Landing Apt. 404,Fort Worth,MO,59645,Standard,Yes,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",44.27,13,0,16:08,Friday,4.37
+542905,Tyler Thomas,66,5879 Jacob Divide,Boston,TX,18337,Basic,No,OnePlus,iPhone 13,Buy a tablet: 30% off on us,34.69,10,2,22:18,Friday,39.57
+335362,Cheryl Carter,62,37307 Scott Plains Apt. 457,Minneapolis,CA,93737,Basic,Yes,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",22.34,2,7,04:10,Monday,13.74
+544209,Stephanie Weber,46,8002 Cunningham Dam Apt. 108,Columbus,TX,67508,Standard,Yes,Apple,OnePlus 9,Free streaming service for 6 months with any Verizon plan,44.33,6,6,00:50,Monday,20.96
+653880,Julian Ramirez,47,860 Gentry Route,San Diego,OH,45177,Basic,No,Apple,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",5.44,12,5,22:40,Friday,36.7
+897079,James Ramirez,33,23505 Hall Garden Suite 214,Miami,WA,56106,Basic,No,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",28.77,9,6,06:15,Saturday,22.84
+764076,Robert Clayton,57,53246 Jackson Stream Apt. 299,Minneapolis,AZ,50628,Premium,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,24.66,6,8,08:53,Thursday,20.2
+319963,Heather Buchanan,36,39587 Gilbert Harbor,Portland,FL,23861,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",19.51,16,9,05:21,Saturday,27.36
+580761,Richard Morgan,35,9217 Nguyen Squares Apt. 806,Charlotte,FL,22654,Standard,No,Apple,iPhone 13,Free streaming service for 6 months with any Verizon plan,17.88,9,0,00:14,Tuesday,40.38
+348710,Cynthia Coleman,18,874 White Burgs,Miami,TN,8037,Standard,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,23.75,19,0,03:40,Saturday,33.55
+320984,Melissa Carr,31,807 Flores Wells,Seattle,TX,25973,Basic,No,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,19.38,13,1,01:37,Sunday,11.69
+997059,Kathy Thompson,68,638 Dustin Springs,Boston,MA,51585,Premium,Yes,Apple,iPhone 13,Buy a tablet: 30% off on us,46.42,12,7,09:30,Wednesday,20.8
+956748,Savannah Harris,64,4341 Stewart Fort Suite 829,San Antonio,IL,80672,Standard,Yes,Apple,iPhone 13,"First purchase: Buy two phones, one on us",14.13,3,2,12:15,Sunday,42.27
+882355,William Lewis,67,1589 Taylor Trail,Kansas City,NC,1479,Standard,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",13.45,0,9,08:29,Monday,20.58
+364512,Christina Chandler,19,2235 Tina Ports Suite 872,Minneapolis,TX,57641,Standard,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",32.47,5,9,09:31,Monday,33.38
+701863,Robert Aguilar,45,31551 Ruiz Lodge,Dallas,DC,8574,Standard,No,Apple,Pixel 6,Buy a tablet: 30% off on us,22.56,10,7,08:41,Monday,20.85
+368799,Darryl Sellers,66,476 Browning Falls,Boston,OR,87961,Standard,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",2.72,3,7,17:01,Thursday,21.18
+337549,Tina Crosby,67,110 Annette Knolls,Atlanta,OR,50446,Standard,No,OnePlus,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",12.41,4,5,01:01,Wednesday,40.55
+694319,Christine Ramos,47,4286 Moore Trail Suite 571,New York,MI,55669,Basic,No,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",13.99,19,0,09:44,Tuesday,1.18
+584299,Henry Hill,55,54707 Fisher Village,Minneapolis,NC,38272,Premium,No,OnePlus,Pixel 6,Buy a tablet: 30% off on us,12.17,1,4,14:56,Sunday,25.37
+712210,Adrian Kelly,68,28201 Johnson Loaf,Dallas,CA,9459,Premium,Yes,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,13.9,13,1,03:16,Thursday,42.0
+548982,Aaron Herrera,21,23129 Nguyen Mall,Nashville,DC,52520,Standard,Yes,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",25.64,10,0,19:33,Wednesday,35.63
+224046,Ethan Ali,18,4574 Jacob Fork Apt. 985,San Diego,OH,2221,Premium,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",26.28,1,4,13:46,Wednesday,19.03
+506619,Taylor Taylor,25,89668 Dixon Parkways Apt. 684,Phoenix,NC,77895,Premium,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",4.33,9,5,06:22,Tuesday,29.6
+132097,Eric Haas,46,71277 James Estates Apt. 141,Denver,NV,8781,Premium,No,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",5.78,2,6,00:29,Thursday,38.6
+766326,Christian Norman,56,44620 Justin Knolls,Detroit,GA,25545,Standard,No,Google,Pixel 6,20% off Amazon Prime subscription,42.8,11,8,13:30,Sunday,12.18
+749150,John Schmidt,20,023 Wells Centers,Denver,NV,1505,Standard,Yes,Huawei,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",44.78,10,1,21:19,Tuesday,30.57
+330229,Travis Hughes,49,4544 Garrett Trail,Los Angeles,TX,6547,Premium,No,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",49.64,17,8,16:23,Friday,9.21
+218834,Nicholas Phillips,27,25526 Dominique Parkways,New York,IL,94665,Premium,No,Samsung,iPhone 13,20% off Amazon Prime subscription,24.42,2,0,17:40,Wednesday,7.56
+193848,Edwin Drake,27,45356 Nunez Run,Minneapolis,IN,84278,Standard,Yes,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",46.58,8,3,11:27,Sunday,5.57
+152921,Patrick Miller,36,2681 Wesley Course Apt. 239,Minneapolis,OH,50636,Basic,No,Apple,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,44.26,7,5,00:13,Sunday,33.79
+805086,Kevin Miller,63,63636 Jeremy Mills,Cleveland,NV,32719,Premium,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,45.69,2,7,22:08,Tuesday,30.27
+750429,Charles Howard,51,2630 Tamara Divide,Fort Worth,AZ,67653,Basic,Yes,Samsung,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",7.47,15,4,17:32,Saturday,18.38
+805660,Courtney Khan,50,7111 Smith Turnpike Suite 857,San Antonio,TN,36460,Premium,No,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",25.52,5,9,00:57,Wednesday,33.81
+384821,Debra Lopez,40,7359 Welch Landing,Portland,AZ,74420,Basic,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",21.58,12,2,07:48,Wednesday,48.79
+155609,Veronica Rhodes,45,346 Erica Park Apt. 844,Boston,FL,62239,Basic,No,Huawei,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,11.22,19,1,04:14,Monday,7.24
+327897,Thomas Gonzales,49,498 Carrie Mills Apt. 906,Boston,DC,37152,Basic,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,7.71,16,9,05:02,Wednesday,33.06
+131024,Rachel Cruz,67,0983 Flynn Junction,Washington,GA,91419,Standard,Yes,Samsung,Pixel 6,"Buy one accessory, get another 50% off",25.85,19,5,02:42,Thursday,7.88
+170313,Christopher Payne,24,61253 Ferguson Avenue Apt. 121,Cleveland,TX,96884,Basic,Yes,Samsung,iPhone 13,Buy a tablet: 30% off on us,24.54,1,4,20:46,Wednesday,18.86
+489957,Matthew Ortiz,46,1064 Guerrero Lakes Suite 341,Dallas,AZ,71446,Basic,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",44.49,3,9,08:51,Thursday,44.61
+284078,Jennifer Brown,25,0395 John Lake,Denver,TX,44566,Basic,No,Apple,P40 Pro,20% off Amazon Prime subscription,19.0,8,4,08:36,Saturday,27.08
+457429,Mrs. Jamie Davis,18,49922 Mariah Harbor,Dallas,CA,72531,Premium,No,Apple,iPhone 13,Buy a tablet: 30% off on us,34.51,19,0,12:00,Saturday,7.77
+561243,Andrew Hernandez,20,90182 Kelley Village Apt. 241,Washington,OH,2649,Basic,No,OnePlus,Pixel 6,Buy a tablet: 30% off on us,41.32,9,9,01:17,Friday,28.84
+213632,Tina Becker,41,284 Michelle Expressway,Columbus,TX,10010,Premium,Yes,Huawei,Pixel 6,Buy a tablet: 30% off on us,14.77,5,2,20:40,Thursday,15.19
+351451,Robert Baker,40,78538 Kathleen Motorway,Cincinnati,OR,43956,Basic,Yes,Google,Galaxy S21,Free streaming service for 6 months with any Verizon plan,9.42,9,4,10:59,Thursday,48.73
+103051,Natalie Diaz,25,261 Donna Plains,Dallas,CA,68772,Basic,Yes,Google,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",37.26,17,8,00:58,Saturday,2.73
+804107,Michael Collins,64,27953 Ramsey Cove,Orlando,CA,29175,Standard,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",24.33,0,7,02:14,Thursday,38.48
+476836,Karen Price,54,33120 Christine Well Apt. 429,Indianapolis,MA,38976,Premium,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",37.26,11,9,01:35,Sunday,18.59
+711523,Stephanie Parker,20,62097 Edwards Islands Suite 984,Houston,IL,47476,Basic,No,Apple,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,22.4,12,1,17:52,Tuesday,48.61
+821772,Daniel Bautista,68,17870 Colleen Center,New York,NY,48674,Premium,No,Google,OnePlus 9,Buy a tablet: 30% off on us,46.89,5,5,01:20,Tuesday,47.22
+289407,Tammy Knapp,50,2214 Derek Lock,New York,FL,2550,Premium,Yes,Google,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",28.45,13,5,05:16,Monday,49.24
+549395,William Robinson,45,743 Phillips Points,Las Vegas,FL,79164,Standard,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",8.37,6,2,21:02,Sunday,22.54
+562894,Hector Arnold,64,28253 Jeffrey Burg Suite 093,Seattle,TX,92325,Standard,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",23.7,5,0,13:58,Friday,33.54
+311810,Jason Brown,25,3266 Alexander Skyway,Indianapolis,CA,43670,Standard,No,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",20.81,0,0,22:47,Sunday,1.1
+827975,Paul Stephens,51,1702 Schultz Parkway,Atlanta,TX,83936,Standard,Yes,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",33.36,16,3,19:43,Wednesday,15.56
+173523,Michelle Wilson,52,3144 William Corner Suite 797,Seattle,MI,68345,Standard,No,Huawei,Pixel 6,Buy a tablet: 30% off on us,29.75,0,5,00:13,Wednesday,46.84
+860463,Nathan Reyes,49,363 Jones Haven Apt. 870,Phoenix,IN,71143,Standard,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",38.2,7,8,00:30,Sunday,36.9
+194476,Jason Wolf,41,0483 Steele Ferry Apt. 491,Austin,MO,44790,Standard,Yes,OnePlus,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",11.4,18,3,05:59,Wednesday,15.41
+333841,Amanda Mcdonald,31,1504 Thomas Corner Suite 864,Cleveland,OH,5162,Standard,Yes,Apple,P40 Pro,Get a $50 gift card with any new phone purchase,30.22,14,0,19:11,Tuesday,29.64
+903451,Tracy Cooper,49,678 Cindy Common Apt. 517,Portland,MO,31952,Basic,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",17.32,18,5,10:54,Monday,23.37
+970045,David Rodriguez,63,52457 Valerie Road,Kansas City,FL,57967,Premium,No,Samsung,OnePlus 9,Buy a tablet: 30% off on us,21.9,1,3,16:18,Tuesday,38.69
+322866,Stephanie Carter,60,6056 Maria Mountains Apt. 761,Los Angeles,FL,54654,Standard,Yes,Apple,iPhone 13,Buy a tablet: 30% off on us,40.1,7,7,08:19,Saturday,9.5
+186672,Rhonda Brock,33,25262 Alexander Springs,Boston,FL,92136,Standard,No,Google,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",36.45,12,2,03:18,Monday,8.22
+698135,Kelli Banks,21,776 Joseph Ridges Apt. 430,San Diego,FL,98054,Premium,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",46.51,19,5,06:21,Sunday,49.79
+444894,Ryan Ramos,69,30236 Miller Mall,Austin,TX,5885,Basic,Yes,OnePlus,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",14.63,12,2,17:39,Monday,30.0
+834994,David Diaz,54,6296 Holmes Lodge Apt. 780,New York,GA,62598,Premium,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,32.25,14,3,01:57,Sunday,37.82
+128251,Jacqueline Stone,38,17369 Rachel Green Suite 510,Austin,OR,35384,Premium,Yes,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,34.77,18,9,18:39,Saturday,13.08
+727769,Christopher Wong,31,3252 Watson Expressway Apt. 163,Orlando,FL,11909,Standard,No,Huawei,Pixel 6,Buy a tablet: 30% off on us,32.67,13,8,12:02,Friday,28.45
+474710,Ivan Brown,48,35478 Jacob Trafficway Apt. 680,Seattle,OH,95288,Premium,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",30.81,14,6,10:24,Wednesday,32.71
+650233,Katelyn Cook,65,1970 Watson Mountain,Charlotte,TX,21751,Premium,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",16.41,2,1,16:15,Sunday,42.36
+977284,Amy Hughes,35,754 Michael Lake,Austin,OR,50233,Standard,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",33.83,12,0,18:27,Tuesday,5.91
+132217,Joseph Williams,24,771 Jesse Spring Apt. 013,Atlanta,MI,7720,Standard,Yes,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,31.5,14,5,02:15,Sunday,35.12
+108308,Sheila Castro MD,27,625 Nancy Square,Charlotte,MO,31247,Standard,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",49.41,17,9,23:55,Saturday,46.72
+368093,Kevin Hendricks,24,455 Justin Camp,Austin,CA,8117,Standard,No,Huawei,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",16.38,15,7,03:52,Saturday,0.21
+283062,Teresa Johnson,50,460 Gonzales Tunnel,Fort Worth,IL,8985,Premium,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",35.04,13,7,07:51,Friday,15.51
+494366,Barbara Gregory,40,70488 Elizabeth Grove Apt. 749,Houston,MN,23001,Premium,No,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",49.95,11,9,20:58,Thursday,42.94
+844840,Nicole Mccarthy,38,0006 Walton Plains,Los Angeles,MO,10305,Basic,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",15.9,3,8,10:02,Thursday,23.99
+200235,Robert Wright,36,69353 Anderson Islands Suite 301,Nashville,IN,39044,Basic,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",27.17,12,3,08:34,Sunday,40.24
+174740,Victoria Cooper,65,233 Cox Ports,San Diego,FL,47908,Premium,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",12.14,7,4,22:13,Sunday,3.27
+478496,Jennifer Crosby,36,1149 Villarreal Spurs Apt. 586,Indianapolis,TX,58392,Basic,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",16.36,4,2,14:08,Tuesday,46.41
+953049,Richard Roberts,53,14460 Christopher Hill,Houston,WA,75069,Premium,Yes,Samsung,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",16.89,5,0,10:24,Saturday,2.26
+850201,Edward Coleman,46,1657 Erika Harbor Apt. 366,San Diego,WA,71648,Basic,Yes,Huawei,iPhone 13,Free streaming service for 6 months with any Verizon plan,11.56,3,8,20:26,Sunday,39.68
+903328,Cheryl Hawkins,35,669 Williams Harbor Suite 151,Las Vegas,MI,79028,Standard,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,21.63,16,3,04:11,Friday,24.11
+277247,Laurie Wright,19,187 Rebecca Expressway,San Diego,TX,23312,Basic,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",19.89,9,5,04:01,Wednesday,23.81
+763165,Jennifer Richardson,18,2333 James Villages Suite 254,Los Angeles,FL,3899,Standard,No,OnePlus,Galaxy S21,20% off Amazon Prime subscription,27.53,4,9,15:22,Tuesday,30.74
+629525,Kevin Brown DVM,64,9677 Brown Terrace,Boston,NC,58709,Standard,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",46.82,2,3,18:08,Saturday,42.14
+120056,Teresa Grimes,22,85820 Angela Fords,Charlotte,CA,31706,Standard,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",48.7,19,8,04:37,Sunday,33.24
+276615,Andre Aguirre,37,726 Zachary Ford Apt. 233,Austin,OH,91991,Standard,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",42.5,4,0,17:10,Thursday,10.88
+287628,Mr. George Munoz,28,4840 Amy Bridge,Minneapolis,TX,59040,Basic,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",39.64,4,6,11:07,Friday,45.12
+738836,Marissa Burton,59,4140 Jessica Green,Las Vegas,NC,87049,Premium,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",21.09,18,4,01:13,Wednesday,39.39
+473632,Kathleen Greer,19,553 Garrett Turnpike,Charlotte,TX,88804,Standard,No,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",44.04,2,9,15:28,Thursday,24.5
+234415,Caitlin Murray,20,5315 Melinda Points Apt. 054,Fort Worth,FL,93871,Basic,No,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,15.29,17,9,06:17,Friday,17.74
+506716,Bryan Byrd,40,749 Hannah Canyon,New York,TX,33881,Standard,Yes,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",12.79,8,6,20:14,Wednesday,43.9
+546438,Michael Anderson,29,3336 Hill Glens,Tampa,FL,23014,Basic,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",24.99,8,7,21:57,Thursday,48.56
+653663,Jackie Medina,37,4857 Lauren Creek Apt. 771,Portland,MA,98824,Basic,Yes,Samsung,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,49.5,0,8,08:55,Sunday,45.3
+765022,Michael Blankenship,22,511 Lee Walks,Detroit,OH,3213,Basic,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",1.86,12,7,11:05,Thursday,9.15
+641252,Jesse Marshall,54,874 Veronica Manor,San Francisco,TX,48517,Premium,No,OnePlus,OnePlus 9,20% off Amazon Prime subscription,37.74,14,2,14:14,Friday,15.28
+737717,Daniel Richard,55,33755 Victor Hills,Orlando,FL,73808,Basic,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",21.4,3,5,09:11,Wednesday,9.35
+352764,Jeffrey Hansen,47,57057 Jessica Meadow,Atlanta,GA,5811,Basic,Yes,Samsung,Pixel 6,Buy a tablet: 30% off on us,41.44,17,7,06:03,Wednesday,40.12
+814998,Patricia Nelson,26,885 Samuel Land Apt. 027,Denver,TX,62961,Premium,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",8.36,17,2,02:46,Friday,17.49
+566882,Jason Blevins,51,544 Peterson Road,New York,MA,63309,Premium,No,Huawei,Galaxy S21,Buy a tablet: 30% off on us,15.2,14,9,12:22,Monday,24.86
+840427,Wendy Smith,61,8368 Jonathan Bypass,Columbus,NY,50627,Basic,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",16.41,19,1,03:34,Sunday,1.62
+612153,Melanie Garcia,52,4518 Eileen Locks,Cleveland,OH,94795,Premium,No,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",5.76,3,8,15:52,Sunday,11.71
+167215,Crystal Smith,69,3168 Amy Bypass Apt. 536,San Francisco,CA,70618,Standard,Yes,Samsung,Pixel 6,"Buy one accessory, get another 50% off",7.31,17,6,11:56,Wednesday,49.4
+955474,Jeremy Chambers,39,58674 Williams Drive Apt. 274,Denver,CA,63742,Standard,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",21.26,17,6,21:48,Friday,24.58
+244356,Nathan Washington,61,005 Christina Haven,Atlanta,CO,87273,Premium,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",22.02,12,9,05:05,Friday,10.91
+303861,Susan Williams,41,6137 Ford Circles,Las Vegas,MA,69848,Premium,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",19.75,8,8,00:15,Wednesday,47.07
+455612,Nancy Davis,34,14401 Sharon Forge,Kansas City,FL,98590,Basic,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",13.86,11,1,08:35,Monday,24.25
+554605,Ashley Gomez,27,00137 Fields Harbors Suite 862,Nashville,TX,6140,Premium,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",43.24,7,1,13:48,Saturday,4.18
+109435,Amy Hammond,47,26784 Luke Knolls,Orlando,FL,47023,Basic,Yes,Huawei,Galaxy S21,Buy a tablet: 30% off on us,7.42,16,0,03:46,Thursday,25.17
+547556,Todd Reid,63,348 Blackwell Grove Suite 787,New York,FL,79596,Standard,Yes,Google,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,36.81,15,6,02:09,Sunday,6.95
+799438,John Andrews,40,368 Lee Well,Washington,CO,38666,Premium,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,45.4,6,1,07:43,Wednesday,27.67
+965264,Deborah Pratt,49,5549 Escobar Loaf Suite 977,Washington,WA,17768,Basic,Yes,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",44.75,16,2,12:44,Monday,1.97
+675581,Jessica Robinson,34,731 Joseph Lock,Chicago,CA,13461,Basic,No,Google,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",21.54,1,3,21:55,Sunday,35.34
+178781,Stephen Bryant,67,772 Heather Views,Columbus,GA,29147,Standard,Yes,Google,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,45.73,5,0,02:59,Monday,38.55
+291475,Jeffrey Johnson,68,36280 Allen Ridges Suite 436,San Diego,TX,2167,Premium,No,Apple,Pixel 6,"First purchase: Buy two phones, one on us",27.53,9,0,05:18,Sunday,24.91
+260196,Michael Saunders,34,479 Samantha Viaduct,Cleveland,OH,59254,Standard,Yes,Huawei,iPhone 13,Buy a tablet: 30% off on us,13.04,16,2,09:09,Monday,35.94
+326507,Jeremy Beard,31,8975 Hannah Trafficway Suite 590,Fort Worth,OH,34015,Basic,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",3.18,2,2,02:59,Thursday,38.58
+406063,Steven Pearson,26,2718 Morgan Roads Suite 988,Chicago,FL,6960,Basic,Yes,Apple,iPhone 13,"First purchase: Buy two phones, one on us",25.98,11,9,12:00,Thursday,41.63
+864121,Aaron Hernandez,57,40228 Robyn Courts,Dallas,IN,20633,Premium,Yes,Apple,OnePlus 9,Buy a tablet: 30% off on us,40.6,15,5,01:43,Monday,22.67
+876665,Katherine Savage,19,834 Lindsay Key,Indianapolis,FL,44711,Basic,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",45.55,0,6,19:17,Sunday,7.57
+790607,Patricia Jenkins,62,079 Elizabeth Mission,Indianapolis,AZ,90489,Premium,Yes,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",12.1,13,8,17:10,Monday,30.15
+221172,Jennifer Shea,42,47548 David Ways Suite 023,San Antonio,OH,86987,Standard,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",25.98,15,4,03:11,Saturday,18.74
+456902,Rhonda Newman DDS,56,960 Smith Place,Los Angeles,GA,96079,Premium,Yes,Apple,iPhone 13,"First purchase: Buy two phones, one on us",32.02,3,6,10:50,Thursday,39.74
+584963,Jamie Gardner,26,97752 Jeanette Plains Apt. 774,Indianapolis,MA,64307,Premium,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",38.63,5,3,15:42,Sunday,15.86
+555968,Hannah Dunn,39,35451 Antonio Path Apt. 653,Austin,AZ,84307,Basic,Yes,Google,P40 Pro,Buy a tablet: 30% off on us,30.48,15,8,12:01,Sunday,18.67
+418717,Jorge Wyatt,60,2966 Mike Manors,Chicago,IL,40465,Basic,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",6.79,4,8,07:55,Monday,37.76
+159101,David Combs,63,44881 Ellis Knolls,Atlanta,MN,26623,Premium,No,Google,OnePlus 9,Buy a tablet: 30% off on us,27.29,7,7,15:10,Thursday,23.02
+595972,Shane Ross,21,633 Robert Lakes,Cleveland,OH,35042,Basic,Yes,Samsung,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",30.59,13,1,13:12,Saturday,21.56
+388790,Jennifer Deleon,43,75802 Marc Heights Suite 645,Dallas,AZ,78978,Basic,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,39.93,1,8,08:46,Thursday,32.26
+990617,Debra Stewart,46,7898 Charles Walks Apt. 493,Seattle,FL,59929,Basic,Yes,Apple,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,7.22,9,7,02:36,Thursday,47.8
+647337,David Herrera,62,5472 Smith Ville Suite 487,Los Angeles,DC,19036,Premium,Yes,Huawei,iPhone 13,Buy a tablet: 30% off on us,40.69,17,1,12:07,Tuesday,17.51
+834965,Dana Lopez,51,83553 Hoffman Well,San Diego,NV,52987,Basic,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",28.1,17,1,18:58,Monday,16.22
+460260,Nicole Hale,40,482 Walter Mountain Suite 423,Kansas City,NV,21764,Premium,Yes,Apple,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,4.41,7,4,05:47,Thursday,4.86
+983811,Nicole Price,54,181 Marshall Estates Apt. 399,Atlanta,FL,60589,Basic,No,Samsung,P40 Pro,20% off Amazon Prime subscription,41.86,2,6,06:43,Monday,38.66
+692673,Tyler Garcia,28,1394 Mark Rest,Nashville,GA,7740,Standard,No,Apple,P40 Pro,Buy a tablet: 30% off on us,24.27,17,8,04:32,Monday,11.47
+750419,Aaron Watson,23,36370 Schmidt Drive,Cleveland,OH,87214,Basic,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",15.49,5,2,15:08,Thursday,40.12
+533374,Kimberly Long,35,114 Nicholas Burg,Orlando,FL,34070,Basic,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",2.34,18,0,20:55,Thursday,6.63
+820777,Catherine Wilson,38,62509 Robert Pine Apt. 814,Columbus,TN,24858,Premium,No,Apple,Pixel 6,Buy a tablet: 30% off on us,6.33,2,0,13:43,Wednesday,35.21
+647577,Tonya Stewart,59,43017 Ryan Mountain,Phoenix,TX,56550,Premium,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",43.62,12,1,17:03,Friday,28.74
+472370,Anna Reyes,53,520 Calderon Junctions Apt. 928,Los Angeles,NY,38905,Basic,Yes,Google,Pixel 6,"First purchase: Buy two phones, one on us",8.54,6,9,04:18,Wednesday,38.97
+987225,Marcus Levine,58,917 Donald Corner Apt. 839,Seattle,MA,63943,Standard,Yes,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",44.46,11,8,17:45,Wednesday,3.36
+371967,Brittany White,55,03781 Davila Viaduct Suite 593,Phoenix,GA,8697,Basic,Yes,OnePlus,P40 Pro,"Buy one accessory, get another 50% off",34.95,14,3,05:46,Monday,31.23
+291232,John Martinez,51,74276 Paige Circles Suite 688,Denver,TX,71563,Basic,No,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",26.11,1,6,05:40,Wednesday,6.28
+404119,Erika Porter,34,89627 Davis Islands Apt. 889,Columbus,TX,99238,Standard,Yes,Apple,iPhone 13,"First purchase: Buy two phones, one on us",2.68,11,8,13:25,Sunday,18.67
+109540,Debra Griffin,54,148 Brown Plain,Houston,FL,84889,Premium,No,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",30.89,2,3,13:13,Thursday,7.32
+640652,Miguel Wilson,42,449 Nelson Hills Suite 355,Denver,CA,54488,Basic,Yes,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",5.64,6,8,19:16,Sunday,27.19
+497827,Sarah Simpson,55,64883 Jessica Port,Fort Worth,MI,92265,Premium,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",38.4,12,7,03:41,Saturday,39.52
+651951,Shawn Fuentes,29,939 Warner Mission Suite 046,Seattle,MN,7025,Premium,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",17.6,7,0,12:03,Monday,4.6
+151991,Mark Estes,40,647 Harris Burg Suite 190,Minneapolis,NY,44287,Standard,No,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",6.91,15,1,02:31,Monday,39.12
+288751,Lisa Terrell,59,7107 Patrick Crossing Suite 918,San Diego,DC,42087,Standard,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,49.05,5,5,18:02,Sunday,43.34
+466326,Tony Rosales,39,88611 Miller Land,Indianapolis,FL,66739,Premium,No,Apple,OnePlus 9,Buy a tablet: 30% off on us,26.27,18,1,10:58,Tuesday,43.12
+786337,Sandra Caldwell,38,3608 Danielle Plaza Apt. 075,Boston,TN,77021,Basic,No,Samsung,Galaxy S21,"Buy one accessory, get another 50% off",22.42,1,6,23:39,Thursday,17.4
+718992,Denise Mills,44,287 Moore Keys,Columbus,TN,34588,Premium,Yes,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",23.85,9,4,04:17,Tuesday,9.78
+149115,Bryan Hughes,48,038 Perkins Walks,Cincinnati,CA,93717,Basic,No,Apple,iPhone 13,Buy a tablet: 30% off on us,29.51,10,4,00:35,Monday,46.62
+453151,Sarah Pearson,23,191 Michelle Road Apt. 619,Fort Worth,MO,3757,Basic,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,30.77,13,7,09:19,Thursday,12.73
+843583,Melissa Gibson,44,139 Vaughan Creek Suite 328,Charlotte,OH,81559,Standard,No,Huawei,Pixel 6,20% off Amazon Prime subscription,42.14,5,5,15:52,Monday,8.38
+291962,Megan Thomas,57,19645 Griffin Pike,Atlanta,TX,76167,Basic,Yes,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",32.27,3,8,23:56,Wednesday,40.69
+821747,Angela Ellison,51,03611 Michelle Point Apt. 299,Minneapolis,TX,42771,Basic,No,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",47.22,13,5,01:46,Friday,38.03
+249143,Michael Montgomery,29,3848 Steven Park Apt. 026,Fort Worth,CA,4056,Premium,No,Google,iPhone 13,20% off Amazon Prime subscription,13.51,8,4,23:23,Wednesday,44.99
+814635,Dr. David Hernandez Jr.,62,577 Jordan Run Suite 870,Minneapolis,MI,32820,Standard,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,39.91,10,5,11:28,Saturday,41.99
+636226,Brian Jones,24,2358 Jeffrey Cape Apt. 740,Seattle,DC,88841,Basic,No,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",39.55,14,7,09:09,Wednesday,27.72
+453824,Terry Rojas,27,611 John Junctions Apt. 017,Denver,DC,91134,Basic,No,OnePlus,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",23.49,0,0,20:27,Monday,21.0
+104000,Emily Miles,62,748 Juan Knolls Suite 094,Atlanta,CA,25755,Standard,No,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,37.82,12,0,16:42,Friday,0.68
+825948,Karen Garner,34,853 Hall Ridge Suite 450,Kansas City,CA,18241,Premium,Yes,OnePlus,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,20.67,3,8,06:29,Tuesday,4.12
+987474,Andrea Hamilton,43,1471 Lydia Falls Suite 703,Denver,IN,8087,Standard,No,Apple,P40 Pro,Buy a tablet: 30% off on us,7.41,9,5,18:24,Sunday,3.74
+455754,Curtis Gross,38,858 Moore Tunnel,Orlando,CA,6376,Standard,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",27.35,7,0,06:11,Thursday,29.27
+351492,Sarah Parker,45,0700 Wilson Flats Apt. 298,Houston,CA,51066,Basic,No,Huawei,Galaxy S21,Buy a tablet: 30% off on us,29.24,14,9,07:05,Thursday,38.99
+990123,Stacy Krause,63,1201 David Brook,Fort Worth,NY,40500,Basic,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,10.36,15,9,15:05,Thursday,41.1
+599522,Keith Haley,19,86803 Kathleen Pike,Las Vegas,TX,51778,Premium,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",39.96,2,6,19:18,Friday,17.72
+591072,Dominique Rodriguez,60,5479 Jones Burg Suite 395,Denver,GA,53206,Basic,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",13.27,4,8,16:11,Tuesday,1.01
+138304,Emily Newton,18,257 Michael Inlet Suite 829,Houston,AZ,65742,Basic,No,Google,P40 Pro,Buy a tablet: 30% off on us,8.51,5,1,20:19,Friday,9.61
+604999,Timothy Morgan,68,09285 Grimes Village Apt. 274,Atlanta,CA,18145,Standard,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",21.8,3,3,01:08,Tuesday,38.25
+431593,Sherri Krueger,53,68995 Garrett Stream Suite 985,Charlotte,MI,11531,Basic,No,Apple,P40 Pro,Buy a tablet: 30% off on us,10.43,8,6,10:51,Saturday,30.17
+707274,Matthew Hayden,68,32665 Nancy Estates Suite 015,Detroit,WA,62032,Premium,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",45.11,1,0,20:34,Thursday,26.06
+251836,Erica Wallace DDS,43,130 Jeremy Village Apt. 568,Las Vegas,FL,2314,Standard,Yes,Samsung,Pixel 6,Buy a tablet: 30% off on us,48.58,7,4,23:22,Friday,30.47
+208940,David Rose,46,187 Brown Parks Apt. 743,Los Angeles,CA,39115,Premium,Yes,Google,OnePlus 9,Free streaming service for 6 months with any Verizon plan,42.62,4,6,01:12,Friday,0.74
+924926,Nathan Smith,38,308 Angela Square Suite 025,Indianapolis,TX,11897,Standard,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",45.16,9,4,16:35,Saturday,22.46
+365517,Brandi Henry,28,2555 Stewart Skyway Apt. 127,Nashville,CA,85775,Basic,Yes,Google,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",30.87,7,4,00:27,Thursday,9.85
+767521,Shannon Russo,57,00842 Schaefer Trafficway,Houston,WA,74134,Standard,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",44.04,15,3,22:56,Sunday,23.98
+721820,Billy Turner,28,7948 Melissa Crossing,Seattle,WA,20956,Standard,No,Apple,Pixel 6,"Buy one accessory, get another 50% off",34.56,12,3,08:51,Sunday,2.05
+979090,Mathew Lara,53,39153 Stevenson Rest,Atlanta,NV,54555,Basic,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",27.8,4,4,12:31,Tuesday,14.07
+485777,Catherine Sullivan,66,70673 Lowe Land Apt. 238,Miami,TN,27695,Basic,No,Google,Galaxy S21,20% off Amazon Prime subscription,46.53,14,0,13:27,Wednesday,48.95
+724674,Roy Dickson,56,6671 Jennifer Mill Suite 200,Indianapolis,CA,47527,Premium,No,Samsung,Pixel 6,20% off Amazon Prime subscription,32.69,6,3,22:45,Wednesday,4.96
+651638,Kevin Bailey,57,1936 Gregory Meadows,Cincinnati,MI,14183,Premium,No,Huawei,Pixel 6,Buy a tablet: 30% off on us,1.98,7,6,23:02,Saturday,26.09
+717296,Seth Salinas,52,469 Brown Views Suite 582,Nashville,OH,3445,Basic,No,Huawei,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,28.12,8,9,16:21,Wednesday,13.95
+980729,Scott Williams,51,934 Jackson Island Apt. 435,Denver,FL,30113,Basic,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",44.78,13,1,22:43,Friday,40.49
+649639,Vanessa Lopez,64,12429 Richard Lodge,Kansas City,CO,93667,Basic,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",13.21,6,8,23:21,Sunday,42.22
+712956,Jon Bowman,41,830 Victoria Cove,Chicago,TX,14562,Standard,Yes,Samsung,iPhone 13,Buy a tablet: 30% off on us,45.6,6,7,09:36,Wednesday,0.07
+738873,Brandi Perry,39,115 Amy Meadow Suite 987,Dallas,CA,77602,Standard,Yes,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",29.83,9,6,14:48,Friday,36.88
+437497,Cheryl Martinez,22,98501 Yang Mews,Seattle,MO,6089,Standard,Yes,Google,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,9.07,14,3,12:09,Friday,49.07
+307869,Tonya Anderson,50,0013 Owens Fork,San Antonio,OH,60154,Basic,No,Google,iPhone 13,Buy a tablet: 30% off on us,41.41,7,8,03:24,Tuesday,31.81
+165953,Mr. Alexander Frank,53,8456 Danielle Trail Apt. 196,Houston,TX,11216,Premium,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",10.42,18,8,00:54,Wednesday,2.95
+943890,Wanda Holder,64,6988 Hunter Ramp,Portland,IL,49520,Basic,Yes,Huawei,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",27.98,9,3,19:45,Monday,28.27
+600328,Christine Higgins,37,35220 Reyes Meadows,Boston,NV,45912,Standard,Yes,Huawei,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",41.43,5,4,01:00,Monday,4.8
+906790,Andrea Arnold,36,9597 Alexis Ramp Suite 107,Los Angeles,DC,13451,Standard,No,OnePlus,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",16.6,18,9,06:19,Wednesday,2.32
+103267,Jeffrey Brown,52,6474 William Ports,Washington,CA,73977,Basic,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",2.1,1,8,12:46,Thursday,45.9
+182745,Brianna Houston,69,5598 Phillip Ville Apt. 171,Charlotte,GA,13413,Basic,Yes,Apple,OnePlus 9,Buy a tablet: 30% off on us,27.88,16,7,14:13,Wednesday,25.94
+976020,Kathy Tran,60,1077 Lee Pine,Houston,FL,61989,Standard,No,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",41.4,0,4,03:44,Wednesday,4.48
+924945,Rodney Dominguez,34,22553 Valenzuela Roads Apt. 639,Cleveland,OH,16874,Standard,Yes,Apple,iPhone 13,Buy a tablet: 30% off on us,2.36,3,4,18:58,Wednesday,33.04
+257164,Dr. Casey Bolton,62,3787 Ricky Expressway Suite 707,Orlando,TX,6519,Standard,Yes,Huawei,Galaxy S21,Buy a tablet: 30% off on us,1.82,7,6,03:15,Friday,21.35
+635626,Jeffrey Hernandez,60,50560 Holly Lake,Portland,IN,36169,Basic,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",37.54,9,5,05:10,Tuesday,34.85
+231484,Holly Johnson,51,6105 Mcconnell Ferry Suite 119,Fort Worth,FL,51384,Standard,No,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",18.14,0,2,02:27,Monday,42.12
+631831,Terry Bell,26,365 Flores Haven Suite 860,San Francisco,MI,88995,Standard,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,19.01,10,3,13:26,Wednesday,29.84
+992323,Paul Montoya,43,407 Duarte Mill Suite 328,Columbus,CO,38840,Premium,Yes,Huawei,Galaxy S21,"Buy one accessory, get another 50% off",7.17,15,7,17:59,Tuesday,12.11
+160692,Maria Hansen,19,319 Stephenson Spurs Suite 616,San Antonio,FL,73347,Basic,No,Huawei,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",38.03,15,8,16:19,Friday,15.73
+320156,Michelle Lewis,26,652 Julie Gardens Apt. 245,San Francisco,TX,97521,Premium,Yes,OnePlus,iPhone 13,Buy a tablet: 30% off on us,36.51,9,8,23:43,Tuesday,3.92
+323992,Kimberly Johnson,26,2290 Patterson Mall,Charlotte,GA,45625,Premium,No,Huawei,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,33.89,11,6,00:39,Saturday,48.67
+616771,Austin Marquez,57,7029 Peterson Burg Apt. 895,San Francisco,CO,89077,Standard,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,3.13,16,9,23:20,Tuesday,41.19
+930857,James Jackson,34,69124 Margaret Harbor,Tampa,MI,79664,Basic,No,Samsung,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,5.71,14,4,09:56,Sunday,19.94
+663044,Donald Lucas,18,5259 White Stream,Washington,FL,95869,Standard,Yes,OnePlus,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,38.99,19,7,07:30,Thursday,21.98
+643176,Allen Herman,42,90850 Kimberly Coves,San Antonio,MO,69815,Basic,Yes,Huawei,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",31.74,16,9,16:51,Monday,26.48
+791095,Cheyenne Martinez,60,7450 Rebecca Junctions Suite 023,Nashville,IN,32791,Premium,No,Huawei,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",20.08,1,7,03:33,Saturday,37.01
+933727,William Ellis,57,4436 Galloway Hills Suite 363,San Antonio,OH,96451,Basic,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",42.05,13,8,04:45,Sunday,12.98
+214352,Debbie Kelly,59,442 Williamson Roads,Tampa,TN,15177,Standard,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",11.33,11,4,01:23,Monday,30.88
+969474,Kimberly Gutierrez,42,5988 Lisa Center Apt. 383,Houston,TX,5309,Standard,No,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",5.37,11,1,14:00,Tuesday,25.04
+185999,Sarah Smith,56,47089 Turner River,Miami,TX,47047,Standard,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",35.07,1,8,04:58,Wednesday,44.2
+117955,Cameron Kane,52,335 Angela Pass Apt. 216,Houston,OH,72446,Basic,Yes,Huawei,OnePlus 9,Get a $50 gift card with any new phone purchase,38.63,11,4,04:33,Sunday,26.37
+924273,Jeffrey Ross,20,927 Hoffman Hill Apt. 997,Detroit,MO,72480,Premium,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",20.7,5,4,05:12,Wednesday,34.93
+170640,Christopher Wise,67,3211 Petersen Harbors,San Francisco,OH,67465,Premium,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",26.12,16,4,10:35,Thursday,25.37
+296582,Ashley Smith,54,25750 Dennis Port,Detroit,DC,90811,Basic,No,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",10.62,7,8,08:47,Sunday,33.74
+844086,George Macias,61,74023 Jeanne Lodge Suite 174,New York,CA,16892,Standard,No,Samsung,Pixel 6,Free upgrade to the next Verizon plan tier for 3 months,44.94,11,0,15:22,Saturday,30.5
+500573,Alexandra Cantrell,61,40441 Anthony Centers,Columbus,FL,72825,Premium,Yes,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",24.87,4,2,13:01,Sunday,14.81
+525695,Shelley Conway,68,687 Schneider Mall Suite 543,Tampa,FL,84949,Standard,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,1.86,17,4,04:47,Friday,5.88
+161476,Lisa Johnson,47,728 Hernandez Cliffs,Charlotte,OR,37097,Basic,Yes,Google,OnePlus 9,"First purchase: Buy two phones, one on us",5.58,6,0,10:56,Sunday,46.95
+406955,Edward Joseph,55,04056 Rachael Canyon Suite 204,San Antonio,IL,39060,Standard,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",32.23,8,9,05:35,Thursday,12.64
+267280,Julia Reid,51,993 Black Springs Apt. 967,Denver,TX,15318,Premium,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",19.29,12,1,09:42,Saturday,34.75
+775510,Carmen Johnson,29,67403 Sara Dam Apt. 378,Cincinnati,OH,33753,Premium,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",28.3,12,4,10:53,Monday,44.89
+695468,Kiara Padilla,36,2408 Hernandez Mills Suite 116,Charlotte,NY,50730,Standard,Yes,Apple,OnePlus 9,Buy a tablet: 30% off on us,15.61,5,7,18:05,Friday,23.2
+798646,Brandon Stewart,54,004 John Lock,Minneapolis,TX,40557,Basic,Yes,Huawei,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",38.79,13,8,20:08,Saturday,29.52
+737144,James Mann,61,7992 Mendez Route,Detroit,FL,17448,Standard,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,26.28,19,4,12:12,Saturday,18.73
+954882,Troy White,66,0478 Martinez Inlet Apt. 034,Detroit,IL,85434,Basic,Yes,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",48.43,19,0,16:11,Saturday,6.32
+514568,Regina Sanchez,34,6948 Smith Dale,Atlanta,CA,52344,Standard,Yes,OnePlus,P40 Pro,Buy a tablet: 30% off on us,41.1,8,6,18:34,Tuesday,36.55
+286141,Megan English,27,06795 Johnson Plain,Detroit,CA,53368,Premium,Yes,Huawei,Galaxy S21,Buy a tablet: 30% off on us,16.99,8,6,12:50,Wednesday,24.2
+998320,Andrew Wilson,66,68198 Gomez Passage,Kansas City,FL,73065,Basic,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,34.46,2,4,14:33,Sunday,11.28
+734736,Eduardo Powell,64,1085 Owens Pine Apt. 169,Austin,MN,82444,Basic,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,33.29,11,8,19:45,Tuesday,47.47
+638685,Kenneth Salas,29,075 Hayes Hills Apt. 161,Cleveland,FL,75446,Basic,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",32.08,5,6,08:47,Monday,37.11
+278031,Trevor Nelson,33,99283 Joshua Stream,Austin,OH,30766,Premium,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,5.28,14,3,08:39,Sunday,15.37
+219180,Michael Ho,41,36452 Tina Harbors Suite 447,Denver,MA,85489,Standard,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",1.88,0,3,09:52,Wednesday,11.06
+166234,Natalie Powers,36,59973 Doris Drives,San Antonio,TX,91577,Premium,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",38.2,5,3,21:01,Wednesday,14.79
+664242,Angela Ford,25,59134 Lam Way,Tampa,NV,26174,Basic,Yes,Huawei,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",37.5,13,5,07:42,Friday,21.06
+278352,Jessica Nelson,48,519 Mcdowell Light Suite 707,Cleveland,AZ,14239,Standard,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",25.51,10,7,16:59,Monday,49.92
+179459,Christopher Fisher,38,84665 Thomas Cove,Orlando,NV,7900,Premium,Yes,Huawei,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,11.69,7,3,07:03,Monday,22.9
+509995,John Delacruz,34,426 Clark Lake Apt. 216,Nashville,TX,24516,Basic,Yes,Huawei,P40 Pro,Buy a tablet: 30% off on us,36.73,13,0,07:13,Saturday,1.81
+295004,Christopher Mora,40,98107 Hensley Center Apt. 470,San Antonio,FL,85560,Basic,Yes,Apple,Pixel 6,Buy a tablet: 30% off on us,15.88,4,7,16:32,Thursday,4.12
+566152,Michelle Hoffman,54,14433 Hall Unions Apt. 616,Dallas,OH,5089,Premium,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",26.88,7,5,09:21,Thursday,11.11
+825256,Hayden Pearson,33,9182 George Pine,Tampa,TX,95485,Premium,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",20.5,2,9,04:38,Saturday,18.81
+159163,Michael Howell DDS,23,72671 Nicole Circles Suite 896,Seattle,TX,81952,Premium,No,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",4.42,9,0,01:58,Saturday,28.39
+575853,Felicia Murphy,25,553 Koch Estates,Washington,FL,50795,Basic,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",41.45,13,6,20:58,Thursday,6.82
+151934,Leslie Olson,42,922 Leon Junction Apt. 050,Cleveland,MO,12891,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",22.73,11,7,21:30,Saturday,45.91
+820255,Latasha Bass,35,2280 Johnson Vista Suite 739,Cincinnati,MO,31985,Basic,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",40.04,16,5,17:54,Friday,37.2
+525523,Andrew Wood,42,5774 Riggs Expressway,Phoenix,TX,94952,Premium,Yes,Huawei,P40 Pro,Buy a tablet: 30% off on us,49.66,17,1,02:48,Sunday,40.98
+940530,Jay Nichols,29,365 Taylor Trace Apt. 248,Houston,TX,56969,Basic,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",30.49,8,2,22:31,Saturday,38.27
+554137,Gary Page,32,699 Santos Harbor Suite 167,Boston,AZ,49294,Basic,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,45.83,16,8,01:03,Tuesday,14.05
+105486,Cheryl Holloway,43,45119 Matthew Trail Suite 400,Tampa,GA,47534,Standard,Yes,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",16.96,12,8,12:38,Saturday,11.1
+239407,Mr. Dennis Diaz,58,338 Susan Valleys,Las Vegas,TX,77727,Premium,No,Huawei,OnePlus 9,Buy a tablet: 30% off on us,21.38,16,2,07:40,Wednesday,28.84
+973332,Alexis Williams,62,60257 James Locks Apt. 962,Houston,MN,1202,Premium,No,Google,Galaxy S21,Buy a tablet: 30% off on us,12.43,0,6,22:26,Friday,27.33
+750308,Matthew Moore,43,329 Jennifer Summit,Kansas City,TX,32938,Basic,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",44.1,15,0,02:01,Monday,43.7
+727083,Heidi Hoffman,64,72574 Michael Place Suite 137,San Francisco,CO,97908,Basic,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",7.37,7,7,06:53,Saturday,25.77
+320184,Jon Hensley,49,06707 Michael Lane,San Antonio,CO,18716,Basic,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",5.01,15,0,07:01,Tuesday,29.25
+766490,Johnny Mitchell,27,52633 Day Vista,Orlando,WA,83913,Standard,No,OnePlus,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,18.71,1,5,03:19,Thursday,3.09
+449652,Mark Barry,33,87495 Kyle Mews Apt. 870,Boston,IN,69646,Standard,No,Huawei,Galaxy S21,20% off Amazon Prime subscription,40.72,4,6,15:07,Sunday,31.44
+861315,Nicholas Jones,24,364 Melissa Villages,Las Vegas,TX,17712,Basic,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,9.51,13,3,03:31,Saturday,45.96
+742612,Carolyn Nguyen,34,389 Grant Greens Apt. 255,Houston,MA,51749,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",15.68,14,4,20:56,Saturday,49.59
+422710,Damon Foster,40,374 Brennan Burgs,San Antonio,TX,68266,Premium,No,Samsung,Pixel 6,Buy a tablet: 30% off on us,12.74,15,1,08:03,Thursday,5.65
+297775,Desiree Romero,43,57542 Daniel Valleys,New York,MO,95314,Standard,Yes,Apple,Galaxy S21,Buy a tablet: 30% off on us,21.21,17,2,03:33,Friday,13.17
+389336,Megan Adams,38,3277 Cummings Port Suite 293,Minneapolis,FL,7922,Standard,No,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",41.15,15,9,04:25,Thursday,44.75
+887494,Barbara Vargas,39,051 Cook Shoals,Boston,CA,45877,Basic,Yes,Huawei,P40 Pro,Buy a tablet: 30% off on us,46.58,12,1,05:36,Friday,16.85
+708364,Lauren Atkins,24,77298 Haley Tunnel,Phoenix,OH,42147,Premium,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,34.43,3,9,02:40,Thursday,38.81
+189780,Richard Payne,31,297 Julie Shores,Denver,CA,85135,Basic,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",47.04,5,4,15:56,Wednesday,30.47
+252617,Tracy Sutton,32,5718 Andre Cove Suite 913,Washington,CA,12570,Standard,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",29.02,6,4,11:26,Thursday,23.93
+645977,Eric Miller,24,41811 Peterson Corner Apt. 974,Chicago,WA,56298,Premium,Yes,Apple,OnePlus 9,Buy a tablet: 30% off on us,46.02,19,9,17:55,Wednesday,27.69
+897606,Joseph Porter,26,5079 Jackson Isle,Columbus,IL,82837,Premium,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",38.67,10,6,14:34,Monday,37.32
+450605,Michael Robinson,68,578 James Walks Apt. 750,Los Angeles,NC,4853,Standard,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",5.54,11,5,20:14,Friday,33.29
+989465,Billy Thompson,65,7384 Wallace Port Suite 226,New York,IL,83975,Basic,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,24.22,4,9,09:28,Monday,30.86
+633636,Maurice Smith,25,0579 Wise Flat Apt. 710,Minneapolis,OH,2655,Basic,Yes,OnePlus,iPhone 13,Buy a tablet: 30% off on us,44.32,11,5,07:01,Wednesday,8.77
+138102,Gabriel Williams,67,6876 Anderson Court Suite 123,Atlanta,MA,97647,Premium,Yes,Samsung,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",37.69,1,9,22:06,Tuesday,21.61
+174460,Christopher Rowe,40,823 Karen Viaduct Suite 006,Washington,TX,86787,Standard,Yes,Google,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,29.02,18,2,16:00,Friday,27.6
+464778,Allen King,46,42842 Daniel Orchard Suite 759,Detroit,TX,2573,Premium,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",26.44,17,8,13:42,Thursday,49.98
+189930,Christopher Sawyer,35,8305 Dana Highway Apt. 789,Seattle,CA,26376,Standard,Yes,Samsung,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",34.08,8,6,21:22,Tuesday,26.66
+631089,Matthew Johnson,48,948 Grant Coves,Phoenix,NY,59286,Basic,No,Samsung,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,5.19,12,6,16:10,Friday,33.54
+727438,Susan Smith,47,36526 Smith Lane Suite 918,Denver,MO,74041,Standard,No,Samsung,Galaxy S21,Buy a tablet: 30% off on us,5.62,7,8,14:58,Tuesday,12.93
+827627,Taylor Miles,69,587 Marvin Field,Chicago,NY,11958,Basic,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",26.8,18,0,21:09,Friday,41.17
+279208,Jeffrey Martinez,56,21472 Jacob Estate,Kansas City,MN,37401,Standard,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",20.98,18,7,12:28,Thursday,19.15
+254697,Denise Hartman,52,6211 Camacho Haven,San Francisco,TX,65547,Premium,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",11.7,17,9,07:14,Wednesday,46.68
+313945,David Schultz,35,63307 Leslie Islands Suite 577,Fort Worth,AZ,84257,Basic,Yes,Google,Pixel 6,Buy a tablet: 30% off on us,6.37,9,5,05:37,Saturday,21.41
+331915,Douglas Sanchez,59,489 Jonathan Falls Suite 343,San Antonio,MO,25764,Premium,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,7.43,4,9,02:59,Wednesday,14.43
+827952,Jessica Munoz,56,224 Katrina Alley,Austin,WA,81187,Premium,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",22.94,15,9,00:14,Tuesday,34.27
+308124,Timothy Gross,34,3265 Mcdaniel Camp,Indianapolis,TX,49012,Basic,No,OnePlus,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",4.51,11,0,16:03,Saturday,43.13
+537477,Robert Burton,31,0954 Jeremiah Shores Apt. 150,Charlotte,AZ,85523,Basic,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",16.99,12,0,14:20,Tuesday,8.43
+625830,Brittney Eaton,48,130 Cortez Gateway,Nashville,TX,54662,Premium,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",36.34,6,8,04:42,Friday,33.38
+383821,Christopher Cline,41,98780 David Court Apt. 290,Orlando,OR,24414,Premium,No,Samsung,OnePlus 9,"First purchase: Buy two phones, one on us",19.8,9,3,15:01,Tuesday,21.35
+277804,Nathan Dominguez,52,7661 Troy Glens Apt. 053,Portland,CA,58585,Premium,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,28.21,12,7,03:53,Friday,32.81
+805703,Robert Freeman,61,23473 Hannah Pines Suite 423,Orlando,IN,47443,Premium,No,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",4.21,19,6,05:39,Monday,41.04
+139081,Steven Perez,62,1582 Jeffrey Spur Suite 358,Los Angeles,MI,7597,Basic,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",25.8,6,7,17:41,Monday,45.56
+818216,Martin Ochoa,51,918 Mark Lake,Chicago,NV,66373,Basic,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",36.45,14,1,05:06,Monday,33.64
+455249,Jerry Gray,20,057 Poole Valley Apt. 709,San Francisco,TX,95418,Premium,No,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",39.63,17,2,07:30,Tuesday,26.42
+319930,Steven Graham,54,97566 Cox Rest,Atlanta,OH,50048,Standard,No,Apple,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,1.88,14,8,23:54,Saturday,3.56
+905497,John Patterson,60,413 Joseph View,Boston,TX,2146,Standard,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",34.08,3,2,13:03,Friday,26.78
+617313,Jonathon Butler,57,4912 Robert Divide Apt. 656,Chicago,IN,88551,Basic,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",23.01,12,1,02:03,Saturday,45.95
+314532,Nathaniel White,43,445 Carly View Suite 851,San Antonio,MN,46449,Premium,No,Samsung,iPhone 13,Buy a tablet: 30% off on us,34.97,11,2,21:04,Wednesday,6.97
+712380,Natalie Ferguson,40,5992 Joseph Drives Suite 528,Detroit,WA,93193,Premium,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",17.32,7,9,07:44,Thursday,12.8
+619332,Robert Harris,61,1373 Hensley Stravenue Apt. 360,Nashville,NY,59115,Basic,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",32.32,18,6,17:44,Monday,1.1
+416837,Anthony Rodriguez,56,415 Nicole Cliffs Apt. 524,San Francisco,NC,26072,Standard,Yes,Huawei,Galaxy S21,Buy a tablet: 30% off on us,19.49,3,9,15:49,Saturday,39.63
+389106,William Morgan,32,2728 Oconnor Avenue Suite 829,Austin,MN,93661,Standard,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",35.57,16,7,05:00,Friday,23.85
+128295,Riley Munoz,66,21747 Alyssa Plaza Apt. 914,Washington,GA,72309,Standard,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",44.52,16,6,08:33,Wednesday,3.74
+113807,Nicole Shaw,21,65938 Johnson Fields,Fort Worth,GA,79448,Basic,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",4.06,15,4,12:58,Saturday,28.62
+535564,Terry Burton,46,4539 Karen Roads Apt. 023,San Francisco,OR,64219,Standard,Yes,Google,Pixel 6,"First purchase: Buy two phones, one on us",27.13,17,5,15:59,Tuesday,1.23
+257504,Robert Lewis,39,979 Allison Causeway,Tampa,NC,8169,Basic,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,31.56,14,9,16:54,Sunday,34.89
+338067,Michaela Mack,42,25042 Marie Radial,Kansas City,CA,44149,Basic,Yes,Google,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,6.55,5,2,14:48,Wednesday,33.5
+585008,Anthony Taylor,30,83357 Henry Mountain,Indianapolis,TX,18853,Premium,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",38.12,14,7,06:32,Friday,27.95
+792440,James Baker,35,3367 Sullivan Branch,Las Vegas,MO,86443,Standard,No,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,34.9,5,6,22:32,Tuesday,8.55
+494540,Terrance Ramirez,50,15644 Martinez Stream,Houston,CA,80104,Basic,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,28.3,12,4,19:43,Wednesday,36.95
+977699,Patrick Williams,33,217 Jonathan Inlet,Cleveland,OH,12112,Standard,Yes,Huawei,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,47.42,18,1,19:07,Monday,25.95
+617923,Meghan Bradley,62,35489 Brian Field Suite 649,San Diego,OH,17068,Standard,No,Google,P40 Pro,"First purchase: Buy two phones, one on us",2.36,14,8,11:20,Sunday,49.96
+266981,Robert Fuller,59,253 Haas Fork,San Antonio,MN,68106,Premium,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,24.81,4,4,02:12,Tuesday,24.43
+844699,Steven Hardin,61,93684 Allison Islands Apt. 904,San Francisco,OH,30090,Standard,Yes,Google,OnePlus 9,"First purchase: Buy two phones, one on us",39.83,6,6,04:16,Friday,6.2
+119870,Mary Glenn,19,772 Johnny Causeway,Charlotte,AZ,51768,Premium,Yes,Apple,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",34.27,6,3,16:59,Tuesday,34.31
+303196,Wanda Hood,52,034 White Lodge Apt. 048,Indianapolis,FL,30987,Basic,Yes,Samsung,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",40.09,14,7,20:34,Thursday,14.69
+348683,Shannon Hamilton,59,1517 Taylor Center,Houston,IL,23017,Standard,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,15.47,11,8,08:21,Tuesday,18.0
+334677,Steven Townsend,51,9342 Micheal Plaza Suite 639,Dallas,NY,51277,Basic,No,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",10.01,2,6,22:18,Friday,14.42
+126790,Susan Bryant,47,716 Stacy Street,Phoenix,TX,61513,Standard,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",20.3,17,1,15:44,Sunday,19.85
+743162,Tammy Torres,30,67040 Green Pine Apt. 342,New York,FL,92897,Basic,No,Huawei,Galaxy S21,Buy a tablet: 30% off on us,21.11,3,3,13:53,Wednesday,33.39
+911721,Jessica Case,30,0232 David Coves Apt. 233,Houston,FL,17506,Standard,Yes,Huawei,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,22.42,9,1,21:50,Sunday,31.54
+548345,Colton Horton,35,21567 Ralph Crescent Suite 296,Chicago,CA,61268,Standard,Yes,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",17.36,10,5,10:02,Sunday,46.5
+849074,Melissa Hughes,49,959 Robinson Pines Apt. 472,Austin,OH,11277,Standard,No,OnePlus,Pixel 6,20% off Amazon Prime subscription,25.2,15,7,05:55,Wednesday,8.53
+587462,Logan Hanson,49,6488 Bryce Wells,Dallas,OR,15332,Standard,No,Samsung,OnePlus 9,Buy a tablet: 30% off on us,8.42,11,4,22:59,Saturday,33.01
+639773,Benjamin Foster,52,41680 Frazier Mountain Suite 782,New York,OR,97076,Standard,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",17.53,9,9,11:52,Saturday,14.65
+930914,Amanda Hall,56,5444 Porter Square,Cincinnati,AZ,99315,Standard,No,Samsung,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",29.86,18,3,02:05,Saturday,6.82
+186188,Pam Miller,63,2619 Jessica Wall Apt. 381,San Diego,IL,65454,Standard,No,Apple,iPhone 13,Buy a tablet: 30% off on us,42.38,5,3,04:50,Tuesday,22.18
+629036,Eric Haney,69,571 Stephanie Pine Apt. 571,Austin,TN,82138,Standard,Yes,OnePlus,iPhone 13,Buy a tablet: 30% off on us,48.07,10,8,06:47,Friday,42.93
+842129,Joann Zamora,46,8629 Emma Shores Suite 522,San Francisco,MO,51123,Standard,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",4.83,10,0,05:38,Sunday,6.98
+764795,Justin Zamora,66,210 Joshua Plaza Apt. 687,Houston,TN,16365,Basic,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",45.95,1,5,19:14,Thursday,20.2
+890141,Amanda Barron,46,325 John Knoll,Charlotte,TX,60001,Premium,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",38.66,3,2,17:08,Monday,48.01
+748249,Lori Wilkerson,61,43707 Moon Manors,Washington,FL,37774,Standard,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",36.97,0,3,11:36,Thursday,3.13
+130355,Kayla Snyder,33,645 Ortiz Fork,Kansas City,CA,27325,Premium,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",4.81,17,4,00:55,Friday,5.39
+811131,Brenda Mora,61,14367 Mahoney Field,Los Angeles,MA,27855,Standard,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",19.36,4,8,05:22,Friday,44.87
+551015,Linda Thomas,64,17570 Miller Crossroad Suite 971,Kansas City,CA,68223,Standard,Yes,Samsung,P40 Pro,Buy a tablet: 30% off on us,30.53,10,6,10:43,Wednesday,3.13
+506332,Bradley Smith,27,68802 James Junction Suite 724,Phoenix,NV,23166,Basic,No,Google,iPhone 13,"First purchase: Buy two phones, one on us",19.91,18,2,13:18,Tuesday,7.24
+256542,Tyler Martin,47,32259 Curtis Station Suite 806,Columbus,MO,98466,Basic,No,Google,iPhone 13,"First purchase: Buy two phones, one on us",11.5,2,8,23:40,Monday,26.09
+273416,Alyssa Meza,42,711 Schmidt Mews,Cincinnati,OH,52044,Premium,No,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",40.05,14,4,02:53,Wednesday,13.84
+405062,Brittany Goodman,56,495 Sierra Springs Apt. 351,Atlanta,FL,29061,Basic,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,45.98,2,9,16:08,Wednesday,18.07
+938656,Patricia Abbott,37,513 Tammy Squares Apt. 817,Dallas,TX,73785,Basic,Yes,Samsung,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,18.04,3,1,09:29,Friday,10.54
+663586,Matthew Hamilton,22,793 Schmidt Groves,San Diego,CA,67996,Premium,No,Apple,Pixel 6,Buy a tablet: 30% off on us,4.3,11,6,20:34,Tuesday,38.9
+601708,Kathy Oliver,18,01960 George Shoals Apt. 545,Dallas,CO,48303,Basic,Yes,Samsung,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,11.51,3,9,11:15,Monday,43.01
+966651,John Holt,47,549 Alex Canyon,Boston,OH,96626,Standard,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",4.2,16,4,01:28,Monday,25.94
+161629,Alexander Russo,66,76743 Rebecca Lane,Chicago,OH,28246,Premium,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",26.47,3,6,05:58,Monday,10.73
+428184,Vincent Smith,20,3071 Nancy Branch Suite 589,Detroit,TX,18181,Premium,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",34.43,4,9,12:38,Thursday,35.99
+592734,Laura Solomon,62,91568 Kevin Crossroad Apt. 134,Columbus,GA,40321,Standard,No,Samsung,Galaxy S21,Buy a tablet: 30% off on us,24.22,7,1,23:02,Wednesday,23.05
+855195,James Reed,31,35314 Alexander Extensions Suite 035,Nashville,FL,11747,Basic,Yes,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",32.41,2,6,13:37,Tuesday,28.92
+390160,Barbara Morrison,47,743 Jose Curve,Cleveland,CA,51833,Premium,No,Samsung,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",38.82,2,8,16:01,Sunday,47.27
+648248,Matthew Frye,67,770 Lawrence Lane,Chicago,MI,16694,Premium,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",19.81,15,6,10:45,Sunday,39.13
+920023,Clifford Young,21,61939 Paul Mountains,Detroit,IL,1558,Standard,No,Samsung,Galaxy S21,Buy a tablet: 30% off on us,32.24,14,4,04:23,Thursday,16.29
+313920,Pamela Martinez,35,665 Shelly Mount,San Diego,OH,2973,Standard,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,41.63,1,2,06:48,Tuesday,35.97
+989765,Calvin Butler,54,864 Williams Plaza,Los Angeles,MO,85322,Basic,Yes,Huawei,OnePlus 9,Buy a tablet: 30% off on us,37.21,15,3,02:08,Wednesday,16.73
+342804,Donna Hardy,42,08027 William Junction,Minneapolis,OR,75193,Premium,No,Samsung,OnePlus 9,Buy a tablet: 30% off on us,35.56,16,6,01:09,Thursday,13.91
+476965,Todd Bray,65,8733 Smith Walk,Columbus,OH,43191,Basic,No,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",16.62,10,0,06:58,Thursday,7.19
+560857,Angela Barker,18,9325 Morales Mountains,Los Angeles,WA,15407,Basic,Yes,Google,iPhone 13,Buy a tablet: 30% off on us,38.1,15,0,20:11,Thursday,1.2
+922827,Danielle Barry,63,033 Leon Row,San Diego,GA,5371,Standard,No,Huawei,iPhone 13,Free upgrade to the next Verizon plan tier for 3 months,14.16,9,6,02:32,Monday,3.03
+604492,Kristen Mccullough,32,017 Jeremy Lodge Apt. 092,Washington,MO,76034,Premium,Yes,Huawei,iPhone 13,Buy a tablet: 30% off on us,4.98,8,0,22:53,Wednesday,36.81
+753983,Lucas Booker,26,573 Bennett Mountains,Chicago,FL,20812,Premium,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",6.16,10,2,16:43,Sunday,38.14
+515916,Martin Weaver,32,5522 Lee Shore,Los Angeles,OH,87733,Premium,Yes,Samsung,P40 Pro,Buy a tablet: 30% off on us,15.75,1,6,06:28,Tuesday,44.38
+921052,Veronica Marks,66,6967 Brenda Glens Apt. 035,Minneapolis,OR,99539,Standard,No,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",20.45,7,6,07:59,Sunday,41.39
+858574,Rachel Thomas,41,410 Alex Freeway Apt. 742,Portland,NY,1200,Standard,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",22.81,14,7,13:37,Friday,16.99
+228148,Eric Williams,21,41281 Heather Lane Apt. 852,Miami,GA,54661,Standard,No,OnePlus,P40 Pro,Buy a tablet: 30% off on us,22.17,1,6,22:54,Thursday,7.07
+906991,Denise Stanton,29,097 Holmes Turnpike,Dallas,IL,76914,Standard,Yes,Huawei,Pixel 6,Buy a tablet: 30% off on us,21.0,7,2,22:35,Monday,48.33
+586261,Angel Huynh,54,51219 Hayley Crossroad Apt. 235,Detroit,FL,48284,Standard,Yes,OnePlus,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,45.38,12,4,20:28,Sunday,32.72
+455540,Karen Escobar,54,810 Kim Knolls Apt. 918,Columbus,CA,75618,Premium,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",36.49,7,3,02:06,Tuesday,27.13
+292714,Edward Dixon,60,880 Sanders Trace,Cleveland,TX,11967,Basic,Yes,Huawei,OnePlus 9,Buy a tablet: 30% off on us,32.71,11,0,03:53,Monday,44.87
+831899,Adrienne Bradford,23,655 Williams Expressway Suite 846,Houston,NV,11413,Premium,No,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",42.03,10,7,11:41,Friday,16.97
+383876,Erik Hall,56,6182 Joseph Harbor Apt. 221,Phoenix,CO,92578,Basic,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",27.49,1,2,21:32,Wednesday,3.31
+359747,Dr. Brian Riley,63,83783 Laura Lodge,Charlotte,MA,39494,Standard,Yes,Samsung,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",20.19,10,6,03:53,Tuesday,45.08
+715650,Alex Rodriguez,41,1030 Bradford Parkways,Nashville,OH,89695,Basic,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",12.94,8,6,01:13,Tuesday,31.38
+523570,Nicole Davis,28,2698 Perry Station Apt. 904,Denver,TX,23907,Premium,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",44.45,7,0,18:45,Tuesday,48.16
+375987,John Black,30,70809 Allen Brook,Orlando,FL,25733,Premium,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,9.76,7,4,21:41,Thursday,9.03
+738353,Lindsay Bernard,51,2384 Carmen Turnpike Suite 628,Minneapolis,MN,66344,Basic,Yes,Samsung,Galaxy S21,"First purchase: Buy two phones, one on us",38.68,1,9,04:30,Thursday,13.56
+958158,Bruce Johnson,42,29950 Hunter Square Apt. 282,Seattle,WA,21284,Standard,Yes,Huawei,iPhone 13,Buy a tablet: 30% off on us,35.63,1,4,09:45,Thursday,17.54
+117640,Martin Phillips,24,423 Berry Flat Apt. 608,San Antonio,MI,9258,Standard,No,Huawei,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",43.78,13,0,01:36,Sunday,4.31
+152528,Courtney Baker,69,845 Melissa Island Apt. 281,Portland,DC,70674,Premium,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",12.14,14,8,05:13,Saturday,35.92
+924845,Alexis Sullivan,21,2361 Morales Heights,Portland,AZ,50036,Basic,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",30.66,0,3,03:06,Tuesday,8.07
+359214,Melissa Shaffer,25,9624 Brandi Ridge Suite 860,Orlando,OH,84410,Standard,No,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",47.9,14,0,12:34,Tuesday,24.62
+939070,Rachel Salas,37,86911 David River Apt. 265,Minneapolis,TX,26753,Standard,Yes,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",37.27,4,4,10:31,Thursday,0.2
+601108,Brian Hopkins,46,40954 Walker Unions Apt. 005,Seattle,OR,49755,Premium,No,Apple,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",4.46,16,8,14:32,Friday,43.05
+734421,Joyce Perez,68,972 Green Dam,Columbus,CO,59797,Standard,Yes,Apple,Pixel 6,"First purchase: Buy two phones, one on us",27.94,9,0,19:34,Saturday,26.6
+468501,Danielle Davis,62,85258 Jessica Viaduct Apt. 697,Washington,OH,82724,Basic,Yes,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,21.69,12,9,03:29,Tuesday,30.09
+824226,Andrea Bowman,63,8266 Gray Island Suite 536,Seattle,IL,94589,Premium,Yes,Huawei,iPhone 13,Free streaming service for 6 months with any Verizon plan,38.09,2,0,09:23,Wednesday,28.17
+250159,Pamela Brown,27,95686 Timothy Hill Apt. 547,Columbus,NY,63095,Premium,Yes,Huawei,Galaxy S21,Free streaming service for 6 months with any Verizon plan,49.39,19,1,23:48,Sunday,1.09
+272502,Melissa Cobb,60,7622 Cisneros View,Dallas,FL,60860,Basic,No,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",47.32,15,7,15:43,Thursday,26.8
+255576,Amy Bryan,51,10116 Charles Fork Suite 977,Miami,TN,55829,Premium,No,Google,iPhone 13,"First purchase: Buy two phones, one on us",17.17,16,1,12:08,Tuesday,22.71
+965291,Nicole Mcgee,43,1609 Jennifer Squares,Chicago,WA,68578,Standard,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",44.77,13,8,05:50,Tuesday,20.33
+986089,Miranda Lopez,58,457 Julie Landing,Seattle,CA,92157,Standard,No,Google,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",40.03,7,8,22:00,Tuesday,46.56
+111023,Catherine Bolton,66,164 Decker Springs Apt. 061,Portland,CA,47520,Basic,Yes,Google,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,16.78,3,6,06:39,Sunday,12.82
+645735,Jeremy Harris,20,350 Wu Trafficway,Charlotte,IL,33948,Standard,Yes,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",3.79,10,4,21:48,Sunday,6.19
+488043,Heather Roberson,23,848 Hannah Tunnel Suite 818,Minneapolis,TX,15950,Basic,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",9.45,12,5,19:25,Wednesday,1.88
+386103,Jessica Mason,22,036 Peterson Island,Kansas City,FL,80555,Basic,No,OnePlus,Pixel 6,Buy a tablet: 30% off on us,19.61,17,2,09:01,Thursday,11.15
+166203,Allison Little,22,00959 Ronald Squares Apt. 793,Las Vegas,MO,36605,Standard,No,Google,iPhone 13,"First purchase: Buy two phones, one on us",41.92,16,1,16:30,Tuesday,19.33
+260775,Michael Carney,64,054 Amy Parkways,Dallas,CO,48989,Basic,No,Huawei,Galaxy S21,"First purchase: Buy two phones, one on us",7.98,1,7,09:33,Monday,13.37
+109337,Haley Phillips,40,6448 Rivera Ways Apt. 551,Detroit,CA,6925,Standard,No,Apple,Pixel 6,"First purchase: Buy two phones, one on us",28.25,8,2,17:28,Sunday,10.6
+670715,Tyler Peterson,66,0605 Daniel Ford,Phoenix,CA,7103,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",25.26,14,7,17:57,Wednesday,17.06
+614723,Sandra Fernandez,26,32670 Zimmerman Dam Apt. 575,Miami,TX,28812,Premium,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",35.48,12,4,05:55,Tuesday,43.23
+423673,Rebecca Elliott,52,1037 Hernandez Inlet,Dallas,FL,95115,Basic,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",24.87,11,2,16:36,Sunday,22.61
+464167,Elijah Baker,37,11728 Megan Valleys Apt. 701,Tampa,MO,22449,Standard,No,Apple,P40 Pro,"First purchase: Buy two phones, one on us",8.31,3,9,03:16,Wednesday,35.38
+446809,Sean Ayers,66,50388 Jenkins Roads Suite 047,Columbus,NY,23449,Standard,No,Apple,OnePlus 9,Buy a tablet: 30% off on us,36.15,1,2,15:02,Monday,27.75
+730075,Matthew Santiago,59,423 Scott Branch,New York,TX,77400,Premium,No,Huawei,iPhone 13,Buy a tablet: 30% off on us,1.85,15,7,04:28,Tuesday,16.23
+787281,Dillon Gallagher,52,56184 Diaz Spur,Orlando,MN,83445,Premium,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",3.01,9,2,21:40,Friday,9.7
+395451,Lisa Smith,67,074 Cynthia Motorway Suite 779,Portland,MN,60454,Standard,Yes,OnePlus,iPhone 13,"First purchase: Buy two phones, one on us",19.72,4,8,03:29,Friday,42.86
+520571,Carlos Hall,35,8923 Anderson Walk,Atlanta,IL,33536,Basic,Yes,OnePlus,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",31.32,15,1,03:27,Tuesday,8.22
+227016,Brian Stone,34,00101 White Ramp Suite 397,Miami,TX,27702,Premium,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",27.65,12,0,13:08,Friday,0.67
+891267,William Young,41,314 Pugh Summit,San Diego,OH,7574,Basic,Yes,Huawei,OnePlus 9,Buy a tablet: 30% off on us,5.07,17,2,09:22,Monday,12.18
+644447,Ryan Martinez,20,77951 Christopher Plaza,Detroit,FL,69723,Basic,Yes,Google,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",42.55,9,0,21:15,Tuesday,32.06
+597562,William Palmer,49,15402 Swanson Manor Suite 242,Boston,CO,56478,Premium,No,Google,P40 Pro,Buy a tablet: 30% off on us,21.65,17,6,14:19,Wednesday,40.09
+802965,Judith Ball,52,716 Evans Drives,Dallas,CA,69546,Basic,No,Apple,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",9.26,12,9,14:19,Thursday,38.49
+483934,David Davis,55,818 Andrew Motorway,San Francisco,CO,34567,Basic,No,OnePlus,Pixel 6,"Buy one accessory, get another 50% off",5.18,9,7,22:38,Thursday,35.04
+992048,Jordan Smith,30,6849 Lisa Mountain Suite 584,New York,GA,87854,Standard,No,Google,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",37.86,8,3,11:42,Tuesday,37.21
+965184,Dr. Daniel Brown MD,64,1306 Taylor Valleys,Atlanta,IL,60834,Basic,No,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",36.94,18,1,14:53,Sunday,25.67
+417428,Tracy Mathews,42,5921 Mcdowell Rest Apt. 405,Seattle,FL,65968,Standard,No,Huawei,iPhone 13,20% off Amazon Prime subscription,2.64,1,2,21:45,Friday,5.74
+419187,Tami Salinas,26,650 Villanueva Plaza Suite 820,Columbus,GA,25494,Premium,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",2.62,17,9,16:11,Saturday,40.69
+790907,Alec Ramirez,21,9202 Charles Port Suite 106,San Diego,GA,15116,Premium,Yes,OnePlus,iPhone 13,Buy a tablet: 30% off on us,11.32,14,4,01:49,Sunday,7.09
+983439,Mitchell Lyons,31,661 Jonathan Forest Suite 043,Miami,IN,22260,Standard,No,Google,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",7.65,4,0,02:40,Saturday,46.44
+182844,Jacob Cochran,54,580 Patrick Shoal,Los Angeles,FL,41506,Premium,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",14.49,8,9,13:58,Friday,49.74
+651820,Laura Schmidt,51,8716 Turner Terrace Apt. 720,Nashville,IN,62381,Basic,No,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",33.17,5,8,09:15,Friday,10.59
+265421,Eric Atkinson,28,7216 Guzman Square,Indianapolis,TX,87776,Basic,No,OnePlus,P40 Pro,Buy a tablet: 30% off on us,19.1,15,5,20:23,Friday,40.35
+222402,Keith Morris,58,200 Williams Creek,Houston,OH,81191,Basic,No,Apple,P40 Pro,Bundle home internet with mobile for a 15% discount,42.9,9,1,12:40,Tuesday,49.44
+218012,Jessica Combs,20,4236 Erik Hills,New York,DC,82050,Premium,No,OnePlus,OnePlus 9,Buy a tablet: 30% off on us,41.75,8,8,22:48,Tuesday,4.78
+538661,Jeremiah Douglas,45,3128 Jeremy Islands Apt. 351,Minneapolis,CA,37131,Basic,Yes,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",46.07,10,9,20:27,Sunday,35.3
+498929,Denise Rivera,46,118 Paula Mountain,Boston,TX,35231,Premium,No,Samsung,Pixel 6,Buy a tablet: 30% off on us,46.21,18,7,15:03,Friday,38.53
+680466,Tony Crawford,26,01204 Curtis Shores,Charlotte,IL,25954,Basic,Yes,OnePlus,Galaxy S21,Free upgrade to the next Verizon plan tier for 3 months,19.69,0,6,12:55,Monday,8.93
+673695,Lawrence Palmer,20,78072 Horn Burgs,Los Angeles,MO,44940,Standard,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",36.2,15,6,06:27,Thursday,22.3
+563556,Teresa Holland,42,1679 Joseph Shoals Suite 339,Austin,NC,5223,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",25.82,3,2,19:45,Sunday,4.39
+675278,Tammy Bishop,51,026 Bullock Ports,Atlanta,CO,47596,Premium,No,Google,P40 Pro,Buy a tablet: 30% off on us,17.18,14,7,11:52,Monday,29.36
+229473,Matthew Brooks,29,60656 Anderson Drives,Los Angeles,MA,30524,Basic,Yes,Apple,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",6.54,16,2,13:41,Sunday,4.07
+578007,Alexis Pitts,59,45946 Stephen Trail,Cincinnati,NV,61152,Premium,No,Apple,P40 Pro,"First purchase: Buy two phones, one on us",10.53,19,0,22:54,Monday,44.71
+944573,Dylan Turner,26,79841 Ashley Port,Orlando,NY,33265,Premium,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",3.41,17,3,01:43,Thursday,49.5
+517009,Glen Frederick,32,31707 Guzman Track,Austin,CA,73144,Standard,No,Huawei,OnePlus 9,Free upgrade to the next Verizon plan tier for 3 months,29.91,7,8,02:21,Friday,19.76
+418714,Darrell Bradshaw,57,79056 Dustin Center,New York,OH,2247,Standard,Yes,Google,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",41.05,9,8,17:16,Monday,37.81
+326156,Dustin Parker,42,62981 Kayla Overpass Apt. 547,Fort Worth,OH,23639,Basic,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",7.1,14,1,04:37,Thursday,24.09
+268964,Jessica Schultz,22,179 Luis Locks Suite 306,Chicago,MN,91052,Standard,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",34.91,5,4,18:22,Sunday,47.61
+625303,Katherine Hanna,28,405 Cabrera Trail Suite 424,Miami,OH,82946,Basic,No,Samsung,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",30.08,3,8,15:04,Monday,4.16
+161813,Mariah Proctor,51,6776 Stone Plains Suite 171,Portland,OH,2993,Basic,Yes,Google,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,11.57,11,7,13:30,Sunday,38.19
+127712,Sherry Erickson,41,535 Jones Passage Apt. 992,Minneapolis,CA,16663,Basic,No,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",1.21,17,8,03:43,Friday,18.03
+724785,Jonathan Booker,32,62358 Aaron Radial Apt. 243,Cleveland,FL,75411,Premium,Yes,Google,Galaxy S21,"Buy one accessory, get another 50% off",1.45,15,8,10:00,Saturday,0.15
+867214,James Carrillo,55,882 Lewis Extensions,Houston,IN,14024,Standard,Yes,Apple,Galaxy S21,"First purchase: Buy two phones, one on us",0.9,10,7,15:26,Saturday,11.64
+212816,Melissa Bowers,25,312 Adams River,Boston,CA,45348,Basic,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",35.59,11,2,04:56,Thursday,30.42
+228778,Nicole Gilbert,22,1886 Ramirez View,Minneapolis,IN,84583,Standard,Yes,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",30.67,19,1,23:35,Tuesday,41.34
+686580,Karla Andrews,65,07948 Stevenson Rapids,San Diego,TX,4776,Basic,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",21.02,11,6,01:55,Wednesday,4.89
+385977,Stephen Hopkins,43,521 Christopher Mews Apt. 690,Chicago,GA,90360,Standard,No,Apple,P40 Pro,"First purchase: Buy two phones, one on us",0.63,14,8,05:46,Tuesday,46.69
+235230,Jennifer Cannon,35,3123 Frazier Glen,Detroit,TX,30429,Standard,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,30.24,1,7,19:04,Friday,4.63
+818040,Sheri Brooks,23,6991 Hall Overpass Suite 283,Fort Worth,OR,86708,Basic,No,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",47.47,10,4,00:45,Friday,47.5
+906741,Thomas Henry,54,1578 Jones Flat,Denver,IL,40402,Premium,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,39.5,16,4,20:39,Sunday,17.54
+369114,Justin Grant,65,482 Heidi Courts Suite 063,Detroit,NV,48173,Standard,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,38.17,3,5,03:46,Sunday,9.31
+434618,Donald Harris,30,7699 Reilly Springs,Kansas City,OR,23854,Premium,Yes,Google,Pixel 6,"First purchase: Buy two phones, one on us",42.77,19,6,07:37,Saturday,46.29
+932972,Rose Martinez,45,75193 Gregory Lake Apt. 737,Phoenix,IN,73539,Premium,No,Apple,P40 Pro,20% off Amazon Prime subscription,18.84,12,1,05:25,Wednesday,35.5
+251456,Heather Bailey,22,1575 Park Wells,Miami,OH,26808,Basic,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,11.71,9,2,13:13,Sunday,10.59
+904449,David Cole,30,27247 Randall Alley,San Antonio,FL,52288,Basic,No,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",39.41,4,7,19:19,Friday,18.94
+962312,Eric Thomas,34,754 Williamson Mountains Suite 537,Columbus,DC,62871,Basic,No,Google,Pixel 6,20% off Amazon Prime subscription,37.5,9,7,00:41,Monday,18.06
+205570,Elizabeth Walters,67,81000 Barbara Street,Denver,FL,22784,Standard,Yes,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",7.59,14,0,20:20,Saturday,36.14
+370846,Robin Rose,57,3588 Christine Stream Apt. 644,Washington,TX,27605,Basic,Yes,Google,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",32.53,10,7,20:24,Wednesday,48.22
+100404,Brandi Fischer,62,4745 Nicole Centers,San Antonio,FL,59449,Basic,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",43.94,13,1,00:25,Sunday,37.23
+803286,Christopher Moore MD,49,335 Jackson Well,San Diego,IN,6930,Standard,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",32.15,12,4,22:33,Saturday,20.05
+374907,Samantha Johnson,46,30631 Lopez Creek,Boston,OH,97853,Standard,No,Huawei,P40 Pro,Buy a tablet: 30% off on us,36.49,5,3,13:36,Wednesday,48.54
+773744,Joseph Jordan,68,01201 Moore Trail,Charlotte,CA,73606,Basic,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",13.54,17,9,09:00,Saturday,20.87
+815460,Kayla Williams,20,91613 Smith Haven,Chicago,MN,16247,Basic,Yes,Huawei,P40 Pro,Buy a tablet: 30% off on us,9.59,15,7,18:27,Thursday,43.58
+984574,Carmen Clark,57,0521 Holland Port,Portland,MI,10484,Basic,Yes,Apple,P40 Pro,"First purchase: Buy two phones, one on us",46.28,18,7,22:49,Thursday,0.33
+765220,Christian Price,51,49727 Crystal Island,Tampa,WA,78347,Basic,No,Huawei,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",43.96,13,2,16:47,Wednesday,17.45
+335365,Mary Taylor,57,900 Willis Route Apt. 378,San Antonio,FL,29793,Premium,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",33.17,13,4,04:17,Saturday,26.27
+442786,Harold Mendoza,44,631 Park Stream Apt. 832,Portland,NV,12710,Premium,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",33.13,14,2,22:00,Monday,34.78
+150612,David Schwartz,30,53256 Gregory Expressway,Indianapolis,IN,90748,Basic,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",27.71,8,9,09:33,Saturday,3.43
+910006,Jessica Brock,62,72243 Jared Estates,San Diego,NV,50697,Premium,Yes,OnePlus,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",18.33,2,7,06:06,Tuesday,24.63
+909956,Ronald Russell,50,1198 Parker Island Suite 333,Chicago,IL,49776,Standard,No,Google,Pixel 6,"First purchase: Buy two phones, one on us",37.33,3,6,13:06,Monday,43.52
+300244,Sydney Thompson,23,06384 Lisa Estate,Seattle,TX,28910,Premium,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",31.99,18,1,02:03,Saturday,2.66
+897348,Ashley Alexander,41,82035 Joseph Corners Apt. 568,San Francisco,NV,80680,Premium,Yes,OnePlus,Pixel 6,Buy a tablet: 30% off on us,29.48,16,0,07:48,Thursday,32.86
+104809,Joseph Harvey,36,870 Powers Branch,Miami,TX,76236,Basic,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",25.62,19,0,02:26,Tuesday,19.12
+263273,Pamela Mahoney,33,8932 Gonzales Street,Indianapolis,MO,15287,Premium,No,Apple,Pixel 6,"First purchase: Buy two phones, one on us",32.83,5,2,19:53,Saturday,36.76
+808690,Jonathan Morrison,57,703 Burgess Wells,Austin,FL,17218,Premium,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",18.83,10,3,12:11,Thursday,3.76
+244528,Lori Brown,45,17074 David Courts,Denver,NC,21908,Premium,Yes,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",41.57,2,6,01:49,Sunday,20.62
+606964,Jessica Martin,50,18623 Katherine Tunnel,Atlanta,CA,53316,Premium,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",34.41,8,0,10:01,Sunday,9.73
+549613,John Gonzalez,65,56799 Timothy Drive Apt. 955,Chicago,IN,65459,Standard,No,OnePlus,Galaxy S21,20% off Amazon Prime subscription,8.34,13,4,21:56,Thursday,36.3
+138765,Alan Davis,58,9164 Brown Radial,Los Angeles,TX,81253,Basic,No,Google,OnePlus 9,"First purchase: Buy two phones, one on us",30.0,17,0,22:22,Monday,15.56
+931538,Willie Sparks,30,2067 Butler Fort Suite 724,Cincinnati,OH,93591,Basic,Yes,Google,OnePlus 9,"First purchase: Buy two phones, one on us",36.24,14,5,00:51,Wednesday,22.61
+416076,Kelly Taylor,60,87053 Karla Inlet,Los Angeles,MO,47784,Standard,Yes,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",29.97,4,1,09:32,Sunday,12.63
+943523,Kayla Jacobs,62,7515 Gonzalez Trace Apt. 165,Chicago,MN,8986,Premium,No,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",19.97,8,6,15:24,Monday,26.94
+646237,Kelly Ashley,42,8842 Nguyen Ferry Apt. 697,Boston,FL,62494,Standard,Yes,Samsung,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",27.14,11,2,15:26,Friday,21.61
+301152,James Thornton,59,2352 Michael Springs Suite 273,Indianapolis,MO,43542,Premium,Yes,Google,OnePlus 9,Buy a tablet: 30% off on us,2.96,2,9,21:00,Friday,28.43
+399888,Shelia Burns,53,2936 Cole Throughway,Miami,NV,65874,Standard,Yes,Samsung,iPhone 13,"First purchase: Buy two phones, one on us",43.33,3,2,21:38,Monday,0.31
+800903,John Lyons,44,535 James Bridge Suite 607,Boston,CO,79803,Basic,No,Google,Galaxy S21,"Bundle in TV shows, movies, or series: 10% discount",23.22,7,8,07:31,Thursday,20.35
+994751,Daisy Proctor,55,2476 Mills Rue Suite 236,San Antonio,FL,27020,Basic,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",4.54,9,8,12:33,Saturday,8.65
+192193,Richard Smith,24,203 Wilson Passage,Orlando,IN,87061,Basic,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",30.39,11,4,08:59,Sunday,28.49
+136187,Bryan Young,22,92132 Jackson Views,Los Angeles,FL,25161,Premium,No,Apple,iPhone 13,"First purchase: Buy two phones, one on us",41.77,13,1,07:54,Monday,42.62
+605950,Allison Preston,60,759 Nancy Station Apt. 368,Orlando,CA,83437,Premium,No,Huawei,Pixel 6,Buy a tablet: 30% off on us,2.16,0,7,16:59,Friday,10.6
+238311,Dawn Owens,62,873 Lara Estates,Nashville,GA,76898,Standard,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",0.63,8,7,05:18,Tuesday,37.91
+900921,Lauren Hurley,68,5544 Allen Haven,Detroit,TN,3719,Standard,Yes,Google,OnePlus 9,"First purchase: Buy two phones, one on us",15.43,17,6,19:17,Saturday,14.47
+608153,David Walker,48,559 Jason Fork,New York,TX,96111,Basic,No,Huawei,Pixel 6,"First purchase: Buy two phones, one on us",8.11,8,7,03:18,Sunday,25.09
+289089,Carol Barajas,40,1068 Ian Loop,Houston,TX,99935,Premium,No,Google,Galaxy S21,Buy a tablet: 30% off on us,25.16,12,0,13:17,Thursday,6.59
+686165,Sherry Burch,59,867 Chelsea Road,Indianapolis,DC,82433,Standard,Yes,Samsung,P40 Pro,"First purchase: Buy two phones, one on us",39.29,12,5,04:49,Wednesday,48.88
+536341,Sarah Fields,27,979 Hernandez Plaza Suite 383,New York,OR,77851,Premium,No,Samsung,P40 Pro,Buy a tablet: 30% off on us,37.16,12,8,10:59,Monday,4.24
+412066,Stephanie Hunt,49,3462 Nicole Mountains,Indianapolis,TX,66846,Premium,No,Google,Galaxy S21,"First purchase: Buy two phones, one on us",19.97,1,3,00:34,Thursday,47.52
+718362,Monica Meyer,60,5320 Brenda Summit,Seattle,NY,30369,Basic,Yes,Google,iPhone 13,"First purchase: Buy two phones, one on us",43.74,4,9,14:18,Monday,3.05
+787409,Danielle Barrett,47,518 Allen Bypass Apt. 149,Detroit,FL,9564,Basic,Yes,Samsung,Galaxy S21,Buy a tablet: 30% off on us,34.65,19,4,20:30,Thursday,34.57
+661419,Nicole Stone,56,4476 Angela Ferry Suite 387,Indianapolis,FL,77912,Premium,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,44.86,0,8,17:26,Thursday,40.55
+740053,Michael Phillips,48,2230 Carr Circle Apt. 538,Nashville,FL,8574,Premium,No,Google,iPhone 13,"First purchase: Buy two phones, one on us",44.46,11,8,10:38,Sunday,25.13
+960395,Jerry Austin,35,80557 Wheeler Plains,Miami,IN,84413,Premium,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",42.24,15,2,15:51,Tuesday,19.64
+731172,Bonnie Armstrong,53,02312 Ryan Trace Suite 379,Chicago,TX,18335,Premium,No,Apple,Pixel 6,"First purchase: Buy two phones, one on us",7.11,15,6,11:02,Monday,19.51
+225917,Sandra Donaldson,19,07946 Combs Rest Suite 728,Chicago,GA,83661,Basic,No,Samsung,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",25.05,17,3,08:56,Monday,45.3
+910717,Melissa Manning PhD,31,30350 Cisneros Harbors,Austin,IL,60589,Standard,No,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",24.0,0,2,05:10,Wednesday,0.78
+399770,Daniel Ortiz,30,7386 Renee Light,San Diego,TX,15868,Basic,No,Apple,P40 Pro,"Bundle in TV shows, movies, or series: 10% discount",17.19,7,9,12:49,Saturday,4.47
+798168,Katherine Rodriguez,46,0903 Potts Mall,Orlando,OH,92206,Standard,Yes,Google,P40 Pro,Free upgrade to the next Verizon plan tier for 3 months,20.15,15,1,06:12,Friday,45.44
+581680,Peggy Wolfe,29,14247 Courtney Lakes Suite 453,Charlotte,IN,91748,Premium,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",29.23,1,2,22:55,Sunday,20.45
+381342,Patrick Robinson,56,155 Sandra Circle,Atlanta,OR,4845,Standard,No,Huawei,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",44.18,2,3,06:19,Thursday,13.24
+639542,Julia Fleming,19,7223 Michael Courts,Los Angeles,TX,85979,Basic,Yes,Google,Galaxy S21,"First purchase: Buy two phones, one on us",39.11,18,5,12:43,Tuesday,6.91
+144238,James Stephenson,49,4357 Susan Loop Apt. 715,Dallas,TX,26368,Basic,No,OnePlus,Galaxy S21,Buy a tablet: 30% off on us,2.57,14,9,20:46,Wednesday,7.81
+101252,Christopher Anderson,30,945 Bradley Islands Suite 500,Atlanta,OH,76945,Premium,No,Huawei,OnePlus 9,Buy a tablet: 30% off on us,14.52,5,1,09:59,Saturday,27.48
+926196,Jean Davis,63,22957 Kelsey Valleys,Los Angeles,TX,82167,Basic,No,Apple,iPhone 13,"Buy one accessory, get another 50% off",21.01,11,6,02:00,Thursday,29.36
+964141,Erin Watson,44,0869 Thomas Cliffs,Houston,MO,31834,Premium,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",17.11,0,9,03:53,Tuesday,28.79
+585450,Patrick Poole,66,9597 Baker Course Apt. 550,Orlando,TX,18713,Basic,No,Samsung,Galaxy S21,Get a $50 gift card with any new phone purchase,27.94,4,1,02:35,Friday,22.44
+415826,Rhonda Simmons,58,361 Thompson Extensions,Denver,CA,61881,Basic,No,Huawei,OnePlus 9,"First purchase: Buy two phones, one on us",45.29,18,7,10:09,Thursday,35.2
+421638,Bruce Greene,34,87920 Briggs Crest,Houston,TX,7311,Premium,Yes,Google,Pixel 6,"Bundle in TV shows, movies, or series: 10% discount",49.63,17,0,04:19,Friday,25.18
+705605,Jason Arellano,57,73602 Joseph Turnpike Suite 802,Charlotte,TN,82302,Standard,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,32.56,15,2,11:25,Monday,19.24
+427359,Julie Boone,48,345 Davis Drive,Kansas City,IN,64321,Basic,Yes,OnePlus,P40 Pro,"First purchase: Buy two phones, one on us",22.79,1,9,03:13,Thursday,19.74
+702875,Andrew Henry,51,691 Nicholas Field,Columbus,MI,99940,Standard,Yes,OnePlus,iPhone 13,"Bundle in TV shows, movies, or series: 10% discount",34.8,19,7,21:25,Saturday,16.19
+106949,Danielle Hendrix,41,19446 Medina Trafficway Suite 106,Kansas City,TX,36019,Basic,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",11.88,16,1,11:25,Sunday,7.94
+863185,Matthew Jones,62,3823 Gonzalez Ferry Apt. 834,Charlotte,FL,54634,Basic,Yes,Apple,Galaxy S21,Buy a tablet: 30% off on us,2.84,6,8,16:53,Saturday,31.22
+417537,Emily Fleming,52,492 Wong Forge,Indianapolis,MN,23416,Basic,No,OnePlus,OnePlus 9,"First purchase: Buy two phones, one on us",25.52,5,6,12:11,Saturday,13.64
+828913,Javier Nguyen,65,4589 Whitney Mill Suite 122,Miami,WA,73446,Basic,Yes,Apple,Pixel 6,"Buy one accessory, get another 50% off",1.47,0,3,05:13,Tuesday,0.6
+762301,Marco Ward,23,764 Jennifer Valley,Boston,TN,42960,Standard,Yes,OnePlus,Pixel 6,"First purchase: Buy two phones, one on us",49.35,5,2,04:14,Tuesday,29.28
+650222,Caitlin Banks,36,1704 Hodge Port,Nashville,OR,76893,Standard,Yes,Apple,iPhone 13,Buy a tablet: 30% off on us,27.67,15,8,11:41,Saturday,33.9
+880722,Megan Arnold,47,1907 Linda Loaf Suite 600,Kansas City,DC,12470,Basic,Yes,Huawei,P40 Pro,"Buy one accessory, get another 50% off",39.59,14,3,21:38,Thursday,26.55
+555102,Benjamin Ellis,24,2775 Jackson Fork Apt. 501,San Diego,WA,68937,Basic,Yes,Huawei,iPhone 13,"First purchase: Buy two phones, one on us",21.93,5,5,00:49,Sunday,13.9
+437889,Sarah Ellis,27,857 Theresa Burg Apt. 349,Nashville,OR,34760,Standard,Yes,Google,Galaxy S21,Buy a tablet: 30% off on us,36.08,0,1,02:24,Wednesday,6.19
+576467,Mr. Gerald Matthews,58,7814 Hunter Mountain,Fort Worth,OH,20842,Premium,No,Apple,Galaxy S21,Buy a tablet: 30% off on us,35.37,1,0,08:25,Friday,43.91
+456600,Carlos Wilkins,49,73721 Richardson Springs Suite 105,Portland,IL,74153,Premium,Yes,Samsung,Pixel 6,"First purchase: Buy two phones, one on us",9.04,17,6,11:05,Wednesday,42.09
+415557,Jenny Hughes,51,18603 Keith Knolls,Los Angeles,TX,75036,Standard,Yes,Google,P40 Pro,Buy a tablet: 30% off on us,4.92,6,0,12:44,Tuesday,9.64
+983671,Teresa Butler,45,09941 Tyler Well Suite 032,Kansas City,IN,95524,Basic,Yes,Huawei,OnePlus 9,"Bundle in TV shows, movies, or series: 10% discount",11.49,6,3,01:19,Monday,5.73
+404462,Katherine Haley,32,768 Jackson Village Apt. 470,Minneapolis,MA,27890,Basic,Yes,Apple,P40 Pro,Buy a tablet: 30% off on us,12.1,2,5,21:57,Thursday,44.68
+350875,Rhonda Evans,47,6515 Frazier Vista,Las Vegas,GA,72633,Premium,No,OnePlus,Galaxy S21,"First purchase: Buy two phones, one on us",9.57,8,4,22:49,Saturday,3.71
+563389,Jason Anderson,54,950 Brandon Motorway Apt. 589,Las Vegas,GA,66396,Premium,Yes,Samsung,OnePlus 9,Buy a tablet: 30% off on us,28.09,19,7,10:16,Monday,19.09
+170390,Taylor Cox,46,68992 White Stream Apt. 280,Phoenix,AZ,93376,Standard,Yes,Huawei,P40 Pro,"First purchase: Buy two phones, one on us",44.28,19,7,16:09,Friday,17.45
+807689,Amanda Hunt,39,24289 Julie Crest Suite 239,Las Vegas,WA,93407,Premium,Yes,Google,P40 Pro,"First purchase: Buy two phones, one on us",30.44,2,8,06:25,Tuesday,26.78
+353490,Jason Morales,21,5596 Ramirez Underpass,Los Angeles,FL,33735,Standard,Yes,Apple,OnePlus 9,"First purchase: Buy two phones, one on us",13.5,8,3,08:59,Wednesday,49.82

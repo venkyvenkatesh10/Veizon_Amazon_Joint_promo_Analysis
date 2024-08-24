@@ -1,0 +1,1001 @@
+CustomerID,Name,Age,Address,City,State,ZipCode,VerizonPlan,AmazonPrimeStatus,DeviceMake,DeviceModel
+221958,Bradley Olson,34,8244 Jamie Gateway Suite 070,Miami,TX,67881,Basic,Yes,Google,Galaxy S21
+771155,Victoria Smith,22,2566 David Squares Suite 226,Houston,FL,16966,Premium,Yes,Huawei,iPhone 13
+231932,Andrea Serrano,46,4823 Lindsay Lane,Boston,CA,60242,Basic,No,OnePlus,OnePlus 9
+465838,Raymond Powell,21,90358 Jones Mountain,Houston,OR,81098,Basic,Yes,Google,Pixel 6
+359178,Stephanie Moody,27,7171 Danielle Ports,Cincinnati,TX,21301,Basic,Yes,Samsung,iPhone 13
+744167,Andrea Walters,34,49361 Melissa Crest,Washington,MA,32016,Basic,Yes,Apple,P40 Pro
+210268,Kathryn Santana,27,5392 Martinez Ford Suite 675,Columbus,TN,17786,Basic,Yes,Huawei,Pixel 6
+832180,Sophia Ward,34,6759 Thompson Ridge,Detroit,FL,58165,Basic,Yes,Google,P40 Pro
+154886,Ralph Cohen,37,38330 Andrea Greens Apt. 690,Washington,CO,63373,Premium,No,Samsung,iPhone 13
+237337,Frederick King,41,7496 Powell Village,San Antonio,TX,82582,Basic,No,Google,Pixel 6
+621430,Nancy Abbott,22,3949 Herman Views Suite 262,Detroit,MN,26531,Standard,No,Google,P40 Pro
+187498,Samantha Hudson,51,7500 Todd Crossing Apt. 180,New York,NV,59696,Basic,No,OnePlus,OnePlus 9
+999159,Theodore Hoover,23,7252 Jeremy Terrace Apt. 440,Detroit,TX,29713,Basic,Yes,OnePlus,OnePlus 9
+275203,Timothy Ward,19,0679 Jason Forest Apt. 821,Cleveland,IL,70899,Premium,Yes,OnePlus,iPhone 13
+291335,Cameron Sanchez,30,1278 Juan Key,Tampa,GA,42898,Premium,No,Samsung,Pixel 6
+378167,Brian Decker,60,771 Griffith Bridge Apt. 621,Cincinnati,TX,61917,Standard,Yes,Google,Galaxy S21
+141090,Madison Patrick,60,346 Erin Underpass,Boston,MO,56254,Standard,Yes,Apple,Pixel 6
+429365,Chelsey Williams,65,885 Collins Loaf,Boston,OR,78519,Premium,No,Huawei,OnePlus 9
+164820,Anthony Miller,28,20756 Collins Flats Apt. 978,Indianapolis,IN,10739,Premium,Yes,OnePlus,P40 Pro
+887201,Melissa Moreno,68,49489 Susan Curve Apt. 044,Denver,NV,82979,Basic,No,OnePlus,Galaxy S21
+421879,Shelby Thomas,64,737 Scott Bridge,Nashville,CA,65419,Premium,No,Google,iPhone 13
+818315,Carol Perkins,40,33968 Miller Fords Apt. 799,Columbus,WA,47157,Standard,Yes,Google,Galaxy S21
+427069,Anthony Ball,33,495 Stewart Forks Suite 083,Houston,WA,70277,Basic,Yes,Samsung,iPhone 13
+876997,Daniel Castro,48,65923 Kaylee Pines Suite 939,Cincinnati,MO,15358,Standard,No,Samsung,Galaxy S21
+299041,Alexandra Yates,28,862 Hansen Mission Apt. 567,Chicago,NY,78823,Basic,No,OnePlus,iPhone 13
+891743,Tina Fowler,33,588 Espinoza Overpass,Miami,TX,59235,Premium,Yes,Google,iPhone 13
+203355,Christina Vargas,25,74898 Harris Spring Suite 249,Nashville,TX,42771,Standard,No,Apple,Galaxy S21
+335796,Anna Miller,21,15353 Clifford Manors Suite 923,Columbus,CA,89952,Basic,No,Huawei,Galaxy S21
+314176,Christina Gallegos,57,617 James Corner,San Francisco,TX,06856,Basic,No,Google,iPhone 13
+284779,Benjamin Harvey,21,031 Thomas Shoals Apt. 686,Nashville,DC,51949,Premium,Yes,Google,OnePlus 9
+447449,Renee Dodson,42,111 Chapman Run,Fort Worth,AZ,32000,Premium,No,Samsung,Galaxy S21
+521909,Thomas Nelson,20,331 Eric Prairie Apt. 756,New York,CA,60415,Premium,Yes,Huawei,Pixel 6
+358795,Roger Smith,49,1861 Smith Haven Apt. 959,San Diego,MO,76213,Standard,No,OnePlus,P40 Pro
+586232,Timothy Fischer,20,616 Lane Forks Suite 352,Denver,FL,90543,Basic,Yes,Google,iPhone 13
+600186,Ian Scott,44,207 Bradley Pines Suite 802,Denver,TN,39693,Premium,No,OnePlus,iPhone 13
+256730,Tammy James,46,71056 Amanda Common,Las Vegas,FL,27199,Standard,Yes,Google,P40 Pro
+970910,Kimberly Mckee,49,75167 Hannah Causeway Suite 862,Fort Worth,TX,58256,Standard,Yes,OnePlus,OnePlus 9
+484681,Allen Wright,67,84107 Caitlin Harbor,Cleveland,MO,66200,Standard,Yes,Huawei,P40 Pro
+249503,Aaron Spears,68,7642 Thomas Forges,Minneapolis,CA,82941,Premium,No,Samsung,Galaxy S21
+754811,Sarah Flores,36,77806 Bowen Falls Suite 974,Cleveland,CA,01919,Premium,No,Huawei,P40 Pro
+627035,Ronald Olsen,38,49615 Kyle Loop Suite 366,Los Angeles,MA,95035,Basic,No,Apple,iPhone 13
+748143,Jessica Booker,22,861 Diane Burgs,Indianapolis,AZ,36889,Basic,Yes,Samsung,P40 Pro
+552366,Jonathan Calhoun,35,5060 Cynthia Knolls Apt. 715,Los Angeles,FL,60873,Premium,No,Huawei,Pixel 6
+165725,Joshua Zamora,45,237 Barber Passage Apt. 179,Nashville,OR,00927,Standard,Yes,Apple,Galaxy S21
+229981,Allison Gonzalez,59,6253 Thomas Camp,Houston,TN,91853,Standard,No,Google,P40 Pro
+184654,Courtney Dominguez,39,92663 Kyle Union,Washington,IL,88382,Standard,Yes,Google,iPhone 13
+691723,Kenneth Hall,38,595 Jones Mission,Chicago,CA,94848,Basic,Yes,OnePlus,Galaxy S21
+419030,Amanda Garcia,23,55215 Garcia Ville,Charlotte,OH,29689,Standard,Yes,Samsung,iPhone 13
+428947,Heather Hayes,18,9389 Christian Oval,Austin,MO,27210,Basic,No,Google,OnePlus 9
+655839,Nicole Keith,22,793 Mcdonald Stream Apt. 456,San Francisco,MI,74363,Basic,No,Samsung,Pixel 6
+373538,Peggy Barry,58,96970 Quinn Terrace,Denver,IN,75040,Standard,No,Google,OnePlus 9
+431236,Linda Evans,29,530 Brian Trail Apt. 246,Minneapolis,CA,48499,Standard,Yes,OnePlus,Pixel 6
+628178,Arthur Bennett,43,52057 Mendoza Canyon Suite 146,Nashville,AZ,43492,Premium,Yes,Huawei,P40 Pro
+665894,Mrs. Ashley Flores,63,8098 White Isle Apt. 310,Nashville,TN,23349,Premium,No,OnePlus,Galaxy S21
+589492,Becky Chandler,51,8083 Joseph Terrace,Fort Worth,MI,67954,Standard,No,Apple,P40 Pro
+356840,Darrell Mcdaniel,66,17433 Rita Lodge Suite 258,Miami,AZ,85694,Basic,No,Google,Pixel 6
+573254,Charles Coleman,31,41506 Derek Well,Los Angeles,OR,03790,Basic,Yes,Apple,Pixel 6
+449457,William Patton,43,835 Shannon Fall Suite 310,Denver,MN,25855,Basic,Yes,Apple,Pixel 6
+765987,Michael Price,62,87700 Sandoval Crescent,Indianapolis,CA,98177,Basic,Yes,Samsung,iPhone 13
+370936,Jeremy Monroe,44,8044 Wheeler Crescent Suite 601,Miami,OR,17504,Basic,Yes,Google,Galaxy S21
+339931,Melanie Monroe,26,093 Dale Creek Apt. 980,Detroit,OH,61662,Premium,Yes,Apple,P40 Pro
+339629,Diane Cummings,43,1985 Schmidt Park Apt. 033,Fort Worth,GA,36074,Standard,No,Huawei,P40 Pro
+305041,Allison Hunt,64,6850 Molly Dale,Cincinnati,MI,24045,Premium,Yes,Apple,OnePlus 9
+798361,Ashley Patel,39,618 Hill Centers,Chicago,CA,30316,Basic,Yes,Huawei,Pixel 6
+831912,Joshua Garner,64,717 Stephen Fords,Washington,CO,10588,Basic,Yes,Samsung,Pixel 6
+517113,Michael Wilson,47,6077 Samantha Trail,Portland,GA,42972,Basic,Yes,Apple,Pixel 6
+168148,Renee Barnett,60,416 Nelson Inlet Suite 982,Columbus,TX,59426,Basic,Yes,OnePlus,P40 Pro
+877089,Dorothy Bradley,65,609 Fernandez Spurs,Tampa,MN,69926,Standard,No,Samsung,OnePlus 9
+748531,Jennifer Griffin,34,07295 Nicholson Squares,Kansas City,OH,24846,Basic,Yes,Huawei,iPhone 13
+351995,Mary Little,43,47742 Thomas Vista,Nashville,FL,74451,Standard,Yes,Samsung,Galaxy S21
+778843,Kathryn Hogan,53,37971 Pope Centers Suite 166,Atlanta,CA,90631,Basic,Yes,Apple,iPhone 13
+672843,Michael Dean,18,142 Faulkner Roads Apt. 628,Denver,AZ,88039,Standard,No,Google,P40 Pro
+356508,Jennifer Yates,25,547 Audrey Throughway Apt. 777,Seattle,NY,18018,Premium,No,Google,Pixel 6
+903591,Barry Mason,66,6798 Vaughan Parks Apt. 135,Phoenix,NC,35066,Basic,No,Huawei,Galaxy S21
+996942,Tyler Martin,52,7796 Justin Streets,Cincinnati,GA,02960,Standard,Yes,Huawei,P40 Pro
+206530,Elizabeth Pollard,69,080 Amanda Manor Apt. 101,Miami,OH,63221,Premium,No,Google,P40 Pro
+704365,Patricia Daniels,32,62208 Dana Haven Apt. 791,San Diego,MA,88167,Basic,Yes,Huawei,P40 Pro
+922352,Richard Brown,64,878 Russell Extension,Las Vegas,NC,18394,Basic,Yes,Samsung,Galaxy S21
+560337,Erin Alvarez,39,34445 Brandon Island Apt. 365,Orlando,GA,13158,Basic,No,OnePlus,Galaxy S21
+824839,James Dixon,31,82297 Parker Spring,Phoenix,GA,22880,Standard,Yes,OnePlus,OnePlus 9
+905889,Tiffany Jones,43,221 Sanders Way Apt. 737,Chicago,MA,61342,Standard,Yes,Samsung,OnePlus 9
+559773,Leslie Rose,45,6640 Taylor Drives,Cincinnati,AZ,83665,Premium,Yes,OnePlus,iPhone 13
+308261,Christopher Meyers,40,549 Love Rest,New York,NC,64021,Standard,No,Apple,Galaxy S21
+864469,Melissa Webb,31,62828 Devin Spurs,Cleveland,TX,28842,Standard,Yes,Samsung,Galaxy S21
+441097,Makayla Alvarez,41,17592 Price Manors,Kansas City,DC,81744,Basic,Yes,Huawei,Galaxy S21
+415139,Zachary Moore,19,2678 Tara Pass Suite 712,San Diego,IL,31012,Basic,No,Samsung,OnePlus 9
+271829,Christina Carroll,62,81712 King Neck Suite 377,Denver,DC,32376,Basic,Yes,Google,P40 Pro
+371836,Kimberly Hamilton,43,6642 Roger Ranch Suite 750,Los Angeles,MO,27934,Basic,Yes,Huawei,Pixel 6
+538974,John Larson,31,0610 Cook Isle,Nashville,TX,16451,Basic,No,Google,OnePlus 9
+302283,Jay Williams,68,69191 Kenneth Course Suite 607,Chicago,GA,95069,Basic,Yes,Huawei,Galaxy S21
+296769,Matthew Fernandez Jr.,24,14466 Johnny Mount,Washington,FL,80807,Basic,Yes,OnePlus,OnePlus 9
+661353,Catherine Fitzgerald,20,526 Miller Ports Suite 581,Orlando,MN,41399,Premium,Yes,Samsung,iPhone 13
+323165,Daniel Wade,64,66492 Meyer Gardens,Tampa,GA,43787,Premium,Yes,Apple,Galaxy S21
+723587,Summer Bishop,40,0088 Traci Club,Columbus,OH,97518,Premium,Yes,Huawei,iPhone 13
+635822,Angela Smith,63,98465 Jason Skyway Apt. 633,Boston,OR,83442,Premium,No,Huawei,Galaxy S21
+587879,Robert Burgess,60,080 Turner Passage Apt. 164,Denver,TX,64263,Basic,No,Google,OnePlus 9
+664685,Bradley Robertson,64,712 Richard Fort Apt. 586,Columbus,CA,23242,Premium,No,OnePlus,P40 Pro
+882038,Jessica Barnett,62,52937 Angela Ford,Seattle,FL,14125,Basic,No,Google,Pixel 6
+453531,Gina Foster,35,4974 Rodriguez Spur,Cincinnati,WA,90596,Premium,Yes,Google,iPhone 13
+363160,John Weber,55,707 Margaret Village Suite 702,Dallas,MO,41319,Standard,Yes,OnePlus,OnePlus 9
+679879,John Greene,52,653 Joshua Walk,Kansas City,MA,34223,Premium,Yes,Apple,P40 Pro
+320884,Larry Stephens,68,670 Amanda Harbor Suite 893,Indianapolis,TX,06037,Premium,Yes,Google,OnePlus 9
+123247,Charlene Moses,32,88121 Newton Stream,Orlando,IL,03282,Basic,Yes,Google,iPhone 13
+124300,Marvin Cline,42,38217 Kimberly Circle,Washington,TX,48307,Premium,No,Huawei,Pixel 6
+567281,Kenneth Smith,54,1878 Oconnor Lock,Nashville,TN,03708,Standard,No,OnePlus,OnePlus 9
+707086,Mr. Franklin Cantrell,45,2547 Hardy Ports Suite 455,Atlanta,FL,77328,Basic,Yes,Samsung,Galaxy S21
+633556,Paul Wilson,27,5707 Samuel Points Apt. 610,Dallas,TN,09765,Basic,Yes,Apple,P40 Pro
+448951,Jimmy Richardson,56,841 Michael Ports Apt. 624,Denver,CA,79760,Premium,Yes,Apple,OnePlus 9
+374329,Leslie Dalton,34,53553 Martin Rapids,Cincinnati,TX,28846,Basic,No,OnePlus,P40 Pro
+819064,Erik Brown,56,8492 Ashley Route,Indianapolis,GA,16573,Basic,Yes,Huawei,Galaxy S21
+842139,Debbie Miller,39,165 Macias Junctions Apt. 632,Boston,TX,26473,Basic,Yes,Huawei,Pixel 6
+532315,Samantha Stewart,43,691 Megan Stravenue,Miami,NC,38473,Basic,Yes,OnePlus,Pixel 6
+616588,Barbara Ross,61,58975 Young Haven Suite 027,San Francisco,DC,45683,Basic,No,Huawei,Galaxy S21
+336584,Christopher Rodgers,42,03065 Debra Walk,Chicago,TX,57107,Basic,Yes,Apple,P40 Pro
+662332,Alicia Clark,34,81168 Jenna Prairie,Nashville,DC,18152,Standard,No,Apple,OnePlus 9
+937646,Christopher Wilkerson,30,836 Steven Pike Suite 969,Columbus,FL,47374,Premium,No,Samsung,Galaxy S21
+476896,Laura Soto PhD,37,13473 Rodriguez Forge,Atlanta,TX,99598,Standard,No,OnePlus,iPhone 13
+148984,Mallory Hodges,42,7923 Stephanie Summit,Tampa,TX,96791,Basic,No,Google,P40 Pro
+402918,Angel Richardson,21,81021 Mary Coves,Kansas City,NY,96156,Basic,No,Google,Pixel 6
+364712,David Flores,27,00379 Hughes Valleys,Cleveland,CA,17713,Premium,No,Samsung,Galaxy S21
+220151,Jocelyn Duffy,20,457 Daniels Inlet Apt. 959,Chicago,MO,43541,Standard,Yes,Samsung,Pixel 6
+555808,Alexander Harper,58,768 Young Brook,Miami,WA,24918,Premium,Yes,Huawei,P40 Pro
+233767,Tommy Newton,62,94456 Derrick Road,Indianapolis,TN,09628,Standard,Yes,Samsung,Pixel 6
+748663,Ashley Sanchez,35,10634 Katelyn Forks,Denver,NY,32762,Basic,No,Samsung,Galaxy S21
+803550,Keith Wilson,64,925 Lawrence Viaduct,Orlando,TX,12391,Premium,Yes,Google,P40 Pro
+236330,Ray Hendricks,53,764 William Circle,Portland,MA,19628,Premium,No,Huawei,iPhone 13
+580754,Lisa Johnson,64,60128 Keith Run Suite 902,Indianapolis,OH,38494,Basic,No,Samsung,Galaxy S21
+401648,Molly Gillespie,39,206 Matthew Gateway,San Francisco,MO,48507,Premium,No,Samsung,OnePlus 9
+788519,Eric Peters,51,22221 Melissa Tunnel Apt. 392,Washington,TX,38741,Standard,Yes,Huawei,Galaxy S21
+113986,Roberto Solis,64,828 Reyes Ford Suite 275,Portland,GA,98113,Standard,No,OnePlus,P40 Pro
+686146,Michael Hanna,25,6796 Eddie Court,Columbus,MO,39097,Standard,No,Huawei,Galaxy S21
+229312,Steven Mcdaniel,57,94165 Angela Forks Apt. 547,Miami,TX,64751,Standard,Yes,Google,iPhone 13
+112666,Meghan Spencer,66,2854 James Extensions,Houston,MN,44127,Basic,Yes,OnePlus,iPhone 13
+400804,Lisa Butler,61,0700 Olson Lane,Austin,CA,60699,Premium,No,Apple,OnePlus 9
+234633,Paige Perez,36,2597 Johnson Rapids,San Diego,TX,66652,Standard,No,Huawei,Pixel 6
+388998,Paula Graham,59,998 Smith Spurs,Seattle,OH,42376,Basic,Yes,Google,P40 Pro
+950937,Ann Morrison,58,3649 William Groves,Orlando,MI,23342,Premium,Yes,OnePlus,P40 Pro
+728776,Anthony Jones,54,7624 Nicole Ports,Kansas City,TX,21660,Premium,Yes,Huawei,Pixel 6
+807611,Elizabeth Johnson,23,08189 Lewis Walks,Detroit,DC,80341,Basic,No,Samsung,iPhone 13
+384806,Mitchell Gay,69,46590 Jennifer Trail Apt. 871,Detroit,CO,68157,Basic,Yes,Huawei,iPhone 13
+894824,Jennifer Kelly,43,180 Lisa Mountains,Atlanta,DC,38498,Standard,Yes,Apple,Galaxy S21
+130535,Jennifer Morton,51,89055 Alexander Row,Atlanta,MO,95064,Premium,Yes,Huawei,OnePlus 9
+475713,Lisa Stewart,62,89194 Adkins Flat Suite 378,Los Angeles,MN,85795,Premium,No,OnePlus,OnePlus 9
+938688,Thomas Anderson,23,337 Jacob Rapid Suite 452,Tampa,FL,33556,Basic,Yes,OnePlus,OnePlus 9
+451279,Jason Bennett,54,617 Weaver Spur,Dallas,NC,70544,Premium,Yes,Huawei,Galaxy S21
+921654,Timothy Morris,50,1976 Samantha Springs,Fort Worth,NV,90572,Standard,Yes,OnePlus,OnePlus 9
+701661,Dean Pope,39,2939 Levy Parkway Apt. 022,Charlotte,AZ,61868,Premium,Yes,Samsung,Pixel 6
+747972,Patricia Ibarra,38,45741 Holden Overpass Suite 144,Washington,OH,53452,Basic,Yes,Huawei,Galaxy S21
+589570,Daniel Morrison,23,42110 Spencer Greens Suite 381,Dallas,NY,17496,Basic,No,Samsung,Pixel 6
+556551,Kristopher Moore,23,041 Sanders Mews Suite 682,Atlanta,MN,34515,Standard,No,Samsung,Galaxy S21
+373109,Jeffrey Stevens,65,5822 Davis Ridge,Boston,AZ,41779,Standard,No,Google,OnePlus 9
+124538,Susan Sanchez,21,7273 Shaw Ford Apt. 834,Portland,TX,69057,Premium,Yes,Huawei,Pixel 6
+994498,Kevin Schmitt,47,3822 Brooks Meadow Apt. 819,Boston,NC,50758,Premium,No,OnePlus,Pixel 6
+301664,Erin Pollard,28,869 English Trafficway Apt. 949,Indianapolis,TX,93127,Basic,No,Samsung,Pixel 6
+591234,Christopher Salinas,47,3755 Gray Glen,Denver,FL,63172,Standard,No,Google,Galaxy S21
+999684,Anthony Miller,48,9078 David Expressway,San Diego,MN,98767,Standard,Yes,Huawei,P40 Pro
+239182,Debbie Davis,41,70033 Amy Mills Apt. 574,Fort Worth,TX,70671,Standard,Yes,Huawei,OnePlus 9
+572525,Dr. Michael Williams,26,8106 Spencer Crossroad,Charlotte,NY,23447,Premium,No,Apple,Pixel 6
+258338,Debbie Lowe,20,5590 Ronald Islands,Orlando,NC,77327,Standard,No,Apple,P40 Pro
+284064,Michael Ramos,68,9174 Shaw Harbor,New York,NV,40634,Basic,Yes,Samsung,OnePlus 9
+314020,Mario Brown,48,94518 Riley Mill Suite 013,Kansas City,FL,19077,Basic,Yes,Apple,OnePlus 9
+723094,Christine Green,57,973 Ortiz Pine Apt. 675,San Diego,IL,98470,Premium,No,Samsung,Pixel 6
+997421,Emily Johnson,54,622 Dylan Wells Suite 748,Austin,FL,25904,Premium,Yes,OnePlus,Pixel 6
+715270,Yvette Spence,53,65945 Joshua Mill,Dallas,DC,88780,Standard,No,Samsung,Galaxy S21
+745914,Jennifer Smith,41,1113 Charles Hill,Fort Worth,AZ,19525,Premium,Yes,Apple,P40 Pro
+219176,Roy Johnson,48,62460 Castro Summit,Detroit,FL,02022,Basic,No,OnePlus,P40 Pro
+318126,Monica Moody,23,7266 Mary Ramp Suite 854,Las Vegas,GA,17483,Standard,No,Apple,Pixel 6
+318969,Kerry Cochran,19,002 Christina Bypass Suite 441,Tampa,TX,56947,Basic,Yes,Samsung,OnePlus 9
+222409,Heather Newton,37,68292 Ayers Springs Suite 689,Austin,OH,14466,Standard,No,Google,Pixel 6
+647707,Robert Lopez,45,93067 Jade Heights Apt. 853,Washington,IN,29221,Premium,No,Huawei,OnePlus 9
+353618,Melissa Hill,28,7448 Gregory Harbor Apt. 364,Columbus,TX,97310,Standard,No,Apple,OnePlus 9
+869598,James Williams,21,40651 Sanchez Springs,Orlando,TX,81707,Standard,Yes,Samsung,Pixel 6
+150015,Janice Black,32,855 Golden Place Apt. 942,Indianapolis,FL,54619,Basic,Yes,OnePlus,iPhone 13
+872838,Monique Chandler,23,4949 Bishop Prairie Apt. 927,Denver,CO,04345,Basic,Yes,Apple,P40 Pro
+222096,Crystal Anderson,66,97555 Jones Island Apt. 534,Seattle,NV,70741,Standard,No,Apple,OnePlus 9
+731347,Meghan Beasley,47,686 Bennett Valleys Suite 682,Detroit,CA,49511,Premium,Yes,Huawei,OnePlus 9
+285340,Andre Lynch,55,33738 Courtney Parks,Detroit,NV,56106,Premium,No,Samsung,iPhone 13
+210687,Daniel Duffy,68,7702 Watson Extensions,Kansas City,MO,16723,Basic,No,Google,Galaxy S21
+974371,Tina Arias,19,91490 Walker Camp,Miami,NV,61727,Premium,Yes,OnePlus,iPhone 13
+511357,Jason Gomez,32,90256 Norman Courts Suite 242,New York,TX,13003,Basic,Yes,Samsung,iPhone 13
+835716,Matthew Fleming,28,90565 Michael Skyway Apt. 783,San Antonio,OH,24012,Premium,No,OnePlus,OnePlus 9
+205878,Darren Woods,25,607 Green Locks,Dallas,AZ,16589,Standard,No,Apple,P40 Pro
+827270,Cynthia Peterson,43,034 Timothy Square Suite 987,Boston,AZ,32412,Basic,Yes,Huawei,iPhone 13
+298286,Shane Smith,68,81055 Wright Grove,Kansas City,OR,88984,Basic,Yes,Huawei,Galaxy S21
+873290,Russell Jones,62,2447 Jason Club,New York,MI,67861,Standard,Yes,Google,Pixel 6
+874684,Cheryl Hanson,61,71299 Woods Hollow,Los Angeles,TX,19960,Basic,No,Huawei,iPhone 13
+264899,Sarah Cross,22,1355 Shelby Knolls,New York,TX,24192,Premium,No,Apple,iPhone 13
+424767,Amanda Silva,23,5958 Kelly Camp,New York,CA,54131,Premium,No,Google,Galaxy S21
+961882,Nathan Macdonald,43,34425 Heather Road Apt. 173,Austin,CO,57369,Basic,No,Samsung,P40 Pro
+979858,Andrew Jackson,21,3474 Peter Islands Apt. 171,Charlotte,WA,93695,Premium,No,Huawei,iPhone 13
+479989,Tanner Strickland,36,289 Robert Haven Suite 191,Portland,MO,44311,Basic,Yes,Google,iPhone 13
+515515,Laura Camacho,37,31217 Long Flat Suite 985,New York,DC,73496,Standard,Yes,Apple,P40 Pro
+143585,Gary Key,50,359 Aimee Flats Suite 902,Charlotte,TX,98131,Basic,No,OnePlus,Galaxy S21
+471369,Mark Schmidt,37,682 Smith Drive Suite 203,Miami,TX,36031,Standard,No,OnePlus,iPhone 13
+164044,Donald Sanchez,66,593 Kelly Mills,Cleveland,FL,49756,Premium,Yes,Apple,P40 Pro
+542296,Robert White,29,6914 Bell Common Suite 654,Detroit,TX,53459,Standard,Yes,Apple,iPhone 13
+209556,Joel Wilson,64,859 Castro Circle,San Francisco,CA,77894,Premium,Yes,OnePlus,Pixel 6
+626981,April Archer,18,01800 Allen Parkways Suite 375,Los Angeles,CO,41013,Basic,Yes,Google,OnePlus 9
+981691,Cynthia Fitzpatrick,43,525 Nichole Squares,San Diego,MA,17954,Premium,No,OnePlus,Pixel 6
+867595,Claudia Guzman,31,7584 Nelson Lights,San Francisco,IL,05031,Basic,Yes,Apple,iPhone 13
+300235,Stephanie Fernandez,55,713 Fuentes Island,Cleveland,DC,06803,Basic,No,Huawei,Galaxy S21
+125939,Javier Berry,54,99723 Wright Plains,Indianapolis,TX,30248,Standard,Yes,Samsung,OnePlus 9
+252906,Kristen Baldwin,28,14940 Hill Summit Apt. 960,Cleveland,OR,14467,Standard,Yes,Huawei,Pixel 6
+642335,Todd Oneal,53,1323 Myers Extension Suite 763,Boston,TX,38102,Standard,Yes,Huawei,P40 Pro
+388249,Emily Lamb,30,803 Singh Roads Apt. 732,Denver,IN,88022,Standard,No,Apple,Galaxy S21
+175766,Alisha Nguyen,60,2649 Kelly Plaza,Los Angeles,TX,26165,Premium,No,OnePlus,Pixel 6
+508923,Rhonda Smith,20,645 Jorge Drive,San Antonio,TX,78605,Premium,Yes,Google,P40 Pro
+515192,Alexis Chapman,50,68409 Mitchell River,Minneapolis,FL,97300,Premium,No,Huawei,iPhone 13
+668550,Kevin Hoover,23,697 Carolyn Fields Suite 579,Columbus,OH,47004,Basic,No,OnePlus,P40 Pro
+487261,Elizabeth Miller,67,810 Lynn Circles,Washington,MN,65681,Premium,Yes,Google,Pixel 6
+910208,Danny Gillespie,27,2114 Mitchell Stravenue Apt. 831,Dallas,OR,96192,Premium,Yes,Huawei,Pixel 6
+785440,Julia Moon,22,87662 Jerome Stravenue,Fort Worth,MA,55869,Premium,No,Google,iPhone 13
+752664,Wanda Simpson,40,7290 Waters Lock Suite 695,Nashville,TX,25040,Standard,No,OnePlus,P40 Pro
+554589,Tara Wheeler,27,9012 Tiffany Lock Apt. 749,Chicago,GA,11224,Premium,No,Samsung,P40 Pro
+237848,Robert Hernandez,61,9074 Hannah Neck,Cincinnati,TX,29474,Basic,Yes,OnePlus,iPhone 13
+717075,Joshua Fuentes,19,43931 Doris Views Suite 607,San Diego,OH,06673,Standard,Yes,Apple,P40 Pro
+227948,Matthew Shields,30,4900 Mitchell Plaza,Austin,OH,12327,Basic,No,Google,iPhone 13
+679304,Shaun Johnson,57,13918 Norman Way,San Diego,TX,81438,Premium,Yes,Samsung,Galaxy S21
+502690,Tamara Harris,19,97645 Mcconnell Land Apt. 089,Austin,CA,92738,Standard,Yes,Google,Pixel 6
+599046,Kayla Cummings,37,0806 Michael Knolls,San Francisco,MI,82080,Basic,No,Google,Galaxy S21
+551269,Brandy Garcia,18,2374 Nicole Mews,Austin,NC,18311,Premium,No,Huawei,OnePlus 9
+121959,Johnathan Smith,54,38453 Kelly Junctions Suite 783,Boston,GA,14802,Basic,Yes,Apple,OnePlus 9
+760890,Kenneth Davis,26,457 Holly Well Suite 311,Columbus,WA,99228,Basic,Yes,Google,OnePlus 9
+850216,Bradley Walker,34,96717 Morgan Field Apt. 135,Dallas,MO,36962,Basic,No,OnePlus,iPhone 13
+890180,Crystal Williams MD,26,20835 Sandra Cliffs,Dallas,CA,70360,Premium,Yes,OnePlus,P40 Pro
+328576,Lauren Hayes,28,40356 Frye Mount,Boston,TX,80242,Premium,Yes,Huawei,Galaxy S21
+637833,Scott Garcia,32,0680 Eric Orchard,Kansas City,TX,29734,Basic,No,Apple,Galaxy S21
+265838,Jennifer Holland,41,46999 Bautista Grove Apt. 552,Portland,CO,55225,Standard,No,Apple,Galaxy S21
+435674,Thomas Santiago,55,951 Coleman Overpass,Miami,DC,42182,Standard,Yes,OnePlus,Galaxy S21
+979989,Jennifer Reynolds,52,1541 Amanda Trafficway Apt. 783,Portland,TX,14274,Premium,Yes,Samsung,OnePlus 9
+161087,Chad Jackson,47,9185 Brian Street Apt. 558,Denver,MA,26441,Premium,Yes,Huawei,Galaxy S21
+693128,Evan Holder,48,915 Meyer Parks Apt. 248,Cincinnati,MN,82594,Premium,No,Huawei,P40 Pro
+218451,Gregory Smith,66,0322 Garcia Drives Apt. 130,San Francisco,TX,88101,Premium,Yes,OnePlus,OnePlus 9
+547600,Gregory Montoya,22,1439 Jennifer Groves Apt. 151,Fort Worth,FL,71150,Premium,Yes,OnePlus,Galaxy S21
+937437,Victoria Rodriguez,61,5252 Patrick Mount,Miami,TX,93114,Standard,No,Samsung,iPhone 13
+539792,Ricky Ali,67,263 Lauren Mills Suite 255,Seattle,OH,80078,Premium,No,Samsung,Pixel 6
+139353,Kelly Miranda,31,221 Julie Roads Apt. 418,Houston,IN,82968,Basic,Yes,Apple,Pixel 6
+293075,Samantha Garcia,28,966 Renee Underpass,San Diego,MO,15029,Basic,No,Huawei,Pixel 6
+314283,Kevin King,26,94204 Krista Alley Suite 039,Cleveland,OH,59331,Standard,No,Huawei,OnePlus 9
+414877,Elizabeth Campbell,51,817 Dwayne Estates,Detroit,FL,04449,Basic,Yes,OnePlus,Galaxy S21
+165318,Misty Smith,29,663 Sheila Brooks Suite 817,Cleveland,MA,90045,Standard,No,Apple,OnePlus 9
+865313,Dustin Cuevas,52,816 Kemp Mountain Apt. 795,Chicago,MI,61263,Standard,No,Huawei,P40 Pro
+582690,Austin Burton,52,62367 Sabrina Gateway,Austin,FL,93364,Basic,Yes,Apple,iPhone 13
+516880,Douglas Johnson,18,263 Shaffer Skyway,Kansas City,OR,79754,Premium,No,Apple,iPhone 13
+691460,Terri Velasquez,57,93402 Meyer Drives,San Antonio,FL,79349,Basic,Yes,OnePlus,Pixel 6
+840976,Sara Peck,39,1721 Gibbs Tunnel,Indianapolis,GA,18409,Basic,Yes,Apple,Pixel 6
+881239,Mary Houston,46,07184 Powers Track Suite 584,Fort Worth,OH,06597,Standard,No,Samsung,Pixel 6
+193264,Leslie Gutierrez,25,343 Michele Rest,Boston,NV,84087,Basic,No,Samsung,Galaxy S21
+870746,Kristi Anderson,28,2614 Jerry Ville,Detroit,IN,39755,Standard,No,Google,P40 Pro
+913168,Christopher Burke,58,49418 Stacy Drive Apt. 822,Columbus,DC,64479,Premium,Yes,OnePlus,P40 Pro
+325281,Melissa Hancock,54,08050 Jeremy Overpass Apt. 499,Minneapolis,FL,43063,Premium,No,Google,P40 Pro
+737147,Mary Lee,31,558 Roy Pass Apt. 053,Columbus,GA,96710,Premium,Yes,Samsung,P40 Pro
+998613,Shawna Davis,47,97257 David Hills Suite 191,Charlotte,IL,68714,Basic,No,Google,Pixel 6
+494070,Todd Silva,52,86425 Antonio Light,Orlando,OH,36686,Standard,No,OnePlus,iPhone 13
+452228,Nancy Lewis,38,1831 James Harbor,Charlotte,OR,59599,Premium,No,OnePlus,Pixel 6
+531839,Amy Edwards,54,404 Allison Trace Suite 866,Las Vegas,MN,70016,Standard,Yes,Apple,P40 Pro
+369536,Luke Ali,22,4226 Allen Expressway Suite 142,Cleveland,CA,48907,Standard,No,Huawei,Pixel 6
+417824,Darrell Wright,36,04985 David Squares Apt. 985,Las Vegas,DC,64134,Premium,No,Apple,P40 Pro
+357426,Elizabeth Wood,31,46075 Emily Viaduct Apt. 582,Minneapolis,OH,55631,Premium,Yes,OnePlus,OnePlus 9
+277789,Jennifer Perez,43,55495 Montgomery Wells Suite 844,Indianapolis,TX,61900,Standard,Yes,Samsung,iPhone 13
+613153,Katherine Mejia,21,88553 Christensen Extension Suite 897,Houston,CO,97289,Premium,No,Samsung,OnePlus 9
+842452,Candice Lynch,42,0683 Darius Mews,Charlotte,MA,92055,Standard,No,Apple,Galaxy S21
+937291,Jessica Davis,62,5131 Thomas Green Apt. 996,Dallas,GA,73896,Standard,No,OnePlus,Pixel 6
+225657,Jennifer Murray,59,3398 Ramirez Throughway Suite 422,Nashville,NC,97962,Premium,Yes,Samsung,Galaxy S21
+335167,Jenny Carter,42,5570 Kim Vista,Minneapolis,OR,54716,Basic,Yes,OnePlus,Pixel 6
+781669,George Espinoza,35,8478 Thomas Locks Apt. 856,Atlanta,GA,63005,Premium,Yes,Samsung,OnePlus 9
+580671,Vanessa Esparza,57,3590 Courtney Lodge Suite 069,Minneapolis,OR,77171,Basic,Yes,OnePlus,P40 Pro
+819094,Matthew Morgan,25,1683 Robin Key,Las Vegas,TX,48220,Standard,No,Google,P40 Pro
+170467,Mark Johnson,56,60818 Andrew Flat,Columbus,IN,83666,Standard,Yes,OnePlus,Pixel 6
+283734,Ana Salazar,57,66405 Jimenez Expressway Apt. 358,Boston,TX,03039,Basic,Yes,OnePlus,P40 Pro
+722794,Ashley Greene,31,3364 Valerie Vista Suite 518,San Diego,IN,42424,Standard,Yes,Apple,OnePlus 9
+209751,Gary Hodges,49,8848 Gill Ford Suite 683,Boston,CA,56286,Basic,No,Google,P40 Pro
+481050,David Dennis,68,49795 Brandi Rapid Suite 579,Las Vegas,MN,13394,Basic,No,Huawei,OnePlus 9
+911774,Paige Madden,55,623 Shawn Ports Apt. 180,Detroit,OH,74999,Standard,Yes,Apple,Galaxy S21
+792517,David Small,50,8978 Zachary Village,Phoenix,TX,97450,Basic,Yes,Huawei,OnePlus 9
+561079,Jennifer Huffman,40,5022 Christopher Glens,Tampa,MI,45395,Premium,No,Samsung,iPhone 13
+468452,Cheryl Bradford,32,157 Alan Point Suite 829,Austin,MI,12048,Premium,No,Huawei,iPhone 13
+206081,Keith Wolf,50,7996 Leach Track,Cincinnati,TX,05232,Standard,No,OnePlus,iPhone 13
+713333,Jeremy Tucker,42,35763 Nelson Ville,Chicago,FL,35409,Standard,No,Huawei,Pixel 6
+658986,Laura Garcia,34,27749 Thompson Junctions,Kansas City,MI,65333,Basic,No,Apple,Pixel 6
+210078,Sarah Rodriguez,50,2347 Davis Neck,San Antonio,MO,02277,Basic,No,Apple,Pixel 6
+967055,Robin Sandoval,64,2263 Mitchell Field,Las Vegas,TN,71321,Basic,No,Huawei,OnePlus 9
+122671,Phillip Carter,19,8339 Michael Bypass Suite 009,Chicago,NC,05015,Basic,No,Apple,Pixel 6
+518400,Jeffrey Vasquez,31,337 Roger Loop,Nashville,MA,68880,Premium,Yes,Apple,Galaxy S21
+455528,Hayley Pollard,57,8094 Hess Drives,Nashville,CA,57341,Premium,Yes,Huawei,iPhone 13
+710490,Christopher Anderson,57,58446 Morgan Dam,Detroit,TN,19387,Standard,Yes,Google,OnePlus 9
+151663,Rachel Fitzpatrick,68,167 Carlson Courts,Denver,GA,62690,Basic,Yes,Google,iPhone 13
+115708,Benjamin Stout,56,355 Serrano Street,New York,CO,22640,Basic,Yes,Samsung,Pixel 6
+978338,Audrey Russell,68,92193 Derrick Forges,San Francisco,FL,54898,Standard,Yes,Apple,OnePlus 9
+411955,Daniel Holden,23,633 Kramer Cliffs,Columbus,OH,11517,Basic,No,Huawei,P40 Pro
+233883,Eric Sanchez,23,282 Griffin Cliff,Washington,MA,15842,Basic,No,Apple,Galaxy S21
+418394,Diana Morgan,20,3052 David Plaza Suite 199,Portland,CO,01413,Basic,Yes,OnePlus,Pixel 6
+212547,Andrew Cox,24,1434 Jones Junctions Apt. 552,Atlanta,NV,13910,Basic,Yes,Apple,Pixel 6
+659042,Robert Martin,68,791 Crystal Light,Cleveland,MN,85714,Basic,No,Apple,Galaxy S21
+851102,Joshua Schultz,25,23991 Peter Corners,Nashville,FL,93823,Standard,No,Google,Galaxy S21
+862002,Bryan Lyons,59,222 Anthony Stream Apt. 787,Tampa,OH,11661,Basic,No,Huawei,P40 Pro
+242483,Theresa Cortez,69,8675 Sonia Lodge Apt. 524,Miami,NC,16107,Standard,Yes,Apple,Pixel 6
+758271,Tonya Cunningham,32,127 Murphy Valley,Phoenix,MI,07428,Basic,No,Google,Pixel 6
+314835,William Brown,64,03945 Robert Via,Houston,TX,95692,Premium,Yes,Samsung,iPhone 13
+501896,Kimberly Dixon,46,7450 Stewart Stravenue Suite 767,Kansas City,AZ,76241,Premium,Yes,Google,OnePlus 9
+184896,Elizabeth Cooper,50,925 Christopher Knoll Suite 364,Columbus,TN,01671,Premium,No,Google,OnePlus 9
+577095,Jill Roberts,69,8340 Reeves Greens,Portland,NY,35557,Premium,No,Google,iPhone 13
+171295,Stacy Johnson,47,683 Pamela Ranch Suite 325,Miami,FL,74014,Standard,Yes,Apple,OnePlus 9
+843974,Misty Mora,56,259 Morton Springs Suite 211,Kansas City,IL,36877,Standard,No,Apple,Galaxy S21
+987121,Juan Butler,44,710 Hunter Center Apt. 023,Tampa,MI,00512,Basic,No,Samsung,OnePlus 9
+373255,Daniel Dixon,53,142 Linda Views Suite 417,Boston,NV,67390,Premium,Yes,OnePlus,OnePlus 9
+399648,Joseph Spencer,46,476 Young Burgs,Washington,MN,62234,Standard,No,OnePlus,iPhone 13
+757162,Joshua Mcdaniel,55,46065 Adams Underpass Apt. 648,Las Vegas,TN,82034,Basic,Yes,OnePlus,P40 Pro
+108155,Brian Lee,50,4722 Desiree Mountains,Austin,OR,21571,Basic,Yes,Samsung,OnePlus 9
+566872,Keith Irwin,54,6620 Wallace Islands Suite 096,Houston,CA,66127,Standard,No,OnePlus,OnePlus 9
+925816,Margaret Moore,44,478 Jenna Via Suite 654,Cleveland,OH,27440,Premium,Yes,OnePlus,P40 Pro
+474705,Michael Thomas,50,454 Tyler Creek Apt. 881,Atlanta,CO,76680,Basic,Yes,Google,iPhone 13
+671542,James Schroeder,21,99854 Glass Rest,Los Angeles,FL,86831,Premium,No,Apple,P40 Pro
+908350,Jeffrey Henry,39,578 Matthew Lane,Houston,AZ,68404,Premium,No,Apple,iPhone 13
+710269,Todd Higgins,19,5650 Pamela Spurs,Los Angeles,CO,33845,Premium,No,Google,Galaxy S21
+654594,Joshua Berry,27,356 Randall Tunnel Apt. 965,Denver,TX,68340,Basic,Yes,Google,iPhone 13
+247718,Aaron Randall,22,250 Graves Estates,Los Angeles,TX,22419,Premium,Yes,Google,Galaxy S21
+408987,Steven Contreras,27,5790 Johnson Walk Suite 135,Houston,OH,02930,Basic,No,Apple,Galaxy S21
+745263,Mrs. Joan Miller DVM,50,92273 Diaz Turnpike,San Diego,WA,72851,Premium,Yes,OnePlus,iPhone 13
+458745,Jennifer Perry,55,68402 Jones Hills Suite 606,San Francisco,TX,54650,Basic,No,Google,Pixel 6
+207512,Anna Thomas,30,255 Douglas Tunnel Suite 760,San Antonio,NY,18659,Premium,No,Samsung,iPhone 13
+247443,Christopher Chapman,48,233 Williams Summit Suite 418,Las Vegas,OH,08419,Standard,Yes,Google,OnePlus 9
+570587,Lauren Kemp,64,9457 Sarah Glens,Las Vegas,AZ,21409,Premium,No,Huawei,OnePlus 9
+473616,Kimberly Thomas,53,50275 Anderson Trail Apt. 306,Cleveland,IL,89698,Premium,Yes,Google,Pixel 6
+757409,Suzanne Spears,62,8800 Corey Inlet,Detroit,NY,60548,Basic,Yes,Apple,Galaxy S21
+786976,Maurice Washington,41,727 Flowers Estates,Nashville,TX,59329,Basic,No,Google,Pixel 6
+465871,Michael Baker,69,1894 Deborah Point Suite 736,Columbus,TX,47083,Premium,Yes,Huawei,OnePlus 9
+475037,Matthew Brown,32,7536 Green River,Chicago,IL,29861,Standard,No,Samsung,Pixel 6
+907364,Christopher Smith,46,4195 Ashley Drive,Charlotte,TX,77732,Standard,Yes,OnePlus,iPhone 13
+217796,Charles Day,25,8795 Parker Harbors,Boston,CA,02125,Basic,Yes,Google,Pixel 6
+391999,Leah Moran,22,3498 Bradley Street Apt. 714,Dallas,TX,75890,Standard,Yes,Huawei,Galaxy S21
+292506,Deborah Bailey,46,5248 Rowe Fork Suite 470,Atlanta,FL,42260,Premium,No,Huawei,iPhone 13
+798376,Kimberly Garcia,64,164 Sharon Flat,Denver,TX,78311,Basic,Yes,Samsung,P40 Pro
+369544,Michael Nelson,21,92182 Julia Way Suite 744,New York,GA,43706,Premium,No,Apple,OnePlus 9
+480002,Michael Torres,29,807 Burton Shoals,Chicago,IN,63263,Basic,Yes,Google,OnePlus 9
+798002,Adrian Jefferson,62,02658 Max Summit,Cleveland,CA,50697,Basic,Yes,Huawei,Pixel 6
+639439,Aaron Walters,19,3885 April Pines Suite 730,Dallas,OH,65959,Basic,No,Samsung,iPhone 13
+690978,Christopher Villa,44,5779 Kelly Harbor,Houston,OH,01268,Basic,No,OnePlus,P40 Pro
+628787,Susan Wilson,48,62645 Gaines Ramp Suite 099,Seattle,CA,25678,Standard,No,Huawei,iPhone 13
+630583,Robert Quinn,68,041 Hunter Mission,Portland,TX,42479,Premium,No,Samsung,OnePlus 9
+488215,Dr. Jason Welch DDS,68,0822 Huerta Loaf,Minneapolis,WA,01395,Premium,No,Apple,iPhone 13
+421184,Peter Hartman,53,1628 Robinson Prairie Suite 920,San Antonio,NC,59044,Premium,Yes,Apple,P40 Pro
+898615,Vanessa Copeland,53,4973 West Corner Apt. 600,Columbus,TX,62547,Basic,Yes,Huawei,Pixel 6
+522515,Ronald Wilson,43,869 Thornton Burgs Suite 563,Indianapolis,FL,63835,Standard,No,Huawei,Galaxy S21
+768234,Amanda Santos,60,0196 Kimberly Extensions Apt. 530,Indianapolis,TX,25481,Premium,Yes,Google,iPhone 13
+478480,Holly Harris,44,92148 James Drive,Los Angeles,MI,62557,Standard,Yes,Samsung,Galaxy S21
+132711,Christopher Moran MD,22,607 Regina Ferry Apt. 689,Minneapolis,TX,62182,Basic,Yes,Huawei,OnePlus 9
+891971,Crystal Kemp,37,9737 Thompson Vista,Phoenix,OH,54331,Premium,No,Google,Pixel 6
+601157,Andrew Weiss,28,086 Denise Loop,Phoenix,OH,91832,Standard,Yes,Google,Pixel 6
+284423,Jeffrey Perez,27,73059 Johnson Parkways Suite 884,San Diego,MI,77058,Basic,Yes,Huawei,iPhone 13
+616349,Denise Gonzales,57,337 Hill Forges,Charlotte,OH,40084,Standard,Yes,Apple,Pixel 6
+803714,Dr. Robin Grimes,55,32064 Cynthia Drive Apt. 258,Austin,DC,60623,Premium,No,Samsung,iPhone 13
+757917,Jason Jenkins,23,98593 Shawn Mall,Portland,IN,60343,Premium,Yes,Samsung,iPhone 13
+924792,Rick Robinson,25,900 Joshua Estates Apt. 282,Detroit,IN,52070,Basic,Yes,Apple,Galaxy S21
+837378,Jason Collins Jr.,40,68101 Brian Circles,Kansas City,FL,56784,Basic,No,Huawei,Pixel 6
+233272,Cynthia Booth,64,36606 Cantu Corner Suite 965,Nashville,CA,12834,Basic,No,Samsung,iPhone 13
+867836,Christopher Rogers,43,06716 Dalton Extension,Denver,GA,94832,Standard,Yes,Huawei,Galaxy S21
+802335,Dylan Jackson,63,429 Allen Islands Suite 411,Indianapolis,FL,03171,Standard,Yes,Huawei,P40 Pro
+907789,Felicia Simmons,60,805 Tyler Trace,Tampa,FL,20383,Standard,No,Google,Galaxy S21
+743409,Edward Gonzales,29,45873 Anthony Views,San Francisco,TX,31452,Basic,No,Apple,Galaxy S21
+177505,Rebecca Gay,43,4962 Stephanie Villages Apt. 991,Orlando,WA,08403,Premium,No,Huawei,iPhone 13
+102869,Dr. Melissa Oneill,30,854 Harris Expressway,Miami,NV,31515,Premium,No,OnePlus,OnePlus 9
+881474,Tanya George,57,32678 Kathleen Islands Suite 184,Los Angeles,MN,77162,Standard,No,Apple,OnePlus 9
+554351,Arthur Fowler,35,8511 Whitney Place Suite 729,San Francisco,CA,68524,Standard,No,Samsung,OnePlus 9
+412252,Gabrielle Fernandez,42,89357 Frank Garden,San Diego,FL,00835,Premium,No,Google,Galaxy S21
+736584,Robin Young,50,354 Barry Mount,Washington,NV,04500,Premium,Yes,Samsung,iPhone 13
+718467,John Garza,64,8783 Christine Stream Suite 697,Cincinnati,AZ,50551,Standard,No,Samsung,Pixel 6
+190272,Rodney Garza,57,4942 Brendan Forge Suite 750,Orlando,OH,99409,Standard,No,Apple,Galaxy S21
+138467,Hunter Gregory,60,028 William Square Apt. 846,Orlando,TX,18940,Premium,Yes,Samsung,Galaxy S21
+909760,Eric Morgan,29,016 Cruz Valleys Suite 732,Kansas City,CO,74490,Basic,No,Huawei,iPhone 13
+977844,Kent Mitchell,61,779 Moore Walks Suite 377,Los Angeles,TN,08348,Standard,No,Samsung,P40 Pro
+580047,Robert Miller,53,80369 Lauren Mills,Chicago,TX,01907,Premium,Yes,Google,Galaxy S21
+759347,Jordan Stevens,65,265 Jenkins Viaduct Suite 508,Phoenix,FL,27120,Premium,No,Google,P40 Pro
+158871,Rebecca Rodriguez,21,56952 Elizabeth Square Suite 831,Phoenix,TX,75285,Premium,Yes,OnePlus,P40 Pro
+228391,Jason Allen,22,28348 Amanda Fords,New York,FL,54796,Premium,Yes,Google,OnePlus 9
+539430,Dominique Wilson,54,4480 Amber Wall,Dallas,MI,28108,Basic,Yes,Samsung,iPhone 13
+710704,James Bradford,25,5614 Joshua Mission Suite 944,Columbus,IL,45298,Premium,Yes,Google,P40 Pro
+956703,Anthony Sullivan,59,986 Gerald Track Suite 534,Tampa,OH,95434,Standard,No,Apple,iPhone 13
+930496,Brenda Scott,66,0612 Ward Overpass Apt. 905,Houston,AZ,24742,Basic,Yes,Google,OnePlus 9
+356687,Kenneth Manning,45,4948 Natalie Expressway,Charlotte,CA,73440,Premium,Yes,Huawei,iPhone 13
+825451,Jennifer Barton,48,4038 Linda Green,Minneapolis,GA,17323,Basic,No,Apple,Galaxy S21
+207450,Wanda Jackson,26,31005 Meyer Via Apt. 397,Denver,MI,42935,Standard,Yes,OnePlus,P40 Pro
+271890,Roberto Smith,68,5143 Joshua Plaza Apt. 221,Fort Worth,TX,81642,Premium,Yes,Huawei,iPhone 13
+538741,Jodi Johnson,46,950 Randall Squares Apt. 916,San Antonio,CA,94838,Standard,Yes,Samsung,Pixel 6
+381974,Susan Liu,31,175 Kathy Forges,Chicago,GA,28879,Premium,Yes,Samsung,iPhone 13
+500109,Jennifer Anderson,57,2898 Harris Mills,Detroit,TX,40048,Premium,No,Samsung,P40 Pro
+216381,James Webster,58,75791 Holly Plains,Indianapolis,CA,95637,Premium,Yes,Huawei,OnePlus 9
+573125,Kristen Rodgers,39,517 Kim Run Apt. 439,Seattle,IN,20557,Premium,No,Huawei,OnePlus 9
+671621,Kelly Riley,28,36103 Steven Mission Suite 397,San Antonio,TX,48183,Premium,No,Huawei,P40 Pro
+234508,Elizabeth Leon,40,0617 Bauer Corners,Nashville,MO,17007,Basic,Yes,Apple,Galaxy S21
+829650,Karen Williams,18,0767 Jennifer Station Suite 136,San Antonio,FL,48655,Premium,Yes,Apple,Galaxy S21
+962645,Jacob French,63,332 Holly Keys Apt. 707,Columbus,NC,22691,Premium,Yes,Samsung,OnePlus 9
+499111,Andrew Burns,54,836 Kristin Summit Suite 581,Portland,FL,48733,Basic,Yes,Google,OnePlus 9
+250810,Lance Russell,38,678 Laura Estate Apt. 310,Austin,DC,50560,Basic,No,Samsung,P40 Pro
+392890,Alison Hunter,43,3021 Hester Ferry Apt. 294,New York,MN,03148,Basic,No,OnePlus,Galaxy S21
+673665,Charles Thomas,63,7102 Peterson Knolls,Phoenix,CA,89682,Basic,No,Apple,OnePlus 9
+940477,Jennifer Smith,53,1982 Madison Fields Suite 469,Miami,TX,97553,Basic,Yes,Huawei,Galaxy S21
+460032,Derrick Palmer,40,7843 Sims Pass Suite 501,Dallas,TN,92903,Basic,No,Apple,OnePlus 9
+469599,Marisa Phelps,18,7723 Daniel Mountains,Fort Worth,IN,21165,Premium,Yes,Huawei,iPhone 13
+760960,Allison Smith,68,1380 Jorge Dam,Columbus,IL,23138,Premium,Yes,OnePlus,Pixel 6
+850020,Christine Williams,57,8512 Joy Roads,New York,FL,02894,Standard,Yes,OnePlus,iPhone 13
+979611,Holly Howard,32,38876 Williams Isle,Orlando,AZ,69746,Premium,Yes,Apple,OnePlus 9
+271836,April Erickson,38,90099 James Pike Suite 913,Detroit,WA,48202,Premium,Yes,Huawei,Pixel 6
+829903,Alicia Joseph,64,8263 James Rapids,Miami,OH,50406,Basic,No,OnePlus,Pixel 6
+145714,Brandon Miller II,26,96717 Nelson Neck,Kansas City,MN,41087,Basic,No,Samsung,OnePlus 9
+727234,Holly Hernandez,26,09761 Patton Point Apt. 170,Orlando,FL,39696,Premium,Yes,Samsung,OnePlus 9
+996048,Jeffrey Reed,27,015 Mills Island Suite 921,Fort Worth,TX,74313,Standard,No,Huawei,Galaxy S21
+730271,Derrick Hernandez,69,1417 James Oval,Phoenix,FL,66001,Basic,Yes,Apple,OnePlus 9
+566960,Erica Mathis,43,28036 Juan Curve Apt. 566,Denver,OR,85214,Premium,Yes,OnePlus,P40 Pro
+811851,Juan Mckee,58,6578 James Forest,Phoenix,FL,78191,Premium,Yes,Apple,OnePlus 9
+224123,Steven Fisher,52,46067 Chapman Road Apt. 943,Columbus,CA,25322,Standard,No,Samsung,P40 Pro
+405628,James Case,69,6108 Stephanie Valleys Apt. 330,Phoenix,OR,79740,Standard,Yes,OnePlus,OnePlus 9
+182989,Jennifer Cox,42,71682 Kiara Trail,Washington,MA,25404,Basic,Yes,Apple,Galaxy S21
+398356,Kevin Atkinson,43,5557 Lane Parkway,Washington,NV,22935,Standard,No,Google,P40 Pro
+929957,Angela Hayes,28,13144 Richards Locks Apt. 693,Tampa,MO,57547,Premium,No,Huawei,iPhone 13
+278274,Dawn Singleton,55,003 Underwood Garden,Columbus,MO,57403,Premium,No,Huawei,P40 Pro
+787995,Kimberly Ferguson,19,05839 Carly Stravenue,Tampa,NV,67225,Standard,Yes,Google,Galaxy S21
+425352,Kathleen Dudley,24,20180 Victoria Island,Kansas City,DC,10430,Standard,Yes,Samsung,P40 Pro
+920260,Richard Knight,35,8917 Cook Burg Apt. 747,Denver,IN,99802,Standard,No,OnePlus,OnePlus 9
+511927,Sergio Small,44,810 Gregg Parkway,Denver,NV,29279,Standard,Yes,Huawei,OnePlus 9
+889852,Paula Thomas,51,8183 Thomas Fields,San Diego,MI,76707,Basic,No,Google,Galaxy S21
+983184,Jeremy Johnson,44,7425 Maria Roads,Columbus,FL,56213,Standard,No,Google,Pixel 6
+231373,David Bernard,34,0571 Jon Vista,Cincinnati,NC,53717,Basic,Yes,Samsung,OnePlus 9
+538452,Eric Burton,60,9554 Jeffrey Corner,Nashville,OH,35256,Premium,Yes,Samsung,iPhone 13
+215294,Adam Sanchez,61,1761 Cruz Valley Apt. 152,Miami,OR,66871,Standard,No,Apple,Galaxy S21
+559451,Eddie Browning,68,323 Davis Way Suite 009,Boston,OH,17320,Basic,No,Huawei,P40 Pro
+748307,Melinda Mills,41,254 Kramer Summit Suite 275,Indianapolis,CA,34625,Standard,No,Apple,P40 Pro
+165726,Susan Ortiz,42,298 Cory Overpass Suite 069,Los Angeles,GA,17640,Premium,No,Google,iPhone 13
+241564,Brittany Hamilton,24,348 Gloria Lodge Apt. 900,Austin,TX,33776,Premium,Yes,OnePlus,OnePlus 9
+477812,Robert Sanchez,69,5541 Lisa Squares,Phoenix,NV,58730,Premium,No,OnePlus,Galaxy S21
+368246,Adrian Hudson,23,66354 Joshua Highway Suite 732,Miami,WA,75071,Standard,No,Samsung,iPhone 13
+805696,Mr. William Brown Jr.,41,292 Foster Stravenue Apt. 006,Cleveland,NC,23562,Standard,No,OnePlus,OnePlus 9
+218015,Gail Tate,50,91398 Michael Stream Apt. 910,Nashville,TX,30365,Basic,Yes,OnePlus,Galaxy S21
+840674,Bonnie Gillespie,66,599 Gutierrez Lodge Suite 299,New York,OR,46007,Premium,Yes,OnePlus,P40 Pro
+354079,Chelsea Benson,46,50106 Sarah Dam Apt. 997,Minneapolis,MN,51790,Standard,No,Google,Galaxy S21
+650929,Brett Mcgee,60,8914 Brooke Ways,Chicago,DC,25341,Premium,Yes,OnePlus,Pixel 6
+789944,Michael Anderson,39,732 Hahn Trafficway,San Diego,MN,89992,Premium,Yes,OnePlus,Galaxy S21
+788105,Robert Parker,43,8323 Andrew Forest,Phoenix,NY,72363,Basic,Yes,OnePlus,Pixel 6
+613758,Thomas Torres,45,72006 Victoria Corner,Atlanta,MA,64704,Basic,No,Apple,Galaxy S21
+465890,Pamela Watts,67,97823 Stephanie Mountain Apt. 925,Cincinnati,FL,41392,Basic,No,Google,Pixel 6
+545101,Katelyn Lopez,38,30996 Ramirez Cliffs Suite 123,Phoenix,DC,70833,Basic,Yes,Samsung,P40 Pro
+136631,John Olson,66,670 Amy Run,New York,OH,03607,Premium,No,Apple,OnePlus 9
+866577,Anthony Diaz,24,54571 Young Stream,Washington,MO,44784,Basic,No,Huawei,Pixel 6
+172991,Lisa Hardy,34,531 Carter Cape,Las Vegas,OH,68391,Basic,Yes,Google,Pixel 6
+104014,Desiree Crawford,37,814 John Mountain,Indianapolis,CO,34162,Basic,Yes,Google,P40 Pro
+373237,Sarah Martin,58,62125 Leslie Camp,Columbus,TX,26188,Basic,No,Huawei,Pixel 6
+118070,Pamela Castillo,66,357 Kenneth Knoll Suite 349,San Antonio,FL,26142,Premium,Yes,Huawei,iPhone 13
+922209,Thomas Howard,37,035 Melton Gardens,Miami,MO,36551,Basic,No,Huawei,P40 Pro
+156958,Nicholas Mays,39,486 Johnson Summit,Atlanta,MI,42298,Premium,No,Samsung,iPhone 13
+182074,Jennifer Sherman,45,3545 Conley Mews,Boston,NC,06058,Standard,Yes,OnePlus,P40 Pro
+635017,Victoria Bailey,57,6399 Ali Club,Tampa,NY,35707,Premium,No,Google,Pixel 6
+855073,Brenda Taylor,66,48205 Edwards Dale,Cincinnati,DC,18412,Premium,No,OnePlus,iPhone 13
+276089,Brianna Woods,24,43304 Chen Inlet,Fort Worth,CA,71533,Basic,Yes,OnePlus,Pixel 6
+297392,Amber Armstrong,18,354 Anderson Drive,Portland,TX,63829,Standard,Yes,Huawei,P40 Pro
+258823,Erin Hill,49,6229 Newman Route Suite 600,Los Angeles,FL,92064,Standard,Yes,Samsung,Pixel 6
+730152,Matthew Buchanan,30,23834 James Green Suite 562,Orlando,WA,86731,Standard,No,Apple,iPhone 13
+493002,Travis English,47,1360 Beasley Ville,Boston,CO,28585,Standard,Yes,Samsung,iPhone 13
+833429,Brian Dunlap,40,068 Cain Row Apt. 070,Nashville,OH,41495,Premium,Yes,OnePlus,Pixel 6
+598863,Michael Mason,68,6546 Ingram Way,Orlando,CO,66767,Standard,Yes,Samsung,Galaxy S21
+467654,Diane Peters,36,09739 Jessica Ports Suite 817,San Francisco,CA,83026,Premium,Yes,Huawei,P40 Pro
+679036,Suzanne Hayes,49,2866 Herman Pass Apt. 756,Tampa,CO,63289,Premium,No,Apple,P40 Pro
+630089,Robert Tate,47,6484 Ronald Views Apt. 986,Denver,IN,82818,Premium,No,Huawei,Pixel 6
+250262,Kara Conway,46,28298 Rose Landing Apt. 404,Fort Worth,MO,59645,Standard,Yes,Apple,Galaxy S21
+542905,Tyler Thomas,66,5879 Jacob Divide,Boston,TX,18337,Basic,No,OnePlus,iPhone 13
+335362,Cheryl Carter,62,37307 Scott Plains Apt. 457,Minneapolis,CA,93737,Basic,Yes,Apple,OnePlus 9
+544209,Stephanie Weber,46,8002 Cunningham Dam Apt. 108,Columbus,TX,67508,Standard,Yes,Apple,OnePlus 9
+653880,Julian Ramirez,47,860 Gentry Route,San Diego,OH,45177,Basic,No,Apple,Pixel 6
+897079,James Ramirez,33,23505 Hall Garden Suite 214,Miami,WA,56106,Basic,No,Samsung,Galaxy S21
+764076,Robert Clayton,57,53246 Jackson Stream Apt. 299,Minneapolis,AZ,50628,Premium,Yes,Samsung,Galaxy S21
+319963,Heather Buchanan,36,39587 Gilbert Harbor,Portland,FL,23861,Premium,Yes,OnePlus,P40 Pro
+580761,Richard Morgan,35,9217 Nguyen Squares Apt. 806,Charlotte,FL,22654,Standard,No,Apple,iPhone 13
+348710,Cynthia Coleman,18,874 White Burgs,Miami,TN,08037,Standard,Yes,Google,Galaxy S21
+320984,Melissa Carr,31,807 Flores Wells,Seattle,TX,25973,Basic,No,OnePlus,OnePlus 9
+997059,Kathy Thompson,68,638 Dustin Springs,Boston,MA,51585,Premium,Yes,Apple,iPhone 13
+956748,Savannah Harris,64,4341 Stewart Fort Suite 829,San Antonio,IL,80672,Standard,Yes,Apple,iPhone 13
+882355,William Lewis,67,1589 Taylor Trail,Kansas City,NC,01479,Standard,No,Samsung,Pixel 6
+364512,Christina Chandler,19,2235 Tina Ports Suite 872,Minneapolis,TX,57641,Standard,No,OnePlus,Galaxy S21
+701863,Robert Aguilar,45,31551 Ruiz Lodge,Dallas,DC,08574,Standard,No,Apple,Pixel 6
+368799,Darryl Sellers,66,476 Browning Falls,Boston,OR,87961,Standard,No,Apple,Galaxy S21
+337549,Tina Crosby,67,110 Annette Knolls,Atlanta,OR,50446,Standard,No,OnePlus,P40 Pro
+694319,Christine Ramos,47,4286 Moore Trail Suite 571,New York,MI,55669,Basic,No,Google,Pixel 6
+584299,Henry Hill,55,54707 Fisher Village,Minneapolis,NC,38272,Premium,No,OnePlus,Pixel 6
+712210,Adrian Kelly,68,28201 Johnson Loaf,Dallas,CA,09459,Premium,Yes,OnePlus,OnePlus 9
+548982,Aaron Herrera,21,23129 Nguyen Mall,Nashville,DC,52520,Standard,Yes,Google,Pixel 6
+224046,Ethan Ali,18,4574 Jacob Fork Apt. 985,San Diego,OH,02221,Premium,Yes,OnePlus,Galaxy S21
+506619,Taylor Taylor,25,89668 Dixon Parkways Apt. 684,Phoenix,NC,77895,Premium,No,Apple,OnePlus 9
+132097,Eric Haas,46,71277 James Estates Apt. 141,Denver,NV,08781,Premium,No,OnePlus,Pixel 6
+766326,Christian Norman,56,44620 Justin Knolls,Detroit,GA,25545,Standard,No,Google,Pixel 6
+749150,John Schmidt,20,023 Wells Centers,Denver,NV,01505,Standard,Yes,Huawei,P40 Pro
+330229,Travis Hughes,49,4544 Garrett Trail,Los Angeles,TX,06547,Premium,No,OnePlus,Pixel 6
+218834,Nicholas Phillips,27,25526 Dominique Parkways,New York,IL,94665,Premium,No,Samsung,iPhone 13
+193848,Edwin Drake,27,45356 Nunez Run,Minneapolis,IN,84278,Standard,Yes,Apple,OnePlus 9
+152921,Patrick Miller,36,2681 Wesley Course Apt. 239,Minneapolis,OH,50636,Basic,No,Apple,iPhone 13
+805086,Kevin Miller,63,63636 Jeremy Mills,Cleveland,NV,32719,Premium,Yes,Samsung,OnePlus 9
+750429,Charles Howard,51,2630 Tamara Divide,Fort Worth,AZ,67653,Basic,Yes,Samsung,P40 Pro
+805660,Courtney Khan,50,7111 Smith Turnpike Suite 857,San Antonio,TN,36460,Premium,No,OnePlus,Pixel 6
+384821,Debra Lopez,40,7359 Welch Landing,Portland,AZ,74420,Basic,No,Samsung,Pixel 6
+155609,Veronica Rhodes,45,346 Erica Park Apt. 844,Boston,FL,62239,Basic,No,Huawei,Pixel 6
+327897,Thomas Gonzales,49,498 Carrie Mills Apt. 906,Boston,DC,37152,Basic,Yes,Google,OnePlus 9
+131024,Rachel Cruz,67,0983 Flynn Junction,Washington,GA,91419,Standard,Yes,Samsung,Pixel 6
+170313,Christopher Payne,24,61253 Ferguson Avenue Apt. 121,Cleveland,TX,96884,Basic,Yes,Samsung,iPhone 13
+489957,Matthew Ortiz,46,1064 Guerrero Lakes Suite 341,Dallas,AZ,71446,Basic,No,Huawei,Pixel 6
+284078,Jennifer Brown,25,0395 John Lake,Denver,TX,44566,Basic,No,Apple,P40 Pro
+457429,Mrs. Jamie Davis,18,49922 Mariah Harbor,Dallas,CA,72531,Premium,No,Apple,iPhone 13
+561243,Andrew Hernandez,20,90182 Kelley Village Apt. 241,Washington,OH,02649,Basic,No,OnePlus,Pixel 6
+213632,Tina Becker,41,284 Michelle Expressway,Columbus,TX,10010,Premium,Yes,Huawei,Pixel 6
+351451,Robert Baker,40,78538 Kathleen Motorway,Cincinnati,OR,43956,Basic,Yes,Google,Galaxy S21
+103051,Natalie Diaz,25,261 Donna Plains,Dallas,CA,68772,Basic,Yes,Google,OnePlus 9
+804107,Michael Collins,64,27953 Ramsey Cove,Orlando,CA,29175,Standard,Yes,Huawei,iPhone 13
+476836,Karen Price,54,33120 Christine Well Apt. 429,Indianapolis,MA,38976,Premium,No,Google,Galaxy S21
+711523,Stephanie Parker,20,62097 Edwards Islands Suite 984,Houston,IL,47476,Basic,No,Apple,P40 Pro
+821772,Daniel Bautista,68,17870 Colleen Center,New York,NY,48674,Premium,No,Google,OnePlus 9
+289407,Tammy Knapp,50,2214 Derek Lock,New York,FL,02550,Premium,Yes,Google,iPhone 13
+549395,William Robinson,45,743 Phillips Points,Las Vegas,FL,79164,Standard,Yes,Huawei,Pixel 6
+562894,Hector Arnold,64,28253 Jeffrey Burg Suite 093,Seattle,TX,92325,Standard,No,Huawei,iPhone 13
+311810,Jason Brown,25,3266 Alexander Skyway,Indianapolis,CA,43670,Standard,No,Google,Pixel 6
+827975,Paul Stephens,51,1702 Schultz Parkway,Atlanta,TX,83936,Standard,Yes,Samsung,OnePlus 9
+173523,Michelle Wilson,52,3144 William Corner Suite 797,Seattle,MI,68345,Standard,No,Huawei,Pixel 6
+860463,Nathan Reyes,49,363 Jones Haven Apt. 870,Phoenix,IN,71143,Standard,Yes,OnePlus,P40 Pro
+194476,Jason Wolf,41,0483 Steele Ferry Apt. 491,Austin,MO,44790,Standard,Yes,OnePlus,Pixel 6
+333841,Amanda Mcdonald,31,1504 Thomas Corner Suite 864,Cleveland,OH,05162,Standard,Yes,Apple,P40 Pro
+903451,Tracy Cooper,49,678 Cindy Common Apt. 517,Portland,MO,31952,Basic,No,Google,OnePlus 9
+970045,David Rodriguez,63,52457 Valerie Road,Kansas City,FL,57967,Premium,No,Samsung,OnePlus 9
+322866,Stephanie Carter,60,6056 Maria Mountains Apt. 761,Los Angeles,FL,54654,Standard,Yes,Apple,iPhone 13
+186672,Rhonda Brock,33,25262 Alexander Springs,Boston,FL,92136,Standard,No,Google,P40 Pro
+698135,Kelli Banks,21,776 Joseph Ridges Apt. 430,San Diego,FL,98054,Premium,Yes,Huawei,P40 Pro
+444894,Ryan Ramos,69,30236 Miller Mall,Austin,TX,05885,Basic,Yes,OnePlus,Galaxy S21
+834994,David Diaz,54,6296 Holmes Lodge Apt. 780,New York,GA,62598,Premium,Yes,Samsung,Galaxy S21
+128251,Jacqueline Stone,38,17369 Rachel Green Suite 510,Austin,OR,35384,Premium,Yes,OnePlus,Galaxy S21
+727769,Christopher Wong,31,3252 Watson Expressway Apt. 163,Orlando,FL,11909,Standard,No,Huawei,Pixel 6
+474710,Ivan Brown,48,35478 Jacob Trafficway Apt. 680,Seattle,OH,95288,Premium,Yes,Google,Galaxy S21
+650233,Katelyn Cook,65,1970 Watson Mountain,Charlotte,TX,21751,Premium,Yes,Huawei,P40 Pro
+977284,Amy Hughes,35,754 Michael Lake,Austin,OR,50233,Standard,No,Huawei,Pixel 6
+132217,Joseph Williams,24,771 Jesse Spring Apt. 013,Atlanta,MI,07720,Standard,Yes,OnePlus,OnePlus 9
+108308,Sheila Castro MD,27,625 Nancy Square,Charlotte,MO,31247,Standard,Yes,Samsung,iPhone 13
+368093,Kevin Hendricks,24,455 Justin Camp,Austin,CA,08117,Standard,No,Huawei,Galaxy S21
+283062,Teresa Johnson,50,460 Gonzales Tunnel,Fort Worth,IL,08985,Premium,No,OnePlus,OnePlus 9
+494366,Barbara Gregory,40,70488 Elizabeth Grove Apt. 749,Houston,MN,23001,Premium,No,Samsung,P40 Pro
+844840,Nicole Mccarthy,38,0006 Walton Plains,Los Angeles,MO,10305,Basic,Yes,Google,iPhone 13
+200235,Robert Wright,36,69353 Anderson Islands Suite 301,Nashville,IN,39044,Basic,No,Google,OnePlus 9
+174740,Victoria Cooper,65,233 Cox Ports,San Diego,FL,47908,Premium,No,Apple,iPhone 13
+478496,Jennifer Crosby,36,1149 Villarreal Spurs Apt. 586,Indianapolis,TX,58392,Basic,Yes,OnePlus,Galaxy S21
+953049,Richard Roberts,53,14460 Christopher Hill,Houston,WA,75069,Premium,Yes,Samsung,P40 Pro
+850201,Edward Coleman,46,1657 Erika Harbor Apt. 366,San Diego,WA,71648,Basic,Yes,Huawei,iPhone 13
+903328,Cheryl Hawkins,35,669 Williams Harbor Suite 151,Las Vegas,MI,79028,Standard,Yes,Google,OnePlus 9
+277247,Laurie Wright,19,187 Rebecca Expressway,San Diego,TX,23312,Basic,Yes,Samsung,Galaxy S21
+763165,Jennifer Richardson,18,2333 James Villages Suite 254,Los Angeles,FL,03899,Standard,No,OnePlus,Galaxy S21
+629525,Kevin Brown DVM,64,9677 Brown Terrace,Boston,NC,58709,Standard,No,Apple,OnePlus 9
+120056,Teresa Grimes,22,85820 Angela Fords,Charlotte,CA,31706,Standard,No,Google,OnePlus 9
+276615,Andre Aguirre,37,726 Zachary Ford Apt. 233,Austin,OH,91991,Standard,Yes,Samsung,iPhone 13
+287628,Mr. George Munoz,28,4840 Amy Bridge,Minneapolis,TX,59040,Basic,Yes,Samsung,Pixel 6
+738836,Marissa Burton,59,4140 Jessica Green,Las Vegas,NC,87049,Premium,Yes,Samsung,Galaxy S21
+473632,Kathleen Greer,19,553 Garrett Turnpike,Charlotte,TX,88804,Standard,No,OnePlus,iPhone 13
+234415,Caitlin Murray,20,5315 Melinda Points Apt. 054,Fort Worth,FL,93871,Basic,No,OnePlus,OnePlus 9
+506716,Bryan Byrd,40,749 Hannah Canyon,New York,TX,33881,Standard,Yes,OnePlus,iPhone 13
+546438,Michael Anderson,29,3336 Hill Glens,Tampa,FL,23014,Basic,No,Huawei,OnePlus 9
+653663,Jackie Medina,37,4857 Lauren Creek Apt. 771,Portland,MA,98824,Basic,Yes,Samsung,P40 Pro
+765022,Michael Blankenship,22,511 Lee Walks,Detroit,OH,03213,Basic,No,Google,OnePlus 9
+641252,Jesse Marshall,54,874 Veronica Manor,San Francisco,TX,48517,Premium,No,OnePlus,OnePlus 9
+737717,Daniel Richard,55,33755 Victor Hills,Orlando,FL,73808,Basic,No,OnePlus,OnePlus 9
+352764,Jeffrey Hansen,47,57057 Jessica Meadow,Atlanta,GA,05811,Basic,Yes,Samsung,Pixel 6
+814998,Patricia Nelson,26,885 Samuel Land Apt. 027,Denver,TX,62961,Premium,No,OnePlus,OnePlus 9
+566882,Jason Blevins,51,544 Peterson Road,New York,MA,63309,Premium,No,Huawei,Galaxy S21
+840427,Wendy Smith,61,8368 Jonathan Bypass,Columbus,NY,50627,Basic,Yes,Huawei,Galaxy S21
+612153,Melanie Garcia,52,4518 Eileen Locks,Cleveland,OH,94795,Premium,No,OnePlus,iPhone 13
+167215,Crystal Smith,69,3168 Amy Bypass Apt. 536,San Francisco,CA,70618,Standard,Yes,Samsung,Pixel 6
+955474,Jeremy Chambers,39,58674 Williams Drive Apt. 274,Denver,CA,63742,Standard,Yes,Samsung,iPhone 13
+244356,Nathan Washington,61,005 Christina Haven,Atlanta,CO,87273,Premium,Yes,Samsung,Galaxy S21
+303861,Susan Williams,41,6137 Ford Circles,Las Vegas,MA,69848,Premium,Yes,Apple,Galaxy S21
+455612,Nancy Davis,34,14401 Sharon Forge,Kansas City,FL,98590,Basic,Yes,OnePlus,P40 Pro
+554605,Ashley Gomez,27,00137 Fields Harbors Suite 862,Nashville,TX,06140,Premium,No,Samsung,OnePlus 9
+109435,Amy Hammond,47,26784 Luke Knolls,Orlando,FL,47023,Basic,Yes,Huawei,Galaxy S21
+547556,Todd Reid,63,348 Blackwell Grove Suite 787,New York,FL,79596,Standard,Yes,Google,iPhone 13
+799438,John Andrews,40,368 Lee Well,Washington,CO,38666,Premium,Yes,Google,iPhone 13
+965264,Deborah Pratt,49,5549 Escobar Loaf Suite 977,Washington,WA,17768,Basic,Yes,Samsung,OnePlus 9
+675581,Jessica Robinson,34,731 Joseph Lock,Chicago,CA,13461,Basic,No,Google,OnePlus 9
+178781,Stephen Bryant,67,772 Heather Views,Columbus,GA,29147,Standard,Yes,Google,P40 Pro
+291475,Jeffrey Johnson,68,36280 Allen Ridges Suite 436,San Diego,TX,02167,Premium,No,Apple,Pixel 6
+260196,Michael Saunders,34,479 Samantha Viaduct,Cleveland,OH,59254,Standard,Yes,Huawei,iPhone 13
+326507,Jeremy Beard,31,8975 Hannah Trafficway Suite 590,Fort Worth,OH,34015,Basic,No,Huawei,OnePlus 9
+406063,Steven Pearson,26,2718 Morgan Roads Suite 988,Chicago,FL,06960,Basic,Yes,Apple,iPhone 13
+864121,Aaron Hernandez,57,40228 Robyn Courts,Dallas,IN,20633,Premium,Yes,Apple,OnePlus 9
+876665,Katherine Savage,19,834 Lindsay Key,Indianapolis,FL,44711,Basic,No,Google,Galaxy S21
+790607,Patricia Jenkins,62,079 Elizabeth Mission,Indianapolis,AZ,90489,Premium,Yes,OnePlus,iPhone 13
+221172,Jennifer Shea,42,47548 David Ways Suite 023,San Antonio,OH,86987,Standard,No,Google,Galaxy S21
+456902,Rhonda Newman DDS,56,960 Smith Place,Los Angeles,GA,96079,Premium,Yes,Apple,iPhone 13
+584963,Jamie Gardner,26,97752 Jeanette Plains Apt. 774,Indianapolis,MA,64307,Premium,No,Huawei,Pixel 6
+555968,Hannah Dunn,39,35451 Antonio Path Apt. 653,Austin,AZ,84307,Basic,Yes,Google,P40 Pro
+418717,Jorge Wyatt,60,2966 Mike Manors,Chicago,IL,40465,Basic,Yes,OnePlus,Galaxy S21
+159101,David Combs,63,44881 Ellis Knolls,Atlanta,MN,26623,Premium,No,Google,OnePlus 9
+595972,Shane Ross,21,633 Robert Lakes,Cleveland,OH,35042,Basic,Yes,Samsung,Pixel 6
+388790,Jennifer Deleon,43,75802 Marc Heights Suite 645,Dallas,AZ,78978,Basic,Yes,Google,iPhone 13
+990617,Debra Stewart,46,7898 Charles Walks Apt. 493,Seattle,FL,59929,Basic,Yes,Apple,Galaxy S21
+647337,David Herrera,62,5472 Smith Ville Suite 487,Los Angeles,DC,19036,Premium,Yes,Huawei,iPhone 13
+834965,Dana Lopez,51,83553 Hoffman Well,San Diego,NV,52987,Basic,Yes,Huawei,iPhone 13
+460260,Nicole Hale,40,482 Walter Mountain Suite 423,Kansas City,NV,21764,Premium,Yes,Apple,iPhone 13
+983811,Nicole Price,54,181 Marshall Estates Apt. 399,Atlanta,FL,60589,Basic,No,Samsung,P40 Pro
+692673,Tyler Garcia,28,1394 Mark Rest,Nashville,GA,07740,Standard,No,Apple,P40 Pro
+750419,Aaron Watson,23,36370 Schmidt Drive,Cleveland,OH,87214,Basic,No,Google,OnePlus 9
+533374,Kimberly Long,35,114 Nicholas Burg,Orlando,FL,34070,Basic,Yes,Apple,Galaxy S21
+820777,Catherine Wilson,38,62509 Robert Pine Apt. 814,Columbus,TN,24858,Premium,No,Apple,Pixel 6
+647577,Tonya Stewart,59,43017 Ryan Mountain,Phoenix,TX,56550,Premium,Yes,Samsung,Pixel 6
+472370,Anna Reyes,53,520 Calderon Junctions Apt. 928,Los Angeles,NY,38905,Basic,Yes,Google,Pixel 6
+987225,Marcus Levine,58,917 Donald Corner Apt. 839,Seattle,MA,63943,Standard,Yes,OnePlus,iPhone 13
+371967,Brittany White,55,03781 Davila Viaduct Suite 593,Phoenix,GA,08697,Basic,Yes,OnePlus,P40 Pro
+291232,John Martinez,51,74276 Paige Circles Suite 688,Denver,TX,71563,Basic,No,Huawei,Galaxy S21
+404119,Erika Porter,34,89627 Davis Islands Apt. 889,Columbus,TX,99238,Standard,Yes,Apple,iPhone 13
+109540,Debra Griffin,54,148 Brown Plain,Houston,FL,84889,Premium,No,Huawei,P40 Pro
+640652,Miguel Wilson,42,449 Nelson Hills Suite 355,Denver,CA,54488,Basic,Yes,Samsung,P40 Pro
+497827,Sarah Simpson,55,64883 Jessica Port,Fort Worth,MI,92265,Premium,No,OnePlus,Galaxy S21
+651951,Shawn Fuentes,29,939 Warner Mission Suite 046,Seattle,MN,07025,Premium,No,Apple,Galaxy S21
+151991,Mark Estes,40,647 Harris Burg Suite 190,Minneapolis,NY,44287,Standard,No,Samsung,Galaxy S21
+288751,Lisa Terrell,59,7107 Patrick Crossing Suite 918,San Diego,DC,42087,Standard,No,Samsung,iPhone 13
+466326,Tony Rosales,39,88611 Miller Land,Indianapolis,FL,66739,Premium,No,Apple,OnePlus 9
+786337,Sandra Caldwell,38,3608 Danielle Plaza Apt. 075,Boston,TN,77021,Basic,No,Samsung,Galaxy S21
+718992,Denise Mills,44,287 Moore Keys,Columbus,TN,34588,Premium,Yes,Apple,OnePlus 9
+149115,Bryan Hughes,48,038 Perkins Walks,Cincinnati,CA,93717,Basic,No,Apple,iPhone 13
+453151,Sarah Pearson,23,191 Michelle Road Apt. 619,Fort Worth,MO,03757,Basic,Yes,Google,OnePlus 9
+843583,Melissa Gibson,44,139 Vaughan Creek Suite 328,Charlotte,OH,81559,Standard,No,Huawei,Pixel 6
+291962,Megan Thomas,57,19645 Griffin Pike,Atlanta,TX,76167,Basic,Yes,Samsung,OnePlus 9
+821747,Angela Ellison,51,03611 Michelle Point Apt. 299,Minneapolis,TX,42771,Basic,No,Samsung,Galaxy S21
+249143,Michael Montgomery,29,3848 Steven Park Apt. 026,Fort Worth,CA,04056,Premium,No,Google,iPhone 13
+814635,Dr. David Hernandez Jr.,62,577 Jordan Run Suite 870,Minneapolis,MI,32820,Standard,Yes,Google,Galaxy S21
+636226,Brian Jones,24,2358 Jeffrey Cape Apt. 740,Seattle,DC,88841,Basic,No,Google,Pixel 6
+453824,Terry Rojas,27,611 John Junctions Apt. 017,Denver,DC,91134,Basic,No,OnePlus,Galaxy S21
+104000,Emily Miles,62,748 Juan Knolls Suite 094,Atlanta,CA,25755,Standard,No,OnePlus,Galaxy S21
+825948,Karen Garner,34,853 Hall Ridge Suite 450,Kansas City,CA,18241,Premium,Yes,OnePlus,Galaxy S21
+987474,Andrea Hamilton,43,1471 Lydia Falls Suite 703,Denver,IN,08087,Standard,No,Apple,P40 Pro
+455754,Curtis Gross,38,858 Moore Tunnel,Orlando,CA,06376,Standard,Yes,Samsung,Pixel 6
+351492,Sarah Parker,45,0700 Wilson Flats Apt. 298,Houston,CA,51066,Basic,No,Huawei,Galaxy S21
+990123,Stacy Krause,63,1201 David Brook,Fort Worth,NY,40500,Basic,No,Apple,Galaxy S21
+599522,Keith Haley,19,86803 Kathleen Pike,Las Vegas,TX,51778,Premium,Yes,Samsung,Galaxy S21
+591072,Dominique Rodriguez,60,5479 Jones Burg Suite 395,Denver,GA,53206,Basic,No,Samsung,iPhone 13
+138304,Emily Newton,18,257 Michael Inlet Suite 829,Houston,AZ,65742,Basic,No,Google,P40 Pro
+604999,Timothy Morgan,68,09285 Grimes Village Apt. 274,Atlanta,CA,18145,Standard,Yes,Google,iPhone 13
+431593,Sherri Krueger,53,68995 Garrett Stream Suite 985,Charlotte,MI,11531,Basic,No,Apple,P40 Pro
+707274,Matthew Hayden,68,32665 Nancy Estates Suite 015,Detroit,WA,62032,Premium,Yes,Google,Galaxy S21
+251836,Erica Wallace DDS,43,130 Jeremy Village Apt. 568,Las Vegas,FL,02314,Standard,Yes,Samsung,Pixel 6
+208940,David Rose,46,187 Brown Parks Apt. 743,Los Angeles,CA,39115,Premium,Yes,Google,OnePlus 9
+924926,Nathan Smith,38,308 Angela Square Suite 025,Indianapolis,TX,11897,Standard,No,OnePlus,OnePlus 9
+365517,Brandi Henry,28,2555 Stewart Skyway Apt. 127,Nashville,CA,85775,Basic,Yes,Google,Galaxy S21
+767521,Shannon Russo,57,00842 Schaefer Trafficway,Houston,WA,74134,Standard,Yes,Samsung,iPhone 13
+721820,Billy Turner,28,7948 Melissa Crossing,Seattle,WA,20956,Standard,No,Apple,Pixel 6
+979090,Mathew Lara,53,39153 Stevenson Rest,Atlanta,NV,54555,Basic,Yes,Huawei,P40 Pro
+485777,Catherine Sullivan,66,70673 Lowe Land Apt. 238,Miami,TN,27695,Basic,No,Google,Galaxy S21
+724674,Roy Dickson,56,6671 Jennifer Mill Suite 200,Indianapolis,CA,47527,Premium,No,Samsung,Pixel 6
+651638,Kevin Bailey,57,1936 Gregory Meadows,Cincinnati,MI,14183,Premium,No,Huawei,Pixel 6
+717296,Seth Salinas,52,469 Brown Views Suite 582,Nashville,OH,03445,Basic,No,Huawei,P40 Pro
+980729,Scott Williams,51,934 Jackson Island Apt. 435,Denver,FL,30113,Basic,Yes,OnePlus,Pixel 6
+649639,Vanessa Lopez,64,12429 Richard Lodge,Kansas City,CO,93667,Basic,Yes,Huawei,iPhone 13
+712956,Jon Bowman,41,830 Victoria Cove,Chicago,TX,14562,Standard,Yes,Samsung,iPhone 13
+738873,Brandi Perry,39,115 Amy Meadow Suite 987,Dallas,CA,77602,Standard,Yes,Samsung,iPhone 13
+437497,Cheryl Martinez,22,98501 Yang Mews,Seattle,MO,06089,Standard,Yes,Google,Pixel 6
+307869,Tonya Anderson,50,0013 Owens Fork,San Antonio,OH,60154,Basic,No,Google,iPhone 13
+165953,Mr. Alexander Frank,53,8456 Danielle Trail Apt. 196,Houston,TX,11216,Premium,Yes,Google,P40 Pro
+943890,Wanda Holder,64,6988 Hunter Ramp,Portland,IL,49520,Basic,Yes,Huawei,Pixel 6
+600328,Christine Higgins,37,35220 Reyes Meadows,Boston,NV,45912,Standard,Yes,Huawei,OnePlus 9
+906790,Andrea Arnold,36,9597 Alexis Ramp Suite 107,Los Angeles,DC,13451,Standard,No,OnePlus,Pixel 6
+103267,Jeffrey Brown,52,6474 William Ports,Washington,CA,73977,Basic,No,Google,P40 Pro
+182745,Brianna Houston,69,5598 Phillip Ville Apt. 171,Charlotte,GA,13413,Basic,Yes,Apple,OnePlus 9
+976020,Kathy Tran,60,1077 Lee Pine,Houston,FL,61989,Standard,No,OnePlus,Pixel 6
+924945,Rodney Dominguez,34,22553 Valenzuela Roads Apt. 639,Cleveland,OH,16874,Standard,Yes,Apple,iPhone 13
+257164,Dr. Casey Bolton,62,3787 Ricky Expressway Suite 707,Orlando,TX,06519,Standard,Yes,Huawei,Galaxy S21
+635626,Jeffrey Hernandez,60,50560 Holly Lake,Portland,IN,36169,Basic,No,OnePlus,Galaxy S21
+231484,Holly Johnson,51,6105 Mcconnell Ferry Suite 119,Fort Worth,FL,51384,Standard,No,OnePlus,iPhone 13
+631831,Terry Bell,26,365 Flores Haven Suite 860,San Francisco,MI,88995,Standard,Yes,Samsung,Galaxy S21
+992323,Paul Montoya,43,407 Duarte Mill Suite 328,Columbus,CO,38840,Premium,Yes,Huawei,Galaxy S21
+160692,Maria Hansen,19,319 Stephenson Spurs Suite 616,San Antonio,FL,73347,Basic,No,Huawei,iPhone 13
+320156,Michelle Lewis,26,652 Julie Gardens Apt. 245,San Francisco,TX,97521,Premium,Yes,OnePlus,iPhone 13
+323992,Kimberly Johnson,26,2290 Patterson Mall,Charlotte,GA,45625,Premium,No,Huawei,Pixel 6
+616771,Austin Marquez,57,7029 Peterson Burg Apt. 895,San Francisco,CO,89077,Standard,Yes,OnePlus,Pixel 6
+930857,James Jackson,34,69124 Margaret Harbor,Tampa,MI,79664,Basic,No,Samsung,iPhone 13
+663044,Donald Lucas,18,5259 White Stream,Washington,FL,95869,Standard,Yes,OnePlus,P40 Pro
+643176,Allen Herman,42,90850 Kimberly Coves,San Antonio,MO,69815,Basic,Yes,Huawei,Galaxy S21
+791095,Cheyenne Martinez,60,7450 Rebecca Junctions Suite 023,Nashville,IN,32791,Premium,No,Huawei,Pixel 6
+933727,William Ellis,57,4436 Galloway Hills Suite 363,San Antonio,OH,96451,Basic,Yes,OnePlus,Galaxy S21
+214352,Debbie Kelly,59,442 Williamson Roads,Tampa,TN,15177,Standard,Yes,OnePlus,OnePlus 9
+969474,Kimberly Gutierrez,42,5988 Lisa Center Apt. 383,Houston,TX,05309,Standard,No,OnePlus,iPhone 13
+185999,Sarah Smith,56,47089 Turner River,Miami,TX,47047,Standard,Yes,Google,P40 Pro
+117955,Cameron Kane,52,335 Angela Pass Apt. 216,Houston,OH,72446,Basic,Yes,Huawei,OnePlus 9
+924273,Jeffrey Ross,20,927 Hoffman Hill Apt. 997,Detroit,MO,72480,Premium,Yes,Huawei,OnePlus 9
+170640,Christopher Wise,67,3211 Petersen Harbors,San Francisco,OH,67465,Premium,No,Google,OnePlus 9
+296582,Ashley Smith,54,25750 Dennis Port,Detroit,DC,90811,Basic,No,OnePlus,iPhone 13
+844086,George Macias,61,74023 Jeanne Lodge Suite 174,New York,CA,16892,Standard,No,Samsung,Pixel 6
+500573,Alexandra Cantrell,61,40441 Anthony Centers,Columbus,FL,72825,Premium,Yes,OnePlus,iPhone 13
+525695,Shelley Conway,68,687 Schneider Mall Suite 543,Tampa,FL,84949,Standard,Yes,OnePlus,Pixel 6
+161476,Lisa Johnson,47,728 Hernandez Cliffs,Charlotte,OR,37097,Basic,Yes,Google,OnePlus 9
+406955,Edward Joseph,55,04056 Rachael Canyon Suite 204,San Antonio,IL,39060,Standard,Yes,Huawei,OnePlus 9
+267280,Julia Reid,51,993 Black Springs Apt. 967,Denver,TX,15318,Premium,No,OnePlus,P40 Pro
+775510,Carmen Johnson,29,67403 Sara Dam Apt. 378,Cincinnati,OH,33753,Premium,Yes,Huawei,Pixel 6
+695468,Kiara Padilla,36,2408 Hernandez Mills Suite 116,Charlotte,NY,50730,Standard,Yes,Apple,OnePlus 9
+798646,Brandon Stewart,54,004 John Lock,Minneapolis,TX,40557,Basic,Yes,Huawei,Galaxy S21
+737144,James Mann,61,7992 Mendez Route,Detroit,FL,17448,Standard,No,Samsung,P40 Pro
+954882,Troy White,66,0478 Martinez Inlet Apt. 034,Detroit,IL,85434,Basic,Yes,Samsung,iPhone 13
+514568,Regina Sanchez,34,6948 Smith Dale,Atlanta,CA,52344,Standard,Yes,OnePlus,P40 Pro
+286141,Megan English,27,06795 Johnson Plain,Detroit,CA,53368,Premium,Yes,Huawei,Galaxy S21
+998320,Andrew Wilson,66,68198 Gomez Passage,Kansas City,FL,73065,Basic,Yes,OnePlus,Pixel 6
+734736,Eduardo Powell,64,1085 Owens Pine Apt. 169,Austin,MN,82444,Basic,Yes,Google,iPhone 13
+638685,Kenneth Salas,29,075 Hayes Hills Apt. 161,Cleveland,FL,75446,Basic,No,Samsung,iPhone 13
+278031,Trevor Nelson,33,99283 Joshua Stream,Austin,OH,30766,Premium,Yes,OnePlus,Pixel 6
+219180,Michael Ho,41,36452 Tina Harbors Suite 447,Denver,MA,85489,Standard,Yes,Google,P40 Pro
+166234,Natalie Powers,36,59973 Doris Drives,San Antonio,TX,91577,Premium,Yes,OnePlus,OnePlus 9
+664242,Angela Ford,25,59134 Lam Way,Tampa,NV,26174,Basic,Yes,Huawei,P40 Pro
+278352,Jessica Nelson,48,519 Mcdowell Light Suite 707,Cleveland,AZ,14239,Standard,Yes,Huawei,Galaxy S21
+179459,Christopher Fisher,38,84665 Thomas Cove,Orlando,NV,07900,Premium,Yes,Huawei,OnePlus 9
+509995,John Delacruz,34,426 Clark Lake Apt. 216,Nashville,TX,24516,Basic,Yes,Huawei,P40 Pro
+295004,Christopher Mora,40,98107 Hensley Center Apt. 470,San Antonio,FL,85560,Basic,Yes,Apple,Pixel 6
+566152,Michelle Hoffman,54,14433 Hall Unions Apt. 616,Dallas,OH,05089,Premium,Yes,Google,Galaxy S21
+825256,Hayden Pearson,33,9182 George Pine,Tampa,TX,95485,Premium,Yes,Google,Galaxy S21
+159163,Michael Howell DDS,23,72671 Nicole Circles Suite 896,Seattle,TX,81952,Premium,No,Huawei,Galaxy S21
+575853,Felicia Murphy,25,553 Koch Estates,Washington,FL,50795,Basic,No,Apple,OnePlus 9
+151934,Leslie Olson,42,922 Leon Junction Apt. 050,Cleveland,MO,12891,Premium,No,Huawei,iPhone 13
+820255,Latasha Bass,35,2280 Johnson Vista Suite 739,Cincinnati,MO,31985,Basic,No,Apple,OnePlus 9
+525523,Andrew Wood,42,5774 Riggs Expressway,Phoenix,TX,94952,Premium,Yes,Huawei,P40 Pro
+940530,Jay Nichols,29,365 Taylor Trace Apt. 248,Houston,TX,56969,Basic,No,Samsung,iPhone 13
+554137,Gary Page,32,699 Santos Harbor Suite 167,Boston,AZ,49294,Basic,No,Samsung,P40 Pro
+105486,Cheryl Holloway,43,45119 Matthew Trail Suite 400,Tampa,GA,47534,Standard,Yes,OnePlus,iPhone 13
+239407,Mr. Dennis Diaz,58,338 Susan Valleys,Las Vegas,TX,77727,Premium,No,Huawei,OnePlus 9
+973332,Alexis Williams,62,60257 James Locks Apt. 962,Houston,MN,01202,Premium,No,Google,Galaxy S21
+750308,Matthew Moore,43,329 Jennifer Summit,Kansas City,TX,32938,Basic,Yes,OnePlus,Pixel 6
+727083,Heidi Hoffman,64,72574 Michael Place Suite 137,San Francisco,CO,97908,Basic,Yes,Samsung,Galaxy S21
+320184,Jon Hensley,49,06707 Michael Lane,San Antonio,CO,18716,Basic,Yes,Huawei,OnePlus 9
+766490,Johnny Mitchell,27,52633 Day Vista,Orlando,WA,83913,Standard,No,OnePlus,iPhone 13
+449652,Mark Barry,33,87495 Kyle Mews Apt. 870,Boston,IN,69646,Standard,No,Huawei,Galaxy S21
+861315,Nicholas Jones,24,364 Melissa Villages,Las Vegas,TX,17712,Basic,Yes,Samsung,OnePlus 9
+742612,Carolyn Nguyen,34,389 Grant Greens Apt. 255,Houston,MA,51749,Premium,Yes,OnePlus,P40 Pro
+422710,Damon Foster,40,374 Brennan Burgs,San Antonio,TX,68266,Premium,No,Samsung,Pixel 6
+297775,Desiree Romero,43,57542 Daniel Valleys,New York,MO,95314,Standard,Yes,Apple,Galaxy S21
+389336,Megan Adams,38,3277 Cummings Port Suite 293,Minneapolis,FL,07922,Standard,No,Samsung,iPhone 13
+887494,Barbara Vargas,39,051 Cook Shoals,Boston,CA,45877,Basic,Yes,Huawei,P40 Pro
+708364,Lauren Atkins,24,77298 Haley Tunnel,Phoenix,OH,42147,Premium,Yes,Google,OnePlus 9
+189780,Richard Payne,31,297 Julie Shores,Denver,CA,85135,Basic,No,Samsung,Pixel 6
+252617,Tracy Sutton,32,5718 Andre Cove Suite 913,Washington,CA,12570,Standard,Yes,Google,iPhone 13
+645977,Eric Miller,24,41811 Peterson Corner Apt. 974,Chicago,WA,56298,Premium,Yes,Apple,OnePlus 9
+897606,Joseph Porter,26,5079 Jackson Isle,Columbus,IL,82837,Premium,Yes,OnePlus,OnePlus 9
+450605,Michael Robinson,68,578 James Walks Apt. 750,Los Angeles,NC,04853,Standard,No,OnePlus,Galaxy S21
+989465,Billy Thompson,65,7384 Wallace Port Suite 226,New York,IL,83975,Basic,Yes,Google,Galaxy S21
+633636,Maurice Smith,25,0579 Wise Flat Apt. 710,Minneapolis,OH,02655,Basic,Yes,OnePlus,iPhone 13
+138102,Gabriel Williams,67,6876 Anderson Court Suite 123,Atlanta,MA,97647,Premium,Yes,Samsung,OnePlus 9
+174460,Christopher Rowe,40,823 Karen Viaduct Suite 006,Washington,TX,86787,Standard,Yes,Google,Galaxy S21
+464778,Allen King,46,42842 Daniel Orchard Suite 759,Detroit,TX,02573,Premium,Yes,Huawei,Pixel 6
+189930,Christopher Sawyer,35,8305 Dana Highway Apt. 789,Seattle,CA,26376,Standard,Yes,Samsung,Pixel 6
+631089,Matthew Johnson,48,948 Grant Coves,Phoenix,NY,59286,Basic,No,Samsung,OnePlus 9
+727438,Susan Smith,47,36526 Smith Lane Suite 918,Denver,MO,74041,Standard,No,Samsung,Galaxy S21
+827627,Taylor Miles,69,587 Marvin Field,Chicago,NY,11958,Basic,Yes,Huawei,iPhone 13
+279208,Jeffrey Martinez,56,21472 Jacob Estate,Kansas City,MN,37401,Standard,No,Apple,iPhone 13
+254697,Denise Hartman,52,6211 Camacho Haven,San Francisco,TX,65547,Premium,No,OnePlus,iPhone 13
+313945,David Schultz,35,63307 Leslie Islands Suite 577,Fort Worth,AZ,84257,Basic,Yes,Google,Pixel 6
+331915,Douglas Sanchez,59,489 Jonathan Falls Suite 343,San Antonio,MO,25764,Premium,No,Apple,Galaxy S21
+827952,Jessica Munoz,56,224 Katrina Alley,Austin,WA,81187,Premium,No,Google,Galaxy S21
+308124,Timothy Gross,34,3265 Mcdaniel Camp,Indianapolis,TX,49012,Basic,No,OnePlus,Pixel 6
+537477,Robert Burton,31,0954 Jeremiah Shores Apt. 150,Charlotte,AZ,85523,Basic,No,Huawei,iPhone 13
+625830,Brittney Eaton,48,130 Cortez Gateway,Nashville,TX,54662,Premium,No,Samsung,iPhone 13
+383821,Christopher Cline,41,98780 David Court Apt. 290,Orlando,OR,24414,Premium,No,Samsung,OnePlus 9
+277804,Nathan Dominguez,52,7661 Troy Glens Apt. 053,Portland,CA,58585,Premium,No,Huawei,P40 Pro
+805703,Robert Freeman,61,23473 Hannah Pines Suite 423,Orlando,IN,47443,Premium,No,Apple,Galaxy S21
+139081,Steven Perez,62,1582 Jeffrey Spur Suite 358,Los Angeles,MI,07597,Basic,Yes,Apple,Galaxy S21
+818216,Martin Ochoa,51,918 Mark Lake,Chicago,NV,66373,Basic,Yes,Google,Galaxy S21
+455249,Jerry Gray,20,057 Poole Valley Apt. 709,San Francisco,TX,95418,Premium,No,Huawei,P40 Pro
+319930,Steven Graham,54,97566 Cox Rest,Atlanta,OH,50048,Standard,No,Apple,OnePlus 9
+905497,John Patterson,60,413 Joseph View,Boston,TX,02146,Standard,Yes,Huawei,P40 Pro
+617313,Jonathon Butler,57,4912 Robert Divide Apt. 656,Chicago,IN,88551,Basic,No,OnePlus,iPhone 13
+314532,Nathaniel White,43,445 Carly View Suite 851,San Antonio,MN,46449,Premium,No,Samsung,iPhone 13
+712380,Natalie Ferguson,40,5992 Joseph Drives Suite 528,Detroit,WA,93193,Premium,Yes,Samsung,Galaxy S21
+619332,Robert Harris,61,1373 Hensley Stravenue Apt. 360,Nashville,NY,59115,Basic,Yes,Samsung,Pixel 6
+416837,Anthony Rodriguez,56,415 Nicole Cliffs Apt. 524,San Francisco,NC,26072,Standard,Yes,Huawei,Galaxy S21
+389106,William Morgan,32,2728 Oconnor Avenue Suite 829,Austin,MN,93661,Standard,No,Huawei,Pixel 6
+128295,Riley Munoz,66,21747 Alyssa Plaza Apt. 914,Washington,GA,72309,Standard,No,Google,P40 Pro
+113807,Nicole Shaw,21,65938 Johnson Fields,Fort Worth,GA,79448,Basic,Yes,Samsung,iPhone 13
+535564,Terry Burton,46,4539 Karen Roads Apt. 023,San Francisco,OR,64219,Standard,Yes,Google,Pixel 6
+257504,Robert Lewis,39,979 Allison Causeway,Tampa,NC,08169,Basic,No,Samsung,P40 Pro
+338067,Michaela Mack,42,25042 Marie Radial,Kansas City,CA,44149,Basic,Yes,Google,iPhone 13
+585008,Anthony Taylor,30,83357 Henry Mountain,Indianapolis,TX,18853,Premium,No,Google,Pixel 6
+792440,James Baker,35,3367 Sullivan Branch,Las Vegas,MO,86443,Standard,No,OnePlus,Galaxy S21
+494540,Terrance Ramirez,50,15644 Martinez Stream,Houston,CA,80104,Basic,Yes,Google,Galaxy S21
+977699,Patrick Williams,33,217 Jonathan Inlet,Cleveland,OH,12112,Standard,Yes,Huawei,Galaxy S21
+617923,Meghan Bradley,62,35489 Brian Field Suite 649,San Diego,OH,17068,Standard,No,Google,P40 Pro
+266981,Robert Fuller,59,253 Haas Fork,San Antonio,MN,68106,Premium,Yes,Samsung,Galaxy S21
+844699,Steven Hardin,61,93684 Allison Islands Apt. 904,San Francisco,OH,30090,Standard,Yes,Google,OnePlus 9
+119870,Mary Glenn,19,772 Johnny Causeway,Charlotte,AZ,51768,Premium,Yes,Apple,iPhone 13
+303196,Wanda Hood,52,034 White Lodge Apt. 048,Indianapolis,FL,30987,Basic,Yes,Samsung,P40 Pro
+348683,Shannon Hamilton,59,1517 Taylor Center,Houston,IL,23017,Standard,No,Apple,Galaxy S21
+334677,Steven Townsend,51,9342 Micheal Plaza Suite 639,Dallas,NY,51277,Basic,No,Samsung,iPhone 13
+126790,Susan Bryant,47,716 Stacy Street,Phoenix,TX,61513,Standard,No,Huawei,Pixel 6
+743162,Tammy Torres,30,67040 Green Pine Apt. 342,New York,FL,92897,Basic,No,Huawei,Galaxy S21
+911721,Jessica Case,30,0232 David Coves Apt. 233,Houston,FL,17506,Standard,Yes,Huawei,iPhone 13
+548345,Colton Horton,35,21567 Ralph Crescent Suite 296,Chicago,CA,61268,Standard,Yes,Apple,OnePlus 9
+849074,Melissa Hughes,49,959 Robinson Pines Apt. 472,Austin,OH,11277,Standard,No,OnePlus,Pixel 6
+587462,Logan Hanson,49,6488 Bryce Wells,Dallas,OR,15332,Standard,No,Samsung,OnePlus 9
+639773,Benjamin Foster,52,41680 Frazier Mountain Suite 782,New York,OR,97076,Standard,Yes,Huawei,iPhone 13
+930914,Amanda Hall,56,5444 Porter Square,Cincinnati,AZ,99315,Standard,No,Samsung,OnePlus 9
+186188,Pam Miller,63,2619 Jessica Wall Apt. 381,San Diego,IL,65454,Standard,No,Apple,iPhone 13
+629036,Eric Haney,69,571 Stephanie Pine Apt. 571,Austin,TN,82138,Standard,Yes,OnePlus,iPhone 13
+842129,Joann Zamora,46,8629 Emma Shores Suite 522,San Francisco,MO,51123,Standard,No,Apple,OnePlus 9
+764795,Justin Zamora,66,210 Joshua Plaza Apt. 687,Houston,TN,16365,Basic,Yes,Samsung,iPhone 13
+890141,Amanda Barron,46,325 John Knoll,Charlotte,TX,60001,Premium,Yes,OnePlus,Galaxy S21
+748249,Lori Wilkerson,61,43707 Moon Manors,Washington,FL,37774,Standard,No,OnePlus,iPhone 13
+130355,Kayla Snyder,33,645 Ortiz Fork,Kansas City,CA,27325,Premium,Yes,Apple,P40 Pro
+811131,Brenda Mora,61,14367 Mahoney Field,Los Angeles,MA,27855,Standard,No,Huawei,iPhone 13
+551015,Linda Thomas,64,17570 Miller Crossroad Suite 971,Kansas City,CA,68223,Standard,Yes,Samsung,P40 Pro
+506332,Bradley Smith,27,68802 James Junction Suite 724,Phoenix,NV,23166,Basic,No,Google,iPhone 13
+256542,Tyler Martin,47,32259 Curtis Station Suite 806,Columbus,MO,98466,Basic,No,Google,iPhone 13
+273416,Alyssa Meza,42,711 Schmidt Mews,Cincinnati,OH,52044,Premium,No,Apple,OnePlus 9
+405062,Brittany Goodman,56,495 Sierra Springs Apt. 351,Atlanta,FL,29061,Basic,Yes,Samsung,Galaxy S21
+938656,Patricia Abbott,37,513 Tammy Squares Apt. 817,Dallas,TX,73785,Basic,Yes,Samsung,Galaxy S21
+663586,Matthew Hamilton,22,793 Schmidt Groves,San Diego,CA,67996,Premium,No,Apple,Pixel 6
+601708,Kathy Oliver,18,01960 George Shoals Apt. 545,Dallas,CO,48303,Basic,Yes,Samsung,OnePlus 9
+966651,John Holt,47,549 Alex Canyon,Boston,OH,96626,Standard,No,Huawei,OnePlus 9
+161629,Alexander Russo,66,76743 Rebecca Lane,Chicago,OH,28246,Premium,No,Apple,Galaxy S21
+428184,Vincent Smith,20,3071 Nancy Branch Suite 589,Detroit,TX,18181,Premium,Yes,Huawei,OnePlus 9
+592734,Laura Solomon,62,91568 Kevin Crossroad Apt. 134,Columbus,GA,40321,Standard,No,Samsung,Galaxy S21
+855195,James Reed,31,35314 Alexander Extensions Suite 035,Nashville,FL,11747,Basic,Yes,Apple,OnePlus 9
+390160,Barbara Morrison,47,743 Jose Curve,Cleveland,CA,51833,Premium,No,Samsung,iPhone 13
+648248,Matthew Frye,67,770 Lawrence Lane,Chicago,MI,16694,Premium,Yes,Apple,Galaxy S21
+920023,Clifford Young,21,61939 Paul Mountains,Detroit,IL,01558,Standard,No,Samsung,Galaxy S21
+313920,Pamela Martinez,35,665 Shelly Mount,San Diego,OH,02973,Standard,No,Huawei,P40 Pro
+989765,Calvin Butler,54,864 Williams Plaza,Los Angeles,MO,85322,Basic,Yes,Huawei,OnePlus 9
+342804,Donna Hardy,42,08027 William Junction,Minneapolis,OR,75193,Premium,No,Samsung,OnePlus 9
+476965,Todd Bray,65,8733 Smith Walk,Columbus,OH,43191,Basic,No,Apple,Galaxy S21
+560857,Angela Barker,18,9325 Morales Mountains,Los Angeles,WA,15407,Basic,Yes,Google,iPhone 13
+922827,Danielle Barry,63,033 Leon Row,San Diego,GA,05371,Standard,No,Huawei,iPhone 13
+604492,Kristen Mccullough,32,017 Jeremy Lodge Apt. 092,Washington,MO,76034,Premium,Yes,Huawei,iPhone 13
+753983,Lucas Booker,26,573 Bennett Mountains,Chicago,FL,20812,Premium,No,Google,OnePlus 9
+515916,Martin Weaver,32,5522 Lee Shore,Los Angeles,OH,87733,Premium,Yes,Samsung,P40 Pro
+921052,Veronica Marks,66,6967 Brenda Glens Apt. 035,Minneapolis,OR,99539,Standard,No,Apple,Galaxy S21
+858574,Rachel Thomas,41,410 Alex Freeway Apt. 742,Portland,NY,01200,Standard,No,Samsung,Pixel 6
+228148,Eric Williams,21,41281 Heather Lane Apt. 852,Miami,GA,54661,Standard,No,OnePlus,P40 Pro
+906991,Denise Stanton,29,097 Holmes Turnpike,Dallas,IL,76914,Standard,Yes,Huawei,Pixel 6
+586261,Angel Huynh,54,51219 Hayley Crossroad Apt. 235,Detroit,FL,48284,Standard,Yes,OnePlus,P40 Pro
+455540,Karen Escobar,54,810 Kim Knolls Apt. 918,Columbus,CA,75618,Premium,Yes,Huawei,iPhone 13
+292714,Edward Dixon,60,880 Sanders Trace,Cleveland,TX,11967,Basic,Yes,Huawei,OnePlus 9
+831899,Adrienne Bradford,23,655 Williams Expressway Suite 846,Houston,NV,11413,Premium,No,OnePlus,Pixel 6
+383876,Erik Hall,56,6182 Joseph Harbor Apt. 221,Phoenix,CO,92578,Basic,No,OnePlus,P40 Pro
+359747,Dr. Brian Riley,63,83783 Laura Lodge,Charlotte,MA,39494,Standard,Yes,Samsung,OnePlus 9
+715650,Alex Rodriguez,41,1030 Bradford Parkways,Nashville,OH,89695,Basic,Yes,OnePlus,Pixel 6
+523570,Nicole Davis,28,2698 Perry Station Apt. 904,Denver,TX,23907,Premium,Yes,Samsung,Galaxy S21
+375987,John Black,30,70809 Allen Brook,Orlando,FL,25733,Premium,No,Samsung,P40 Pro
+738353,Lindsay Bernard,51,2384 Carmen Turnpike Suite 628,Minneapolis,MN,66344,Basic,Yes,Samsung,Galaxy S21
+958158,Bruce Johnson,42,29950 Hunter Square Apt. 282,Seattle,WA,21284,Standard,Yes,Huawei,iPhone 13
+117640,Martin Phillips,24,423 Berry Flat Apt. 608,San Antonio,MI,09258,Standard,No,Huawei,Galaxy S21
+152528,Courtney Baker,69,845 Melissa Island Apt. 281,Portland,DC,70674,Premium,No,OnePlus,Galaxy S21
+924845,Alexis Sullivan,21,2361 Morales Heights,Portland,AZ,50036,Basic,Yes,Huawei,P40 Pro
+359214,Melissa Shaffer,25,9624 Brandi Ridge Suite 860,Orlando,OH,84410,Standard,No,OnePlus,iPhone 13
+939070,Rachel Salas,37,86911 David River Apt. 265,Minneapolis,TX,26753,Standard,Yes,Huawei,Galaxy S21
+601108,Brian Hopkins,46,40954 Walker Unions Apt. 005,Seattle,OR,49755,Premium,No,Apple,OnePlus 9
+734421,Joyce Perez,68,972 Green Dam,Columbus,CO,59797,Standard,Yes,Apple,Pixel 6
+468501,Danielle Davis,62,85258 Jessica Viaduct Apt. 697,Washington,OH,82724,Basic,Yes,OnePlus,Galaxy S21
+824226,Andrea Bowman,63,8266 Gray Island Suite 536,Seattle,IL,94589,Premium,Yes,Huawei,iPhone 13
+250159,Pamela Brown,27,95686 Timothy Hill Apt. 547,Columbus,NY,63095,Premium,Yes,Huawei,Galaxy S21
+272502,Melissa Cobb,60,7622 Cisneros View,Dallas,FL,60860,Basic,No,Samsung,Pixel 6
+255576,Amy Bryan,51,10116 Charles Fork Suite 977,Miami,TN,55829,Premium,No,Google,iPhone 13
+965291,Nicole Mcgee,43,1609 Jennifer Squares,Chicago,WA,68578,Standard,No,OnePlus,P40 Pro
+986089,Miranda Lopez,58,457 Julie Landing,Seattle,CA,92157,Standard,No,Google,iPhone 13
+111023,Catherine Bolton,66,164 Decker Springs Apt. 061,Portland,CA,47520,Basic,Yes,Google,P40 Pro
+645735,Jeremy Harris,20,350 Wu Trafficway,Charlotte,IL,33948,Standard,Yes,OnePlus,iPhone 13
+488043,Heather Roberson,23,848 Hannah Tunnel Suite 818,Minneapolis,TX,15950,Basic,No,Huawei,Pixel 6
+386103,Jessica Mason,22,036 Peterson Island,Kansas City,FL,80555,Basic,No,OnePlus,Pixel 6
+166203,Allison Little,22,00959 Ronald Squares Apt. 793,Las Vegas,MO,36605,Standard,No,Google,iPhone 13
+260775,Michael Carney,64,054 Amy Parkways,Dallas,CO,48989,Basic,No,Huawei,Galaxy S21
+109337,Haley Phillips,40,6448 Rivera Ways Apt. 551,Detroit,CA,06925,Standard,No,Apple,Pixel 6
+670715,Tyler Peterson,66,0605 Daniel Ford,Phoenix,CA,07103,Premium,Yes,OnePlus,P40 Pro
+614723,Sandra Fernandez,26,32670 Zimmerman Dam Apt. 575,Miami,TX,28812,Premium,Yes,OnePlus,P40 Pro
+423673,Rebecca Elliott,52,1037 Hernandez Inlet,Dallas,FL,95115,Basic,Yes,Huawei,OnePlus 9
+464167,Elijah Baker,37,11728 Megan Valleys Apt. 701,Tampa,MO,22449,Standard,No,Apple,P40 Pro
+446809,Sean Ayers,66,50388 Jenkins Roads Suite 047,Columbus,NY,23449,Standard,No,Apple,OnePlus 9
+730075,Matthew Santiago,59,423 Scott Branch,New York,TX,77400,Premium,No,Huawei,iPhone 13
+787281,Dillon Gallagher,52,56184 Diaz Spur,Orlando,MN,83445,Premium,No,Samsung,iPhone 13
+395451,Lisa Smith,67,074 Cynthia Motorway Suite 779,Portland,MN,60454,Standard,Yes,OnePlus,iPhone 13
+520571,Carlos Hall,35,8923 Anderson Walk,Atlanta,IL,33536,Basic,Yes,OnePlus,Galaxy S21
+227016,Brian Stone,34,00101 White Ramp Suite 397,Miami,TX,27702,Premium,No,Google,Galaxy S21
+891267,William Young,41,314 Pugh Summit,San Diego,OH,07574,Basic,Yes,Huawei,OnePlus 9
+644447,Ryan Martinez,20,77951 Christopher Plaza,Detroit,FL,69723,Basic,Yes,Google,P40 Pro
+597562,William Palmer,49,15402 Swanson Manor Suite 242,Boston,CO,56478,Premium,No,Google,P40 Pro
+802965,Judith Ball,52,716 Evans Drives,Dallas,CA,69546,Basic,No,Apple,iPhone 13
+483934,David Davis,55,818 Andrew Motorway,San Francisco,CO,34567,Basic,No,OnePlus,Pixel 6
+992048,Jordan Smith,30,6849 Lisa Mountain Suite 584,New York,GA,87854,Standard,No,Google,Galaxy S21
+965184,Dr. Daniel Brown MD,64,1306 Taylor Valleys,Atlanta,IL,60834,Basic,No,Apple,Galaxy S21
+417428,Tracy Mathews,42,5921 Mcdowell Rest Apt. 405,Seattle,FL,65968,Standard,No,Huawei,iPhone 13
+419187,Tami Salinas,26,650 Villanueva Plaza Suite 820,Columbus,GA,25494,Premium,Yes,Google,Galaxy S21
+790907,Alec Ramirez,21,9202 Charles Port Suite 106,San Diego,GA,15116,Premium,Yes,OnePlus,iPhone 13
+983439,Mitchell Lyons,31,661 Jonathan Forest Suite 043,Miami,IN,22260,Standard,No,Google,OnePlus 9
+182844,Jacob Cochran,54,580 Patrick Shoal,Los Angeles,FL,41506,Premium,Yes,Huawei,P40 Pro
+651820,Laura Schmidt,51,8716 Turner Terrace Apt. 720,Nashville,IN,62381,Basic,No,Google,Pixel 6
+265421,Eric Atkinson,28,7216 Guzman Square,Indianapolis,TX,87776,Basic,No,OnePlus,P40 Pro
+222402,Keith Morris,58,200 Williams Creek,Houston,OH,81191,Basic,No,Apple,P40 Pro
+218012,Jessica Combs,20,4236 Erik Hills,New York,DC,82050,Premium,No,OnePlus,OnePlus 9
+538661,Jeremiah Douglas,45,3128 Jeremy Islands Apt. 351,Minneapolis,CA,37131,Basic,Yes,Apple,Galaxy S21
+498929,Denise Rivera,46,118 Paula Mountain,Boston,TX,35231,Premium,No,Samsung,Pixel 6
+680466,Tony Crawford,26,01204 Curtis Shores,Charlotte,IL,25954,Basic,Yes,OnePlus,Galaxy S21
+673695,Lawrence Palmer,20,78072 Horn Burgs,Los Angeles,MO,44940,Standard,No,OnePlus,P40 Pro
+563556,Teresa Holland,42,1679 Joseph Shoals Suite 339,Austin,NC,05223,Premium,No,Huawei,iPhone 13
+675278,Tammy Bishop,51,026 Bullock Ports,Atlanta,CO,47596,Premium,No,Google,P40 Pro
+229473,Matthew Brooks,29,60656 Anderson Drives,Los Angeles,MA,30524,Basic,Yes,Apple,Galaxy S21
+578007,Alexis Pitts,59,45946 Stephen Trail,Cincinnati,NV,61152,Premium,No,Apple,P40 Pro
+944573,Dylan Turner,26,79841 Ashley Port,Orlando,NY,33265,Premium,No,Huawei,iPhone 13
+517009,Glen Frederick,32,31707 Guzman Track,Austin,CA,73144,Standard,No,Huawei,OnePlus 9
+418714,Darrell Bradshaw,57,79056 Dustin Center,New York,OH,02247,Standard,Yes,Google,Galaxy S21
+326156,Dustin Parker,42,62981 Kayla Overpass Apt. 547,Fort Worth,OH,23639,Basic,Yes,Google,P40 Pro
+268964,Jessica Schultz,22,179 Luis Locks Suite 306,Chicago,MN,91052,Standard,Yes,OnePlus,Galaxy S21
+625303,Katherine Hanna,28,405 Cabrera Trail Suite 424,Miami,OH,82946,Basic,No,Samsung,OnePlus 9
+161813,Mariah Proctor,51,6776 Stone Plains Suite 171,Portland,OH,02993,Basic,Yes,Google,P40 Pro
+127712,Sherry Erickson,41,535 Jones Passage Apt. 992,Minneapolis,CA,16663,Basic,No,Huawei,P40 Pro
+724785,Jonathan Booker,32,62358 Aaron Radial Apt. 243,Cleveland,FL,75411,Premium,Yes,Google,Galaxy S21
+867214,James Carrillo,55,882 Lewis Extensions,Houston,IN,14024,Standard,Yes,Apple,Galaxy S21
+212816,Melissa Bowers,25,312 Adams River,Boston,CA,45348,Basic,No,Samsung,iPhone 13
+228778,Nicole Gilbert,22,1886 Ramirez View,Minneapolis,IN,84583,Standard,Yes,OnePlus,OnePlus 9
+686580,Karla Andrews,65,07948 Stevenson Rapids,San Diego,TX,04776,Basic,No,Apple,iPhone 13
+385977,Stephen Hopkins,43,521 Christopher Mews Apt. 690,Chicago,GA,90360,Standard,No,Apple,P40 Pro
+235230,Jennifer Cannon,35,3123 Frazier Glen,Detroit,TX,30429,Standard,Yes,Samsung,Galaxy S21
+818040,Sheri Brooks,23,6991 Hall Overpass Suite 283,Fort Worth,OR,86708,Basic,No,OnePlus,P40 Pro
+906741,Thomas Henry,54,1578 Jones Flat,Denver,IL,40402,Premium,No,Huawei,P40 Pro
+369114,Justin Grant,65,482 Heidi Courts Suite 063,Detroit,NV,48173,Standard,Yes,OnePlus,Pixel 6
+434618,Donald Harris,30,7699 Reilly Springs,Kansas City,OR,23854,Premium,Yes,Google,Pixel 6
+932972,Rose Martinez,45,75193 Gregory Lake Apt. 737,Phoenix,IN,73539,Premium,No,Apple,P40 Pro
+251456,Heather Bailey,22,1575 Park Wells,Miami,OH,26808,Basic,Yes,Google,Galaxy S21
+904449,David Cole,30,27247 Randall Alley,San Antonio,FL,52288,Basic,No,Huawei,P40 Pro
+962312,Eric Thomas,34,754 Williamson Mountains Suite 537,Columbus,DC,62871,Basic,No,Google,Pixel 6
+205570,Elizabeth Walters,67,81000 Barbara Street,Denver,FL,22784,Standard,Yes,OnePlus,Galaxy S21
+370846,Robin Rose,57,3588 Christine Stream Apt. 644,Washington,TX,27605,Basic,Yes,Google,P40 Pro
+100404,Brandi Fischer,62,4745 Nicole Centers,San Antonio,FL,59449,Basic,Yes,Huawei,OnePlus 9
+803286,Christopher Moore MD,49,335 Jackson Well,San Diego,IN,06930,Standard,Yes,Huawei,OnePlus 9
+374907,Samantha Johnson,46,30631 Lopez Creek,Boston,OH,97853,Standard,No,Huawei,P40 Pro
+773744,Joseph Jordan,68,01201 Moore Trail,Charlotte,CA,73606,Basic,No,OnePlus,Galaxy S21
+815460,Kayla Williams,20,91613 Smith Haven,Chicago,MN,16247,Basic,Yes,Huawei,P40 Pro
+984574,Carmen Clark,57,0521 Holland Port,Portland,MI,10484,Basic,Yes,Apple,P40 Pro
+765220,Christian Price,51,49727 Crystal Island,Tampa,WA,78347,Basic,No,Huawei,Pixel 6
+335365,Mary Taylor,57,900 Willis Route Apt. 378,San Antonio,FL,29793,Premium,No,Google,OnePlus 9
+442786,Harold Mendoza,44,631 Park Stream Apt. 832,Portland,NV,12710,Premium,No,Google,Pixel 6
+150612,David Schwartz,30,53256 Gregory Expressway,Indianapolis,IN,90748,Basic,No,Google,Pixel 6
+910006,Jessica Brock,62,72243 Jared Estates,San Diego,NV,50697,Premium,Yes,OnePlus,P40 Pro
+909956,Ronald Russell,50,1198 Parker Island Suite 333,Chicago,IL,49776,Standard,No,Google,Pixel 6
+300244,Sydney Thompson,23,06384 Lisa Estate,Seattle,TX,28910,Premium,No,OnePlus,OnePlus 9
+897348,Ashley Alexander,41,82035 Joseph Corners Apt. 568,San Francisco,NV,80680,Premium,Yes,OnePlus,Pixel 6
+104809,Joseph Harvey,36,870 Powers Branch,Miami,TX,76236,Basic,No,Huawei,OnePlus 9
+263273,Pamela Mahoney,33,8932 Gonzales Street,Indianapolis,MO,15287,Premium,No,Apple,Pixel 6
+808690,Jonathan Morrison,57,703 Burgess Wells,Austin,FL,17218,Premium,Yes,Huawei,OnePlus 9
+244528,Lori Brown,45,17074 David Courts,Denver,NC,21908,Premium,Yes,Huawei,Pixel 6
+606964,Jessica Martin,50,18623 Katherine Tunnel,Atlanta,CA,53316,Premium,Yes,OnePlus,Pixel 6
+549613,John Gonzalez,65,56799 Timothy Drive Apt. 955,Chicago,IN,65459,Standard,No,OnePlus,Galaxy S21
+138765,Alan Davis,58,9164 Brown Radial,Los Angeles,TX,81253,Basic,No,Google,OnePlus 9
+931538,Willie Sparks,30,2067 Butler Fort Suite 724,Cincinnati,OH,93591,Basic,Yes,Google,OnePlus 9
+416076,Kelly Taylor,60,87053 Karla Inlet,Los Angeles,MO,47784,Standard,Yes,Huawei,OnePlus 9
+943523,Kayla Jacobs,62,7515 Gonzalez Trace Apt. 165,Chicago,MN,08986,Premium,No,Samsung,iPhone 13
+646237,Kelly Ashley,42,8842 Nguyen Ferry Apt. 697,Boston,FL,62494,Standard,Yes,Samsung,Pixel 6
+301152,James Thornton,59,2352 Michael Springs Suite 273,Indianapolis,MO,43542,Premium,Yes,Google,OnePlus 9
+399888,Shelia Burns,53,2936 Cole Throughway,Miami,NV,65874,Standard,Yes,Samsung,iPhone 13
+800903,John Lyons,44,535 James Bridge Suite 607,Boston,CO,79803,Basic,No,Google,Galaxy S21
+994751,Daisy Proctor,55,2476 Mills Rue Suite 236,San Antonio,FL,27020,Basic,No,OnePlus,OnePlus 9
+192193,Richard Smith,24,203 Wilson Passage,Orlando,IN,87061,Basic,No,Huawei,OnePlus 9
+136187,Bryan Young,22,92132 Jackson Views,Los Angeles,FL,25161,Premium,No,Apple,iPhone 13
+605950,Allison Preston,60,759 Nancy Station Apt. 368,Orlando,CA,83437,Premium,No,Huawei,Pixel 6
+238311,Dawn Owens,62,873 Lara Estates,Nashville,GA,76898,Standard,No,Google,Galaxy S21
+900921,Lauren Hurley,68,5544 Allen Haven,Detroit,TN,03719,Standard,Yes,Google,OnePlus 9
+608153,David Walker,48,559 Jason Fork,New York,TX,96111,Basic,No,Huawei,Pixel 6
+289089,Carol Barajas,40,1068 Ian Loop,Houston,TX,99935,Premium,No,Google,Galaxy S21
+686165,Sherry Burch,59,867 Chelsea Road,Indianapolis,DC,82433,Standard,Yes,Samsung,P40 Pro
+536341,Sarah Fields,27,979 Hernandez Plaza Suite 383,New York,OR,77851,Premium,No,Samsung,P40 Pro
+412066,Stephanie Hunt,49,3462 Nicole Mountains,Indianapolis,TX,66846,Premium,No,Google,Galaxy S21
+718362,Monica Meyer,60,5320 Brenda Summit,Seattle,NY,30369,Basic,Yes,Google,iPhone 13
+787409,Danielle Barrett,47,518 Allen Bypass Apt. 149,Detroit,FL,09564,Basic,Yes,Samsung,Galaxy S21
+661419,Nicole Stone,56,4476 Angela Ferry Suite 387,Indianapolis,FL,77912,Premium,Yes,Google,Galaxy S21
+740053,Michael Phillips,48,2230 Carr Circle Apt. 538,Nashville,FL,08574,Premium,No,Google,iPhone 13
+960395,Jerry Austin,35,80557 Wheeler Plains,Miami,IN,84413,Premium,Yes,Huawei,iPhone 13
+731172,Bonnie Armstrong,53,02312 Ryan Trace Suite 379,Chicago,TX,18335,Premium,No,Apple,Pixel 6
+225917,Sandra Donaldson,19,07946 Combs Rest Suite 728,Chicago,GA,83661,Basic,No,Samsung,Pixel 6
+910717,Melissa Manning PhD,31,30350 Cisneros Harbors,Austin,IL,60589,Standard,No,Huawei,iPhone 13
+399770,Daniel Ortiz,30,7386 Renee Light,San Diego,TX,15868,Basic,No,Apple,P40 Pro
+798168,Katherine Rodriguez,46,0903 Potts Mall,Orlando,OH,92206,Standard,Yes,Google,P40 Pro
+581680,Peggy Wolfe,29,14247 Courtney Lakes Suite 453,Charlotte,IN,91748,Premium,Yes,Google,Galaxy S21
+381342,Patrick Robinson,56,155 Sandra Circle,Atlanta,OR,04845,Standard,No,Huawei,OnePlus 9
+639542,Julia Fleming,19,7223 Michael Courts,Los Angeles,TX,85979,Basic,Yes,Google,Galaxy S21
+144238,James Stephenson,49,4357 Susan Loop Apt. 715,Dallas,TX,26368,Basic,No,OnePlus,Galaxy S21
+101252,Christopher Anderson,30,945 Bradley Islands Suite 500,Atlanta,OH,76945,Premium,No,Huawei,OnePlus 9
+926196,Jean Davis,63,22957 Kelsey Valleys,Los Angeles,TX,82167,Basic,No,Apple,iPhone 13
+964141,Erin Watson,44,0869 Thomas Cliffs,Houston,MO,31834,Premium,Yes,Huawei,P40 Pro
+585450,Patrick Poole,66,9597 Baker Course Apt. 550,Orlando,TX,18713,Basic,No,Samsung,Galaxy S21
+415826,Rhonda Simmons,58,361 Thompson Extensions,Denver,CA,61881,Basic,No,Huawei,OnePlus 9
+421638,Bruce Greene,34,87920 Briggs Crest,Houston,TX,07311,Premium,Yes,Google,Pixel 6
+705605,Jason Arellano,57,73602 Joseph Turnpike Suite 802,Charlotte,TN,82302,Standard,Yes,Google,Galaxy S21
+427359,Julie Boone,48,345 Davis Drive,Kansas City,IN,64321,Basic,Yes,OnePlus,P40 Pro
+702875,Andrew Henry,51,691 Nicholas Field,Columbus,MI,99940,Standard,Yes,OnePlus,iPhone 13
+106949,Danielle Hendrix,41,19446 Medina Trafficway Suite 106,Kansas City,TX,36019,Basic,No,OnePlus,Galaxy S21
+863185,Matthew Jones,62,3823 Gonzalez Ferry Apt. 834,Charlotte,FL,54634,Basic,Yes,Apple,Galaxy S21
+417537,Emily Fleming,52,492 Wong Forge,Indianapolis,MN,23416,Basic,No,OnePlus,OnePlus 9
+828913,Javier Nguyen,65,4589 Whitney Mill Suite 122,Miami,WA,73446,Basic,Yes,Apple,Pixel 6
+762301,Marco Ward,23,764 Jennifer Valley,Boston,TN,42960,Standard,Yes,OnePlus,Pixel 6
+650222,Caitlin Banks,36,1704 Hodge Port,Nashville,OR,76893,Standard,Yes,Apple,iPhone 13
+880722,Megan Arnold,47,1907 Linda Loaf Suite 600,Kansas City,DC,12470,Basic,Yes,Huawei,P40 Pro
+555102,Benjamin Ellis,24,2775 Jackson Fork Apt. 501,San Diego,WA,68937,Basic,Yes,Huawei,iPhone 13
+437889,Sarah Ellis,27,857 Theresa Burg Apt. 349,Nashville,OR,34760,Standard,Yes,Google,Galaxy S21
+576467,Mr. Gerald Matthews,58,7814 Hunter Mountain,Fort Worth,OH,20842,Premium,No,Apple,Galaxy S21
+456600,Carlos Wilkins,49,73721 Richardson Springs Suite 105,Portland,IL,74153,Premium,Yes,Samsung,Pixel 6
+415557,Jenny Hughes,51,18603 Keith Knolls,Los Angeles,TX,75036,Standard,Yes,Google,P40 Pro
+983671,Teresa Butler,45,09941 Tyler Well Suite 032,Kansas City,IN,95524,Basic,Yes,Huawei,OnePlus 9
+404462,Katherine Haley,32,768 Jackson Village Apt. 470,Minneapolis,MA,27890,Basic,Yes,Apple,P40 Pro
+350875,Rhonda Evans,47,6515 Frazier Vista,Las Vegas,GA,72633,Premium,No,OnePlus,Galaxy S21
+563389,Jason Anderson,54,950 Brandon Motorway Apt. 589,Las Vegas,GA,66396,Premium,Yes,Samsung,OnePlus 9
+170390,Taylor Cox,46,68992 White Stream Apt. 280,Phoenix,AZ,93376,Standard,Yes,Huawei,P40 Pro
+807689,Amanda Hunt,39,24289 Julie Crest Suite 239,Las Vegas,WA,93407,Premium,Yes,Google,P40 Pro
+353490,Jason Morales,21,5596 Ramirez Underpass,Los Angeles,FL,33735,Standard,Yes,Apple,OnePlus 9
